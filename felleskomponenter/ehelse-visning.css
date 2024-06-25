@@ -1,0 +1,477 @@
+<!--/*--><root><![CDATA[<!--*/-->  
+
+
+	.dummy { /* first css class is sometimes ignored, therefore need a dummy at first */
+	}
+
+	.clear {
+		clear: both;
+	}
+	[class^=eh-row-] [class^=eh-col-] {
+		min-width: 60px;
+		line-height: 20px; 
+		white-space: normal;
+		padding-left: 2px;
+		padding-right: 2px;
+		padding-bottom: 1002px;
+		margin-bottom: -1000px;
+	}
+	[class^=eh-row-] [class^=eh-col-] .eh-field,
+	[class^=eh-row-] [class^=eh-col-] .eh-label ,
+	[class^=eh-row-] [class^=eh-col-].eh-field,
+	[class^=eh-row-] [class^=eh-col-].eh-label {
+		vertical-align: text-top;
+		word-wrap: break-word;
+		padding-left: 2px;
+		padding-right: 2px;
+	}
+	.eh-row-4 .eh-col-1 {
+		width: 25%;
+	}
+	.eh-row-4 .eh-col-2 {
+		width: 50%;
+	}
+	.eh-row-4 .eh-col-3 {
+		width: 75%;
+	}
+	.eh-row-4 .eh-col-4 {
+		width: 100%;
+	}
+	.eh-row-5 .eh-col-1 {
+		width: 20%;
+	}
+	.eh-row-5 .eh-col-2 {
+		width: 40%;
+	}
+	.eh-row-5 .eh-col-3 {
+		width: 60%;
+	}
+	.eh-row-5 .eh-col-4 {
+		width: 80%;
+	}
+	.eh-row-5 .eh-col-5 {
+		width: 100%;
+	}
+	.eh-row-8 .eh-col-1 {
+		width: 11.7%;
+	}
+	.eh-row-8 .eh-col-1.cs {
+		width: 10.2%;
+	}
+	.eh-row-8 .eh-col-1-xs {
+		width: 6.5%;
+	}
+	.eh-row-8 .eh-col-1-md {
+		width: 9.5%;
+	}
+	.eh-row-8 .eh-col-2-xs {
+		width: 16.5%;
+	}
+	.eh-row-8 .eh-col-2 {
+		width: 23.5%;
+	}
+	.eh-row-8 .eh-col-3 {
+		width: 35.0%;
+	}
+	.eh-row-8 .eh-col-4 {
+		width: 47.4%;
+	}
+	.eh-row-8 .eh-col-5 {
+		width: 59.5%;
+	}
+	.eh-row-8 .eh-col-6 {
+		width: 71.7%;
+	}
+	.eh-row-8 .eh-col-7 {
+		width: 84.0%;
+	}
+	.eh-row-8 .eh-col-8 {
+		width: 96.4%;
+	}
+	.eh-row-4 [class^=eh-col-] .eh-label,
+	.eh-row-5 [class^=eh-col-] .eh-label {
+		padding-right: 2px;
+	}
+	.eh-row-4 [class^=eh-col-] .eh-field,
+	.eh-row-5 [class^=eh-col-] .eh-field {
+		padding-left: 2px;
+	}
+	.eh-strong {
+		font-weight: 600;
+		color: #25240a;
+	}
+	[class^=eh-row-] [class^=eh-col-].h3 {
+		font-size:1.2em;
+		background-color: #fff;
+		font-weight: bold;
+	}
+	[class^=eh-row-] [class^=eh-col-].h4.eh-label {
+		font-weight: 600;
+	}
+	[class^=eh-row-] [class^=eh-col-].h3.eh-label {
+		color: #000;
+	}
+	[class^=eh-row-] {
+		white-space: nowrap;
+		overflow: hidden; /* clear the float */
+		position: relative;
+	}
+
+	[class^=eh-row-] [class^=eh-col-] {
+		float: left;
+		margin-left: 2px;
+		margin-right: 2px;
+		word-wrap: break-word; /* IE fix : must set on parent instead of .eh-field */
+	}
+	[class^=eh-row-] [class^=eh-col-].eh-last-child  {
+		display: block;
+		width: auto;
+		float:none;
+		overflow: hidden;		
+	}
+	[class^=eh-row-] [class^=eh-col-]:last-child {
+		display: block;
+		width: auto;
+		float:none;
+		overflow: hidden;
+	}
+	[class^=eh-row-] [class^=eh-col-] .eh-label.xs {
+		display: none;
+	}
+	.No-line-doc .eh-row-8.sepline {
+		height: 1px;
+		min-height: 0;
+		margin: 1px 0;
+	}
+	.One-line-doc .eh-row-8.sepline,
+	.Document .eh-row-8.sepline	{
+		display: none;
+	}
+	.One-line-doc [class^=eh-row-] {
+		line-height: 22px;
+		border-top: 1px solid lightgrey;
+	}
+	.No-line-doc  h2,
+	.One-line-doc  h2 {
+		padding: 0.3em;
+	}
+	[class^=eh-col-].eh-label,
+	[class^=eh-col-] .eh-label {
+		font-size: 14px;
+		/* font-family: 'Montserrat', Verdana, Helvetica, sans-serif; */
+	}
+	[class^=eh-col-].eh-field,
+	[class^=eh-col-] .eh-field	{
+		font-size: 14px;
+	}
+	.No-line-doc [class^=eh-col-].eh-label,
+	.No-line-doc [class^=eh-col-] .eh-label,	
+	.One-line-doc [class^=eh-col-].eh-label,
+	.One-line-doc [class^=eh-col-] .eh-label	{
+		font-weight: bold;
+		/* color: #826b35; */
+	}
+	.Document [class^=eh-col-].eh-label, 
+	.Document [class^=eh-col-] .eh-label {
+		background-color: #CAE8EA;
+	}
+	.Document [class^=eh-col-].eh-label.h3 {
+		background-color: gray;
+		color: white;
+	}
+	.Document [class^=eh-col-].eh-label,
+	.Document [class^=eh-col-].eh-field,
+	.eh-row-8 [class^=eh-col-].eh-label,
+	.eh-row-8 [class^=eh-col-].eh-field {
+		display: block;
+	}
+	.eh-row-8 [class^=eh-col-] .eh-label,
+	.eh-row-8 [class^=eh-col-] .eh-field {
+		display: block;
+		padding-bottom: 1002px;
+		margin-bottom: -1000px;
+	}
+	.Document .eh-row-4 [class^=eh-col-] .eh-label,
+	.Document .eh-row-5 [class^=eh-col-] .eh-label,
+	.Document .eh-row-4 [class^=eh-col-] .eh-field,
+	.Document  .eh-row-5 [class^=eh-col-] .eh-field {
+		display: block;
+		padding-bottom: 0;
+		margin-bottom: 0;
+	}
+	.Document [class^=eh-col-] {
+		background-color: white;
+		margin-top: 2px;
+	}
+	.Document .eh-row-4 [class^=eh-col-],
+	.Document .eh-row-5 [class^=eh-col-]	{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.Document [class^=eh-col-].DocRow {
+		border-top: 2px solid #eeeeee;
+		margin-top: 0;
+	}
+	.Document [class^=eh-row-]:last-child {
+		margin-bottom: 4px;
+	}
+	.Document [class^=eh-row-].eh-last-child {
+		margin-bottom: 4px;
+	}
+	.Document .summary [class^=eh-row-]:last-child {
+		margin-bottom: 0;
+	}
+	.Document .summary [class^=eh-row-].eh-last-child {
+		margin-bottom: 0;
+	}
+	.Document [class^=eh-section] {
+		border: 1px solid black;
+		background-color: #eeeeee;
+	}
+	.Document .summary [class^=eh-section] {
+		border: none;
+	}
+	.Document .summary .eh-label {
+		background-color: inherit;
+	}
+	.Document [class^=eh-row-] .eh-bottom {
+		position: absolute;
+		bottom: 0;
+		height: 2px;
+		background-color: white;
+	}
+	.VisSkjul {
+		float: right; 
+		margin-right: 5em; 
+		position: relative; 
+		bottom: 24px;
+		height: 0;
+	}
+	.Document .VisSkjul {
+		bottom: 30px;
+		color: #fbfdff;
+	}
+	@media screen {
+		input:not(:checked) + [class^=eh-section] {
+			display: none;
+		}
+		.No-line-doc  h2,
+		.One-line-doc  h2 {
+			/* background-color: #e6e6e1; */
+		}
+		.Document .eh-row-8.striped {
+			background-color: #f3f3f3;
+		}
+		.eh-row-8 [class^=eh-col-].striped {
+			background-color: #f3f3f3;
+		}
+		.Document .summary [class^=eh-section],
+		.Document .summary [class^=eh-section] [class^=eh-col-] {
+			background-color: #ecece7;
+		}
+		.No-line-doc .summary [class^=eh-section],
+		.One-line-doc .summary [class^=eh-section] {
+			background-color: #e3e3e3;
+		}
+	}
+	@media print {
+		.VisSkjul {
+			display: none;
+		}
+		.Document .summary [class^=eh-section],
+		.Document .summary [class^=eh-section] [class^=eh-col-] {
+			background-color: #fff;
+		}
+		.Document [class^=eh-col-].eh-label.h3 {
+			background-color: #fff;
+			color: #000;
+		}
+	}
+	[class^=eh-row-].blk-cmt [class^=eh-col-] .eh-label {
+		display: inline-block;
+	}
+	[class^=eh-row-].blk-cmt [class^=eh-col-] .eh-field {
+		display: inline;
+	}
+	[class^=eh-row-].blk-cmt [class^=eh-col-].eh-last-child .eh-label {
+		width: 25%;
+	}
+	[class^=eh-row-].blk-cmt [class^=eh-col-]:last-child .eh-label {
+		width: 25%;
+	}
+	.Document [class^=eh-row-].blk-cmt [class^=eh-col-]:last-child .eh-label {
+		padding-bottom: 200px;
+		margin-bottom: -198px;
+		margin-top: -2px;		
+	}
+	.Document [class^=eh-row-].blk-cmt [class^=eh-col-].eh-last-child .eh-label {
+		padding-bottom: 200px;
+		margin-bottom: -198px;
+		margin-top: -2px;
+	}
+	[class^=eh-row-].blk-cmt [class^=eh-col-]:last-child .eh-field {
+		display: inline-block;
+		width: 69%;
+	}
+	[class^=eh-row-].blk-cmt [class^=eh-col-].eh-last-child .eh-field  {
+		display: inline-block;
+		width: 69%;
+	}
+	[class^=eh-row-] [class^=eh-col-] .eh-field.blk {
+		display: block;
+	}
+	@media screen and (max-width: 767px) {
+		.Document [class$=eh-section] .eh-row-4 [class^=eh-col-] .eh-label,
+		.Document [class$=eh-section] .eh-row-5 [class^=eh-col-] .eh-label,
+		.Document [class$=eh-section] .eh-row-4 [class^=eh-col-] .eh-field,
+		.Document  [class$=eh-section] .eh-row-5 [class^=eh-col-] .eh-field {
+			display: inline-block;
+		}
+		[class^=eh-row-].blk-cmt [class^=eh-col-] .eh-label {
+			display: inline;
+		}
+		[class^=eh-row-] [class^=eh-col-] .eh-field.blk {
+			display: inline;
+		}
+		.eh-row-8 [class^=eh-col-] .eh-label,
+		.eh-row-8 [class^=eh-col-] .eh-field {
+			display: inline;
+			padding-bottom: 0;
+			margin-bottom: 0;
+		}
+		[class$=eh-section] [class^=eh-row-] [class^=eh-col-] {
+			width: auto;
+			float: none;
+			padding-bottom: 0;
+			margin-bottom: 0;
+		}
+		[class$=eh-section] [class^=eh-row-] [class^=eh-col-] .eh-field,
+		[class^=eh-row-] [class^=eh-col-] .eh-label {
+			padding-bottom: 0;
+			margin-bottom: 0;
+		}
+		[class$=eh-section] [class^=eh-row-] [class^=eh-col-].md,
+		[class$=eh-section] [class^=eh-row-].md {
+			display: none;
+		}
+		[class$=eh-section] .eh-row-8 [class^=eh-col-] .eh-label.xs,
+		[class$=eh-section] .eh-row-4 [class^=eh-col-] .eh-label,
+		[class$=eh-section] .eh-row-5 [class^=eh-col-] .eh-label {
+			display: inline-block;
+			width: 25%;
+			vertical-align: top;
+			padding-right: 5px;
+		}
+		[class$=eh-section] .eh-row-8 [class^=eh-col-].eh-field  .eh-text,
+		[class$=eh-section] .eh-row-4 [class^=eh-col-] .eh-field,
+		[class$=eh-section] .eh-row-5 [class^=eh-col-] .eh-field {
+			display: inline-block;
+			width: 69%;
+		}
+		[class$=eh-section] [class^=eh-col-] .eh-label,
+		[class$=eh-section] [class^=eh-col-] .eh-field {
+			padding-left: 2px;
+			padding-right: 2px;
+		}
+		[class$=eh-section] [class^=eh-row-] [class^=eh-col-] .eh-field,
+		[class$=eh-section] [class^=eh-row-] [class^=eh-col-].eh-field .eh-text {
+			padding-left: 5px;
+		}
+		.Document [class$=eh-section] .eh-row-8 [class^=eh-col-].eh-field:nth-child(2) .eh-label.xs {
+			margin-top: 2px;
+		}
+		[class$=eh-section] .eh-row-8:first-child {
+			margin-top: 2px;
+			border-top: 1px solid lightgrey;
+		}
+		[class$=eh-section] .eh-row-8:not(:last-child) {
+			border-bottom: 1px solid lightgrey;
+		}
+		[class$=eh-section] .eh-row-8.DocRow {
+			border-bottom: none;
+		}
+		[class$=eh-section] .eh-row-8 [class^=eh-col-].DocRow {
+			display: none;
+		}
+	}
+	.eh-section.xs [class^=eh-row-] [class^=eh-col-] {
+		width: auto;
+		float: none;
+		padding-bottom: 0;
+		margin-bottom: 0;
+	}
+	.eh-section.xs [class^=eh-row-] [class^=eh-col-] .eh-field,
+	.eh-section.xs [class^=eh-row-] [class^=eh-col-] .eh-label {
+		padding-bottom: 0;
+		margin-bottom: 0;
+	}
+	.eh-section.xs [class^=eh-row-] [class^=eh-col-].md {
+		display: none;
+	}
+	.eh-section.xs .eh-row-8 [class^=eh-col-] .eh-label.xs {
+		vertical-align: top;
+	}
+	.eh-section.xs [class^=eh-col-] .eh-label.xs {
+		display: inline-block;
+		vertical-align: initial;
+	}
+	.eh-section.xs [class^=eh-col-].eh-field .xs {
+		display: inline-block;
+	}
+	.eh-section.xs [class^=eh-col-] .eh-label,
+	.eh-section.xs [class^=eh-col-] .eh-field {
+		padding-left: 2px;
+		padding-right: 2px;
+	}
+	.Document .eh-section.xs .eh-row-4 [class^=eh-col-] .eh-label,
+	.Document .eh-section.xs .eh-row-5 [class^=eh-col-] .eh-label,
+	.Document .eh-section.xs .eh-row-4 [class^=eh-col-] .eh-field,
+	.Document .eh-section.xs .eh-row-5 [class^=eh-col-] .eh-field {
+		display: inline-block;
+	}
+	.Document .eh-section.xs .eh-row-8 [class^=eh-col-] .eh-label.hd {
+		display: block;
+		background-color: #CAE8EA;
+	}
+	.eh-section.xs [class^=eh-row-] [class^=eh-col-] .eh-label {
+		padding-right: 5px;
+		width: 25%;
+		display: inline-block;
+	}
+	.eh-section.xs .eh-row-8 [class^=eh-col-].eh-field  .eh-text,
+	.eh-section.xs .eh-row-4 [class^=eh-col-] .eh-field,
+	.eh-section.xs .eh-row-5 [class^=eh-col-] .eh-field {
+			display: inline-block;
+			width: 69%;
+	}
+	.eh-section.xs [class^=eh-row-] [class^=eh-col-] .eh-field,
+	.eh-section.xs [class^=eh-row-] [class^=eh-col-].eh-field .eh-text {
+		padding-left: 5px;
+	}
+	.Document .eh-section.xs .eh-row-8 [class^=eh-col-].eh-field:nth-child(2) .eh-label.xs {
+		margin-top: 2px;
+	}
+	.Document .eh-section.xs .eh-row-8:not(:first-child) {
+		border-bottom: 1px solid grey;
+		overflow: visible;
+	}
+	.eh-section.xs .eh-row-8:not(:first-child) {
+		border-bottom: 1px solid lightgrey;
+	}
+	.Document .eh-section.xs .eh-row-8.DocRow,
+	.eh-section.xs .eh-row-8.DocRow {
+		border-bottom: none;
+	}
+	.eh-section.xs .eh-row-8 [class^=eh-col-].DocRow {
+		display: none;
+	}
+
+	@media print {
+		[class^=eh-row-] [class^=eh-col-] {
+			padding-bottom: 2px;
+			margin-bottom: 0;
+		}
+	}
+
+
+<!--/*-->]]></root><!--*/--> 

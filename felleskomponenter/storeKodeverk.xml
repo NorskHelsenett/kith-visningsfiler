@@ -1,0 +1,2014 @@
+﻿<list>
+	<data code="3402" key="0301" value="Oslo" />
+	<data code="3402" key="1101" value="Eigersund" />
+	<data code="3402" key="1103" value="Stavanger" />
+	<data code="3402" key="1106" value="Haugesund" />
+	<data code="3402" key="1108" value="Sandnes" />
+	<data code="3402" key="1111" value="Sokndal" />
+	<data code="3402" key="1112" value="Lund" />
+	<data code="3402" key="1114" value="Bjerkreim" />
+	<data code="3402" key="1119" value="Hå" />
+	<data code="3402" key="1120" value="Klepp" />
+	<data code="3402" key="1121" value="Time" />
+	<data code="3402" key="1122" value="Gjesdal" />
+	<data code="3402" key="1124" value="Sola" />
+	<data code="3402" key="1127" value="Randaberg" />
+	<data code="3402" key="1130" value="Strand" />
+	<data code="3402" key="1133" value="Hjelmeland" />
+	<data code="3402" key="1134" value="Suldal" />
+	<data code="3402" key="1135" value="Sauda" />
+	<data code="3402" key="1144" value="Kvitsøy" />
+	<data code="3402" key="1145" value="Bokn" />
+	<data code="3402" key="1146" value="Tysvær" />
+	<data code="3402" key="1149" value="Karmøy" />
+	<data code="3402" key="1151" value="Utsira" />
+	<data code="3402" key="1160" value="Vindafjord" />
+	<data code="3402" key="1505" value="Kristiansund" />
+	<data code="3402" key="1506" value="Molde" />
+	<data code="3402" key="1508" value="Ålesund" />
+	<data code="3402" key="1511" value="Vanylven" />
+	<data code="3402" key="1514" value="Sande" />
+	<data code="3402" key="1515" value="Herøy (Møre og Romsdal)" />
+	<data code="3402" key="1516" value="Ulstein" />
+	<data code="3402" key="1517" value="Hareid" />
+	<data code="3402" key="1520" value="Ørsta" />
+	<data code="3402" key="1525" value="Stranda" />
+	<data code="3402" key="1528" value="Sykkylven" />
+	<data code="3402" key="1531" value="Sula" />
+	<data code="3402" key="1532" value="Giske" />
+	<data code="3402" key="1535" value="Vestnes" />
+	<data code="3402" key="1539" value="Rauma" />
+	<data code="3402" key="1547" value="Aukra" />
+	<data code="3402" key="1554" value="Averøy" />
+	<data code="3402" key="1557" value="Gjemnes" />
+	<data code="3402" key="1560" value="Tingvoll" />
+	<data code="3402" key="1563" value="Sunndal" />
+	<data code="3402" key="1566" value="Surnadal" />
+	<data code="3402" key="1573" value="Smøla" />
+	<data code="3402" key="1576" value="Aure" />
+	<data code="3402" key="1577" value="Volda" />
+	<data code="3402" key="1578" value="Fjord" />
+	<data code="3402" key="1579" value="Hustadvika" />
+	<data code="3402" key="1580" value="Haram" />
+	<data code="3402" key="1804" value="Bodø" />
+	<data code="3402" key="1806" value="Narvik" />
+	<data code="3402" key="1811" value="Bindal" />
+	<data code="3402" key="1812" value="Sømna" />
+	<data code="3402" key="1813" value="Brønnøy" />
+	<data code="3402" key="1815" value="Vega" />
+	<data code="3402" key="1816" value="Vevelstad" />
+	<data code="3402" key="1818" value="Herøy (Nordland)" />
+	<data code="3402" key="1820" value="Alstahaug" />
+	<data code="3402" key="1822" value="Leirfjord" />
+	<data code="3402" key="1824" value="Vefsn" />
+	<data code="3402" key="1825" value="Grane" />
+	<data code="3402" key="1826" value="Aarborte - Hattfjelldal" />
+	<data code="3402" key="1827" value="Dønna" />
+	<data code="3402" key="1828" value="Nesna" />
+	<data code="3402" key="1832" value="Hemnes" />
+	<data code="3402" key="1833" value="Rana - Raane" />
+	<data code="3402" key="1834" value="Lurøy" />
+	<data code="3402" key="1835" value="Træna" />
+	<data code="3402" key="1836" value="Rødøy" />
+	<data code="3402" key="1837" value="Meløy" />
+	<data code="3402" key="1838" value="Gildeskål" />
+	<data code="3402" key="1839" value="Beiarn" />
+	<data code="3402" key="1840" value="Saltdal" />
+	<data code="3402" key="1841" value="Fauske - Fuossko" />
+	<data code="3402" key="1845" value="Sørfold - Fuolldá" />
+	<data code="3402" key="1848" value="Steigen" />
+	<data code="3402" key="1851" value="Lødingen" />
+	<data code="3402" key="1853" value="Evenes - Evenášši" />
+	<data code="3402" key="1856" value="Røst" />
+	<data code="3402" key="1857" value="Værøy" />
+	<data code="3402" key="1859" value="Flakstad" />
+	<data code="3402" key="1860" value="Vestvågøy" />
+	<data code="3402" key="1865" value="Vågan" />
+	<data code="3402" key="1866" value="Hadsel" />
+	<data code="3402" key="1867" value="Bø" />
+	<data code="3402" key="1868" value="Øksnes" />
+	<data code="3402" key="1870" value="Sortland - Suortá" />
+	<data code="3402" key="1871" value="Andøy" />
+	<data code="3402" key="1874" value="Moskenes" />
+	<data code="3402" key="1875" value="Hábmer - Hamarøy" />
+	<data code="3402" key="2100" value="Svalbard" />
+	<data code="3402" key="2101" value="Colesbukta arealplanområde" />
+	<data code="3402" key="2102" value="Pyramiden arealplanområde" />
+	<data code="3402" key="2103" value="Van Mijenfjorden" />
+	<data code="3402" key="2104" value="Nordenskiöld Land nasjonalpark" />
+	<data code="3402" key="2105" value="Isfjorden" />
+	<data code="3402" key="2106" value="Sassen-Bünsow Land nasjonalpark" />
+	<data code="3402" key="2107" value="Nordre Isfjorden nasjonalpark" />
+	<data code="3402" key="2108" value="Kongsfjorden" />
+	<data code="3402" key="2109" value="Forlandet nasjonalpark" />
+	<data code="3402" key="2110" value="Wijdefjorden" />
+	<data code="3402" key="2112" value="Ny-Ålesund arealplanområde" />
+	<data code="3402" key="2113" value="Barentsburg arealplanområde" />
+	<data code="3402" key="2114" value="Sør-Spitsbergen nasjonalpark" />
+	<data code="3402" key="2115" value="Sveagruva arealplanområde" />
+	<data code="3402" key="2116" value="Indre Wijdefjorden nasjonalpark" />
+	<data code="3402" key="2117" value="Nordvest-Spitsbergen nasjonalpark" />
+	<data code="3402" key="2118" value="Nordaust-Svalbard naturreservat" />
+	<data code="3402" key="2119" value="Søraust-Svalbard naturreservat" />
+	<data code="3402" key="2211" value="Jan Mayen" />
+	<data code="3402" key="2311" value="Sokkelen sør for 62 grader N" />
+	<data code="3402" key="2321" value="Sokkelen nord for 62 grader N" />
+	<data code="3402" key="2399" value="Sokkelen, uspesifisert" />
+	<data code="3402" key="2411" value="Luftrom under og lik 1000 m.o.h." />
+	<data code="3402" key="2412" value="Luftrom over 1000 m.o.h." />
+	<data code="3402" key="2499" value="Luftrom uspesifisert" />
+	<data code="3402" key="2511" value="Norske ambassader i utlandet" />
+	<data code="3402" key="2599" value="Utlandet, uspesifisert" />
+	<data code="3402" key="2611" value="Havområder innenfor sokkelen" />
+	<data code="3402" key="2612" value="Havområder utenfor sokkelen" />
+	<data code="3402" key="2699" value="Havområder, uspesifisert" />
+	<data code="3402" key="2799" value="Norske biland (Bouvetøya, Peter I Øy og Dronning Maud Land)" />
+	<data code="3402" key="3101" value="Halden" />
+	<data code="3402" key="3103" value="Moss" />
+	<data code="3402" key="3105" value="Sarpsborg" />
+	<data code="3402" key="3107" value="Fredrikstad" />
+	<data code="3402" key="3110" value="Hvaler" />
+	<data code="3402" key="3112" value="Råde" />
+	<data code="3402" key="3114" value="Våler (Østfold)" />
+	<data code="3402" key="3116" value="Skiptvet" />
+	<data code="3402" key="3118" value="Indre Østfold" />
+	<data code="3402" key="3120" value="Rakkestad" />
+	<data code="3402" key="3122" value="Marker" />
+	<data code="3402" key="3124" value="Aremark" />
+	<data code="3402" key="3201" value="Bærum" />
+	<data code="3402" key="3203" value="Asker" />
+	<data code="3402" key="3205" value="Lillestrøm" />
+	<data code="3402" key="3207" value="Nordre Follo" />
+	<data code="3402" key="3209" value="Ullensaker" />
+	<data code="3402" key="3212" value="Nesodden" />
+	<data code="3402" key="3214" value="Frogn" />
+	<data code="3402" key="3216" value="Vestby" />
+	<data code="3402" key="3218" value="Ås" />
+	<data code="3402" key="3220" value="Enebakk" />
+	<data code="3402" key="3222" value="Lørenskog" />
+	<data code="3402" key="3224" value="Rælingen" />
+	<data code="3402" key="3226" value="Aurskog-Høland" />
+	<data code="3402" key="3228" value="Nes" />
+	<data code="3402" key="3230" value="Gjerdrum" />
+	<data code="3402" key="3232" value="Nittedal" />
+	<data code="3402" key="3234" value="Lunner" />
+	<data code="3402" key="3236" value="Jevnaker" />
+	<data code="3402" key="3238" value="Nannestad" />
+	<data code="3402" key="3240" value="Eidsvoll" />
+	<data code="3402" key="3242" value="Hurdal" />
+	<data code="3402" key="3301" value="Drammen" />
+	<data code="3402" key="3303" value="Kongsberg" />
+	<data code="3402" key="3305" value="Ringerike" />
+	<data code="3402" key="3310" value="Hole" />
+	<data code="3402" key="3312" value="Lier" />
+	<data code="3402" key="3314" value="Øvre Eiker" />
+	<data code="3402" key="3316" value="Modum" />
+	<data code="3402" key="3318" value="Krødsherad" />
+	<data code="3402" key="3320" value="Flå" />
+	<data code="3402" key="3322" value="Nesbyen" />
+	<data code="3402" key="3324" value="Gol" />
+	<data code="3402" key="3326" value="Hemsedal" />
+	<data code="3402" key="3328" value="Ål" />
+	<data code="3402" key="3330" value="Hol" />
+	<data code="3402" key="3332" value="Sigdal" />
+	<data code="3402" key="3334" value="Flesberg" />
+	<data code="3402" key="3336" value="Rollag" />
+	<data code="3402" key="3338" value="Nore og Uvdal" />
+	<data code="3402" key="3401" value="Kongsvinger" />
+	<data code="3402" key="3403" value="Hamar" />
+	<data code="3402" key="3405" value="Lillehammer" />
+	<data code="3402" key="3407" value="Gjøvik" />
+	<data code="3402" key="3411" value="Ringsaker" />
+	<data code="3402" key="3412" value="Løten" />
+	<data code="3402" key="3413" value="Stange" />
+	<data code="3402" key="3414" value="Nord-Odal" />
+	<data code="3402" key="3415" value="Sør-Odal" />
+	<data code="3402" key="3416" value="Eidskog" />
+	<data code="3402" key="3417" value="Grue" />
+	<data code="3402" key="3418" value="Åsnes" />
+	<data code="3402" key="3419" value="Våler (Innlandet)" />
+	<data code="3402" key="3420" value="Elverum" />
+	<data code="3402" key="3421" value="Trysil" />
+	<data code="3402" key="3422" value="Åmot" />
+	<data code="3402" key="3423" value="Stor-Elvdal" />
+	<data code="3402" key="3424" value="Rendalen" />
+	<data code="3402" key="3425" value="Engerdal" />
+	<data code="3402" key="3426" value="Tolga" />
+	<data code="3402" key="3427" value="Tynset" />
+	<data code="3402" key="3428" value="Alvdal" />
+	<data code="3402" key="3429" value="Folldal" />
+	<data code="3402" key="3430" value="Os" />
+	<data code="3402" key="3431" value="Dovre" />
+	<data code="3402" key="3432" value="Lesja" />
+	<data code="3402" key="3433" value="Skjåk" />
+	<data code="3402" key="3434" value="Lom" />
+	<data code="3402" key="3435" value="Vågå" />
+	<data code="3402" key="3436" value="Nord-Fron" />
+	<data code="3402" key="3437" value="Sel" />
+	<data code="3402" key="3438" value="Sør-Fron" />
+	<data code="3402" key="3439" value="Ringebu" />
+	<data code="3402" key="3440" value="Øyer" />
+	<data code="3402" key="3441" value="Gausdal" />
+	<data code="3402" key="3442" value="Østre Toten" />
+	<data code="3402" key="3443" value="Vestre Toten" />
+	<data code="3402" key="3446" value="Gran" />
+	<data code="3402" key="3447" value="Søndre Land" />
+	<data code="3402" key="3448" value="Nordre Land" />
+	<data code="3402" key="3449" value="Sør-Aurdal" />
+	<data code="3402" key="3450" value="Etnedal" />
+	<data code="3402" key="3451" value="Nord-Aurdal" />
+	<data code="3402" key="3452" value="Vestre Slidre" />
+	<data code="3402" key="3453" value="Øystre Slidre" />
+	<data code="3402" key="3454" value="Vang" />
+	<data code="3402" key="3901" value="Horten" />
+	<data code="3402" key="3903" value="Holmestrand" />
+	<data code="3402" key="3905" value="Tønsberg" />
+	<data code="3402" key="3907" value="Sandefjord" />
+	<data code="3402" key="3909" value="Larvik" />
+	<data code="3402" key="3911" value="Færder" />
+	<data code="3402" key="4001" value="Porsgrunn" />
+	<data code="3402" key="4003" value="Skien" />
+	<data code="3402" key="4005" value="Notodden" />
+	<data code="3402" key="4010" value="Siljan" />
+	<data code="3402" key="4012" value="Bamble" />
+	<data code="3402" key="4014" value="Kragerø" />
+	<data code="3402" key="4016" value="Drangedal" />
+	<data code="3402" key="4018" value="Nome" />
+	<data code="3402" key="4020" value="Midt-Telemark" />
+	<data code="3402" key="4022" value="Seljord" />
+	<data code="3402" key="4024" value="Hjartdal" />
+	<data code="3402" key="4026" value="Tinn" />
+	<data code="3402" key="4028" value="Kviteseid" />
+	<data code="3402" key="4030" value="Nissedal" />
+	<data code="3402" key="4032" value="Fyresdal" />
+	<data code="3402" key="4034" value="Tokke" />
+	<data code="3402" key="4036" value="Vinje" />
+	<data code="3402" key="4201" value="Risør" />
+	<data code="3402" key="4202" value="Grimstad" />
+	<data code="3402" key="4203" value="Arendal" />
+	<data code="3402" key="4204" value="Kristiansand" />
+	<data code="3402" key="4205" value="Lindesnes" />
+	<data code="3402" key="4206" value="Farsund" />
+	<data code="3402" key="4207" value="Flekkefjord" />
+	<data code="3402" key="4211" value="Gjerstad" />
+	<data code="3402" key="4212" value="Vegårshei" />
+	<data code="3402" key="4213" value="Tvedestrand" />
+	<data code="3402" key="4214" value="Froland" />
+	<data code="3402" key="4215" value="Lillesand" />
+	<data code="3402" key="4216" value="Birkenes" />
+	<data code="3402" key="4217" value="Åmli" />
+	<data code="3402" key="4218" value="Iveland" />
+	<data code="3402" key="4219" value="Evje og Hornnes" />
+	<data code="3402" key="4220" value="Bygland" />
+	<data code="3402" key="4221" value="Valle" />
+	<data code="3402" key="4222" value="Bykle" />
+	<data code="3402" key="4223" value="Vennesla" />
+	<data code="3402" key="4224" value="Åseral" />
+	<data code="3402" key="4225" value="Lyngdal" />
+	<data code="3402" key="4226" value="Hægebostad" />
+	<data code="3402" key="4227" value="Kvinesdal" />
+	<data code="3402" key="4228" value="Sirdal" />
+	<data code="3402" key="4601" value="Bergen" />
+	<data code="3402" key="4602" value="Kinn" />
+	<data code="3402" key="4611" value="Etne" />
+	<data code="3402" key="4612" value="Sveio" />
+	<data code="3402" key="4613" value="Bømlo" />
+	<data code="3402" key="4614" value="Stord" />
+	<data code="3402" key="4615" value="Fitjar" />
+	<data code="3402" key="4616" value="Tysnes" />
+	<data code="3402" key="4617" value="Kvinnherad" />
+	<data code="3402" key="4618" value="Ullensvang" />
+	<data code="3402" key="4619" value="Eidfjord" />
+	<data code="3402" key="4620" value="Ulvik" />
+	<data code="3402" key="4621" value="Voss" />
+	<data code="3402" key="4622" value="Kvam" />
+	<data code="3402" key="4623" value="Samnanger" />
+	<data code="3402" key="4624" value="Bjørnafjorden" />
+	<data code="3402" key="4625" value="Austevoll" />
+	<data code="3402" key="4626" value="Øygarden" />
+	<data code="3402" key="4627" value="Askøy" />
+	<data code="3402" key="4628" value="Vaksdal" />
+	<data code="3402" key="4629" value="Modalen" />
+	<data code="3402" key="4630" value="Osterøy" />
+	<data code="3402" key="4631" value="Alver" />
+	<data code="3402" key="4632" value="Austrheim" />
+	<data code="3402" key="4633" value="Fedje" />
+	<data code="3402" key="4634" value="Masfjorden" />
+	<data code="3402" key="4635" value="Gulen" />
+	<data code="3402" key="4636" value="Solund" />
+	<data code="3402" key="4637" value="Hyllestad" />
+	<data code="3402" key="4638" value="Høyanger" />
+	<data code="3402" key="4639" value="Vik" />
+	<data code="3402" key="4640" value="Sogndal" />
+	<data code="3402" key="4641" value="Aurland" />
+	<data code="3402" key="4642" value="Lærdal" />
+	<data code="3402" key="4643" value="Årdal" />
+	<data code="3402" key="4644" value="Luster" />
+	<data code="3402" key="4645" value="Askvoll" />
+	<data code="3402" key="4646" value="Fjaler" />
+	<data code="3402" key="4647" value="Sunnfjord" />
+	<data code="3402" key="4648" value="Bremanger" />
+	<data code="3402" key="4649" value="Stad" />
+	<data code="3402" key="4650" value="Gloppen" />
+	<data code="3402" key="4651" value="Stryn" />
+	<data code="3402" key="5001" value="Trondheim - Tråante" />
+	<data code="3402" key="5006" value="Steinkjer" />
+	<data code="3402" key="5007" value="Namsos - Nåavmesjenjaelmie" />
+	<data code="3402" key="5014" value="Frøya" />
+	<data code="3402" key="5020" value="Osen" />
+	<data code="3402" key="5021" value="Oppdal" />
+	<data code="3402" key="5022" value="Rennebu" />
+	<data code="3402" key="5025" value="Røros - Rosse" />
+	<data code="3402" key="5026" value="Holtålen" />
+	<data code="3402" key="5027" value="Midtre Gauldal" />
+	<data code="3402" key="5028" value="Melhus" />
+	<data code="3402" key="5029" value="Skaun" />
+	<data code="3402" key="5031" value="Malvik" />
+	<data code="3402" key="5032" value="Selbu" />
+	<data code="3402" key="5033" value="Tydal" />
+	<data code="3402" key="5034" value="Meråker" />
+	<data code="3402" key="5035" value="Stjørdal" />
+	<data code="3402" key="5036" value="Frosta" />
+	<data code="3402" key="5037" value="Levanger - Levangke" />
+	<data code="3402" key="5038" value="Verdal" />
+	<data code="3402" key="5041" value="Snåase - Snåsa" />
+	<data code="3402" key="5042" value="Lierne" />
+	<data code="3402" key="5043" value="Raarvihke - Røyrvik" />
+	<data code="3402" key="5044" value="Namsskogan" />
+	<data code="3402" key="5045" value="Grong" />
+	<data code="3402" key="5046" value="Høylandet" />
+	<data code="3402" key="5047" value="Overhalla" />
+	<data code="3402" key="5049" value="Flatanger" />
+	<data code="3402" key="5052" value="Leka" />
+	<data code="3402" key="5053" value="Inderøy" />
+	<data code="3402" key="5054" value="Indre Fosen" />
+	<data code="3402" key="5055" value="Heim" />
+	<data code="3402" key="5056" value="Hitra" />
+	<data code="3402" key="5057" value="Ørland" />
+	<data code="3402" key="5058" value="Åfjord" />
+	<data code="3402" key="5059" value="Orkland" />
+	<data code="3402" key="5060" value="Nærøysund" />
+	<data code="3402" key="5061" value="Rindal" />
+	<data code="3402" key="5501" value="Tromsø" />
+	<data code="3402" key="5503" value="Harstad - Hárstták" />
+	<data code="3402" key="5510" value="Kvæfjord" />
+	<data code="3402" key="5512" value="Dielddanuorri - Tjeldsund" />
+	<data code="3402" key="5514" value="Ibestad" />
+	<data code="3402" key="5516" value="Gratangen -Rivtták" />
+	<data code="3402" key="5518" value="Loabák - Lavangen" />
+	<data code="3402" key="5520" value="Bardu" />
+	<data code="3402" key="5522" value="Salangen" />
+	<data code="3402" key="5524" value="Målselv" />
+	<data code="3402" key="5526" value="Sørreisa" />
+	<data code="3402" key="5528" value="Dyrøy" />
+	<data code="3402" key="5530" value="Senja" />
+	<data code="3402" key="5532" value="Balsfjord" />
+	<data code="3402" key="5534" value="Karlsøy" />
+	<data code="3402" key="5536" value="Lyngen" />
+	<data code="3402" key="5538" value="Storfjord - Omasvuotna - Omasvuono" />
+	<data code="3402" key="5540" value="Gáivuotna - Kåfjord - Kaivuono" />
+	<data code="3402" key="5542" value="Skjervøy" />
+	<data code="3402" key="5544" value="Nordreisa - Ráisa - Raisi" />
+	<data code="3402" key="5546" value="Kvænangen" />
+	<data code="3402" key="5601" value="Alta" />
+	<data code="3402" key="5603" value="Hammerfest - Hámmerfeasta" />
+	<data code="3402" key="5605" value="Sør-Varanger" />
+	<data code="3402" key="5607" value="Vadsø" />
+	<data code="3402" key="5610" value="Kárášjohka - Karasjok" />
+	<data code="3402" key="5612" value="Guovdageaidnu - Kautokeino" />
+	<data code="3402" key="5614" value="Loppa" />
+	<data code="3402" key="5616" value="Hasvik" />
+	<data code="3402" key="5618" value="Måsøy" />
+	<data code="3402" key="5620" value="Nordkapp" />
+	<data code="3402" key="5622" value="Porsanger - Porsángu - Porsanki" />
+	<data code="3402" key="5624" value="Lebesby" />
+	<data code="3402" key="5626" value="Gamvik" />
+	<data code="3402" key="5628" value="Deatnu - Tana" />
+	<data code="3402" key="5630" value="Berlevåg" />
+	<data code="3402" key="5632" value="Båtsfjord" />
+	<data code="3402" key="5634" value="Vardø" />
+	<data code="3402" key="5636" value="Unjárga - Nesseby" />
+	<data code="3402" key="9999" value="Uoppgitt" />
+	<data code="7435" key="-11" value="Antikoagulasjon - teknisk bruk" />
+	<data code="7435" key="-20" value="Tromboseprofylakse ved kirurgi" />
+	<data code="7435" key="-22" value="Sekundærprofylakse etter hjerteinfarkt" />
+	<data code="7435" key="-26" value="Etablert aterosklerotisk sykdom (sekundærprevensjon)" />
+	<data code="7435" key="-27" value="Betydelig forhøyet risiko for å utvikle aterosklerotisk sykdom (primærprevensjon)" />
+	<data code="7435" key="-30" value="Annen langvarig og alvorlig hudsykdom" />
+	<data code="7435" key="-40" value="Behandlingskrevende tørre øyne" />
+	<data code="7435" key="-41" value="Sialore ved kronisk nevrologisk lidelse" />
+	<data code="7435" key="-50" value="Ondartet kreftsykdom" />
+	<data code="7435" key="-52" value="Palliativ behandling for svulst med metastaser" />
+	<data code="7435" key="-53" value="Kvalme, forstoppelse eller diaré ved kreftsykdom" />
+	<data code="7435" key="-54" value="Risiko for tilbakefall av ondartet kreftsykdom" />
+	<data code="7435" key="-61" value="Forebygging av legemiddelinduserte mage- og duodenalsår hos risikopasienter" />
+	<data code="7435" key="-62" value="Forebygging av kortikosteroidindusert osteoporose" />
+	<data code="7435" key="-70" value="Betydelige atferdsproblemer som krever behandling" />
+	<data code="7435" key="-71" value="Kroniske, sterke smerter" />
+	<data code="7435" key="-75" value="Opioidindusert forstoppelse hos pasienter som kun kan oppnå tilstrekkelig effekt av opioidreseptorantagonist" />
+	<data code="7435" key="-81" value="Bivirkninger ved tuberkulosebehandling " />
+	<data code="7435" key="-90" value="Palliativ behandling i livets sluttfase" />
+	<data code="7435" key="-91" value="Oppløsnings-/fortynningsvæsker og tilleggslegemidler" />
+	<data code="7435" key="-96" value="Ind. stønad §3 (ukjent refusjonskode)" />
+	<data code="7435" key="-97" value="Ind. stønad §2 (vedtak før 3.3.2008)" />
+	<data code="7435" key="-98" value="Ind. stønad §10a (vedtak før 3.3.2008)" />
+	<data code="7435" key="-99" value="Studiemedisin godkjent for forskrivning på folketrygdens regning av Helsedirektoratet" />
+	<data code="7435" key="-F2" value="Behandlingskrevende psykotiske eller psykosenære symptomer ved psykisk lidelse" />
+	<data code="7435" key="-F3" value="Behandlingskrevende forstyrrelse i stemningsleie ved psykisk lidelse" />
+	<data code="7435" key="-F4" value="Behandlingskrevende angstsymptomer ved psykisk lidelse" />
+	<data code="7435" key="A00" value="Kolera" />
+	<data code="7435" key="A01" value="Tyfoidfeber og paratyfoidfeber" />
+	<data code="7435" key="A02" value="Andre salmonellainfeksjoner" />
+	<data code="7435" key="A03" value="Shigellose" />
+	<data code="7435" key="A04" value="Andre bakterielle tarminfeksjoner" />
+	<data code="7435" key="A05" value="Andre bakterielle matforgiftninger" />
+	<data code="7435" key="A06" value="Amøbeinfeksjon" />
+	<data code="7435" key="A07" value="Andre protozosykdommer i tarmkanalen" />
+	<data code="7435" key="A08" value="Virusinfeksjoner og andre spes. infek. i mage-tarmkanalen" />
+	<data code="7435" key="A09" value="Diaré og gastroenteritt med antatt infeksiøs årsak" />
+	<data code="7435" key="A15" value="Tuberkulose i å.dr.org., bakteriologisk og histologisk bekr." />
+	<data code="7435" key="A16" value="Tbc i å.dr.org., ikke bekr. bakteriologisk eller histologisk" />
+	<data code="7435" key="A17" value="Tuberkulose i nervesystemet" />
+	<data code="7435" key="A18" value="Tuberkulose i andre organer" />
+	<data code="7435" key="A19" value="Miliærtuberkulose" />
+	<data code="7435" key="A20" value="Pest" />
+	<data code="7435" key="A21" value="Tularemi" />
+	<data code="7435" key="A22" value="Miltbrann" />
+	<data code="7435" key="A23" value="Brucellose" />
+	<data code="7435" key="A24" value="Snive og melioidose" />
+	<data code="7435" key="A25" value="Rottebittfeber" />
+	<data code="7435" key="A26" value="Erysipeloid" />
+	<data code="7435" key="A27" value="Leptospirose" />
+	<data code="7435" key="A28" value="Andre bakterielle zoonoser, ikke klassifisert annet sted" />
+	<data code="7435" key="A30" value="Lepra" />
+	<data code="7435" key="A31" value="Infeksjon som skyldes andre mykobakterier" />
+	<data code="7435" key="A31.0" value="Mykobakteriell lungeinfeksjon" />
+	<data code="7435" key="A32" value="Listeriose" />
+	<data code="7435" key="A33" value="Stivkrampe hos nyfødt" />
+	<data code="7435" key="A34" value="Stivkrampe etter fødsel" />
+	<data code="7435" key="A35" value="Annen stivkrampe" />
+	<data code="7435" key="A36" value="Difteri" />
+	<data code="7435" key="A37" value="Kikhoste" />
+	<data code="7435" key="A38" value="Skarlagensfeber" />
+	<data code="7435" key="A39" value="Meningokokkinfeksjon" />
+	<data code="7435" key="A40" value="Streptokokksepsis" />
+	<data code="7435" key="A41" value="Annen sepsis" />
+	<data code="7435" key="A42" value="Aktinomykose" />
+	<data code="7435" key="A43" value="Nokardiose" />
+	<data code="7435" key="A44" value="Bartonellose" />
+	<data code="7435" key="A46" value="Erysipelas" />
+	<data code="7435" key="A48" value="Andre bakteriesykdommer, ikke klassifisert annet sted" />
+	<data code="7435" key="A49" value="Bakterieinfeksjon med uspesifisert lokalisasjon" />
+	<data code="7435" key="A50" value="Medfødt syfilis" />
+	<data code="7435" key="A51" value="Tidlig syfilis" />
+	<data code="7435" key="A52" value="Sensyfilis" />
+	<data code="7435" key="A53" value="Annen og uspesifisert syfilis" />
+	<data code="7435" key="A54" value="Gonokokkinfeksjon" />
+	<data code="7435" key="A55" value="Klamydialymfogranulom" />
+	<data code="7435" key="A56" value="Andre seksuelt overførte klamydiasykdommer" />
+	<data code="7435" key="A57" value="Bløt sjanker" />
+	<data code="7435" key="A58" value="Granuloma inguinale" />
+	<data code="7435" key="A59" value="Trikomonasinfeksjon" />
+	<data code="7435" key="A60" value="Anogenital herpesvirusinfeksjon" />
+	<data code="7435" key="A63" value="Andre hoveds. seksuelt overførbare sykd. IKAS" />
+	<data code="7435" key="A63.0" value="Anogenitale (veneriske) vorter" />
+	<data code="7435" key="A64" value="Uspesifiserte seksuelt overførbare sykdommer" />
+	<data code="7435" key="A65" value="Ikke-venerisk syfilis" />
+	<data code="7435" key="A66" value="Yaws" />
+	<data code="7435" key="A67" value="Pinta" />
+	<data code="7435" key="A68" value="Tilbakefallsfebre" />
+	<data code="7435" key="A69" value="Andre spiroketinfeksjoner" />
+	<data code="7435" key="A69.2" value="Borreliose" />
+	<data code="7435" key="A70" value="Chlamydia psittaci-infeksjon" />
+	<data code="7435" key="A71" value="Trakom" />
+	<data code="7435" key="A74" value="Andre sykdommer forårsaket av klamydia" />
+	<data code="7435" key="A75" value="Flekktyfus overført ved lus, lopper og midd" />
+	<data code="7435" key="A77" value="Flekkfeber" />
+	<data code="7435" key="A78" value="Q-feber" />
+	<data code="7435" key="A79" value="Andre rickettsioser" />
+	<data code="7435" key="A80" value="Akutt poliomyelitt" />
+	<data code="7435" key="A81" value="Atypiske virusinfeksjoner i sentralnervesystemet" />
+	<data code="7435" key="A82" value="Rabies" />
+	<data code="7435" key="A83" value="Virusencefalitt overført ved mygg" />
+	<data code="7435" key="A84" value="Virusencefalitt overført ved flått" />
+	<data code="7435" key="A85" value="Annen virusencefalitt, ikke klassifisert annet sted" />
+	<data code="7435" key="A86" value="Uspesifisert virusencefalitt" />
+	<data code="7435" key="A87" value="Virusmeningitt" />
+	<data code="7435" key="A88" value="Andre virusinfeksjoner i sentralnervesystemet IKAS" />
+	<data code="7435" key="A89" value="Uspesifisert virusinfeksjon i sentralnervesystemet" />
+	<data code="7435" key="A90" value="Denguefeber" />
+	<data code="7435" key="A91" value="Hemoragisk denguefeber" />
+	<data code="7435" key="A92" value="Andre virussykdommer overført ved mygg" />
+	<data code="7435" key="A93" value="Andre virussykdommer overført ved artropoder IKAS" />
+	<data code="7435" key="A94" value="Uspesifisert virussykdom overført ved artropoder" />
+	<data code="7435" key="A95" value="Gulfeber" />
+	<data code="7435" key="A96" value="Hemoragisk arenavirussykdom" />
+	<data code="7435" key="A98" value="Annen hemoragisk virussykdom, ikke klassifisert annet sted" />
+	<data code="7435" key="A99" value="Uspesifisert hemoragisk virussykdom" />
+	<data code="7435" key="B00" value="Herpesvirusinfeksjoner" />
+	<data code="7435" key="B01" value="Varicella" />
+	<data code="7435" key="B02" value="Herpes zoster" />
+	<data code="7435" key="B02.3" value="Herpes zoster-sykdom i øye" />
+	<data code="7435" key="B03" value="Kopper" />
+	<data code="7435" key="B04" value="Apekopper" />
+	<data code="7435" key="B05" value="Meslinger" />
+	<data code="7435" key="B06" value="Rubella" />
+	<data code="7435" key="B07" value="Virusvorter" />
+	<data code="7435" key="B08" value="Andre v.infek. kj.tegn. v. hud- og slimhinnelesjoner IKAS" />
+	<data code="7435" key="B09" value="Uspes. virusinfeksjon kj.tegn. ved hud- og slimhinnelesjoner" />
+	<data code="7435" key="B15" value="Akutt hepatitt A" />
+	<data code="7435" key="B16" value="Akutt hepatitt B" />
+	<data code="7435" key="B17" value="Annen akutt virushepatitt" />
+	<data code="7435" key="B18" value="Kronisk virushepatitt" />
+	<data code="7435" key="B19" value="Uspesifisert virushepatitt" />
+	<data code="7435" key="B20" value="Hiv-sykdom med infek.sykd. og parasittsykdommer som følge" />
+	<data code="7435" key="B21" value="Hiv-sykdom med ondartede svulster som følge" />
+	<data code="7435" key="B22" value="Hiv-sykdom med andre spesifiserte sykdommer som følge" />
+	<data code="7435" key="B23" value="Hiv-sykdom med andre tilstander som følge" />
+	<data code="7435" key="B24" value="Uspesifisert humant immunsviktvirus-sykdom (hiv-sykdom)" />
+	<data code="7435" key="B25" value="Cytomegalovirussykdom" />
+	<data code="7435" key="B26" value="Kusma" />
+	<data code="7435" key="B27" value="Mononukleose" />
+	<data code="7435" key="B30" value="Viruskonjunktivitt" />
+	<data code="7435" key="B33" value="Andre virussykdommer, ikke klassifisert annet sted" />
+	<data code="7435" key="B34" value="Virusinfeksjon med uspesifisert lokalisasjon" />
+	<data code="7435" key="B35" value="Hudsoppsykdom" />
+	<data code="7435" key="B36" value="Andre overfladiske soppsykdommer" />
+	<data code="7435" key="B37" value="Candidainfeksjon" />
+	<data code="7435" key="B38" value="Koksidioidomykose" />
+	<data code="7435" key="B39" value="Histoplasmose" />
+	<data code="7435" key="B40" value="Blastomykose" />
+	<data code="7435" key="B41" value="Parakoksidioidomykose" />
+	<data code="7435" key="B42" value="Sporotrikose" />
+	<data code="7435" key="B43" value="Kromomykose og feomykotisk abscess" />
+	<data code="7435" key="B44" value="Aspergillose" />
+	<data code="7435" key="B45" value="Kryptokokkose" />
+	<data code="7435" key="B46" value="Zygomykose" />
+	<data code="7435" key="B47" value="Mycetom" />
+	<data code="7435" key="B48" value="Andre soppsykdommer, ikke klassifisert annet sted" />
+	<data code="7435" key="B49" value="Uspesifisert soppsykdom" />
+	<data code="7435" key="B50" value="Malaria som skyldes Plasmodium falciparum" />
+	<data code="7435" key="B51" value="Malaria som skyldes Plasmodium vivax" />
+	<data code="7435" key="B52" value="Malaria som skyldes Plasmodium malariae" />
+	<data code="7435" key="B53" value="Annen parasittologisk bekreftet malaria" />
+	<data code="7435" key="B54" value="Uspesifisert malaria" />
+	<data code="7435" key="B55" value="Leishmaniasis" />
+	<data code="7435" key="B56" value="Afrikansk trypanosomiasis" />
+	<data code="7435" key="B57" value="Chagas sykdom" />
+	<data code="7435" key="B58" value="Toksoplasmose" />
+	<data code="7435" key="B59" value="Pneumocystose (J17.3*)" />
+	<data code="7435" key="B60" value="Andre protozosykdommer, ikke klassifisert annet sted" />
+	<data code="7435" key="B64" value="Uspesifisert protozosykdom" />
+	<data code="7435" key="B65" value="Schistosomiasis" />
+	<data code="7435" key="B66" value="Andre ikteinfeksjoner" />
+	<data code="7435" key="B67" value="Ekinokokkose" />
+	<data code="7435" key="B68" value="Taeniasis" />
+	<data code="7435" key="B69" value="Cysticerkose" />
+	<data code="7435" key="B70" value="Diphyllobothriasis og sparganose" />
+	<data code="7435" key="B71" value="Andre bendelorminfeksjoner" />
+	<data code="7435" key="B72" value="Dracunculiasis" />
+	<data code="7435" key="B73" value="Onkocerkiasis" />
+	<data code="7435" key="B74" value="Filariasis" />
+	<data code="7435" key="B75" value="Trikinose" />
+	<data code="7435" key="B76" value="Hakeormsykdommer" />
+	<data code="7435" key="B77" value="Askariasis" />
+	<data code="7435" key="B78" value="Strongyloidiasis" />
+	<data code="7435" key="B79" value="Trikuriasis" />
+	<data code="7435" key="B80" value="Barneorminfeksjon" />
+	<data code="7435" key="B81" value="Andre ormesykdommer i tarm, ikke klassifisert annet sted" />
+	<data code="7435" key="B82" value="Uspesifisert parasittisme i tarm" />
+	<data code="7435" key="B83" value="Andre ormesykdommer" />
+	<data code="7435" key="B85" value="Pedikulose og ftiriasis" />
+	<data code="7435" key="B86" value="Skabb" />
+	<data code="7435" key="B87" value="Myiasis" />
+	<data code="7435" key="B88" value="Andre infestasjoner" />
+	<data code="7435" key="B89" value="Uspesifisert parasittsykdom" />
+	<data code="7435" key="B90" value="Følgetilstander etter tuberkulose" />
+	<data code="7435" key="B91" value="Følgetilstander etter poliomyelitt" />
+	<data code="7435" key="B92" value="Følgetilstander etter lepra" />
+	<data code="7435" key="B94" value="F.tilst. etter andre og uspes. infek.sykd. og parasittsykd." />
+	<data code="7435" key="B95" value="Strept. og staf. som årsak til sykd. klass. i andre kapitler" />
+	<data code="7435" key="B96" value="Andre bakterier som årsak til sykdommer klass. i andre kap." />
+	<data code="7435" key="B97" value="Virus som årsak til sykdommer klassifisert i andre kapitler" />
+	<data code="7435" key="B98" value="Andre spesifiserte infeksiøse mikroorganismer som årsak til sykdommer klassifisert i andre kapitler" />
+	<data code="7435" key="B99" value="Andre og uspesifiserte infeksjonssykdommer" />
+	<data code="7435" key="C00" value="Ondartet svulst på leppe" />
+	<data code="7435" key="C01" value="Ondartet svulst i tungerot" />
+	<data code="7435" key="C02" value="Ondartet svulst i andre og uspesifiserte deler av tunge" />
+	<data code="7435" key="C03" value="Ondartet svulst i tannkjøtt" />
+	<data code="7435" key="C04" value="Ondartet svulst i munngulv" />
+	<data code="7435" key="C05" value="Ondartet svulst i gane" />
+	<data code="7435" key="C06" value="Ondartet svulst i andre og uspesifiserte deler av munn" />
+	<data code="7435" key="C07" value="Ondartet svulst i ørespyttkjertel" />
+	<data code="7435" key="C08" value="Ondartet svulst i andre og uspesifiserte store spyttkjertler" />
+	<data code="7435" key="C09" value="Ondartet svulst i mandel" />
+	<data code="7435" key="C10" value="Ondartet svulst i oropharynx" />
+	<data code="7435" key="C11" value="Ondartet svulst i nasopharynx" />
+	<data code="7435" key="C12" value="Ondartet svulst i sinus piriformis" />
+	<data code="7435" key="C13" value="Ondartet svulst i hypopharynx" />
+	<data code="7435" key="C14" value="Ondart. svu. i a. og ufullst. ang. lok., leppe/munnh./svelg" />
+	<data code="7435" key="C15" value="Ondartet svulst i spiserør" />
+	<data code="7435" key="C16" value="Ondartet svulst i magesekk" />
+	<data code="7435" key="C17" value="Ondartet svulst i tynntarm" />
+	<data code="7435" key="C18" value="Ondartet svulst i tykktarm" />
+	<data code="7435" key="C19" value="Ondartet svulst i overgang mellom sigmoideum og endetarm" />
+	<data code="7435" key="C20" value="Ondartet svulst i endetarm" />
+	<data code="7435" key="C21" value="Ondartet svulst i endetarmsåpning og analkanal" />
+	<data code="7435" key="C22" value="Ondartet svulst i lever og intrahepatiske galleganger" />
+	<data code="7435" key="C23" value="Ondartet svulst i galleblære" />
+	<data code="7435" key="C24" value="Ondartet svulst i andre og uspesifiserte deler av galleveier" />
+	<data code="7435" key="C25" value="Ondartet svulst i bukspyttkjertel" />
+	<data code="7435" key="C26" value="Ondartet svulst i andre og ufullstendig angitte fordøy.org." />
+	<data code="7435" key="C30" value="Ondartet svulst i nesehule, mellomøre og indre øre" />
+	<data code="7435" key="C31" value="Ondartet svulst i bihuler" />
+	<data code="7435" key="C32" value="Ondartet svulst i strupe" />
+	<data code="7435" key="C33" value="Ondartet svulst i luftrør" />
+	<data code="7435" key="C34" value="Ondartet svulst i bronkie og lunge" />
+	<data code="7435" key="C37" value="Ondartet svulst i thymus" />
+	<data code="7435" key="C38" value="Ondartet svulst i hjerte, mediastinum og brysthinne" />
+	<data code="7435" key="C39" value="Ondart. svu. m. a. ufullst. ang. lok., å.dr.-/intrator. org." />
+	<data code="7435" key="C40" value="Ondartet svulst i knokler og leddbrusk i ekstremiteter" />
+	<data code="7435" key="C41" value="Ondart. svu. i knokler og leddbrusk med annen og uspes. lok." />
+	<data code="7435" key="C43" value="Malignt melanom i hud" />
+	<data code="7435" key="C44" value="Andre ondartede svulster i hud" />
+	<data code="7435" key="C45" value="Mesoteliom" />
+	<data code="7435" key="C46" value="Kaposis sarkom" />
+	<data code="7435" key="C47" value="Ondartet svulst i perifere nerver og det autonome nervesyst." />
+	<data code="7435" key="C48" value="Ondartet svulst i retroperitoneum og bukhinne" />
+	<data code="7435" key="C49" value="Ondartet svulst i annet bindevev og bløtvev" />
+	<data code="7435" key="C50" value="Ondartet svulst i bryst" />
+	<data code="7435" key="C51" value="Ondartet svulst i ytre kvinnelige kjønnsorganer" />
+	<data code="7435" key="C52" value="Ondartet svulst i skjede" />
+	<data code="7435" key="C53" value="Ondartet svulst i livmorhals" />
+	<data code="7435" key="C54" value="Ondartet svulst i livmorlegeme" />
+	<data code="7435" key="C54.1" value="Ondartet svulst i livmorslimhinne" />
+	<data code="7435" key="C55" value="Ondartet svulst i livmor, uspesifisert del" />
+	<data code="7435" key="C56" value="Ondartet svulst i eggstokk" />
+	<data code="7435" key="C57" value="Ondartet svulst i andre og uspesifiserte kv. kjønnsorganer" />
+	<data code="7435" key="C58" value="Ondartet svulst i morkake" />
+	<data code="7435" key="C60" value="Ondartet svulst i penis" />
+	<data code="7435" key="C61" value="Ondartet svulst i blærehalskjertel" />
+	<data code="7435" key="C62" value="Ondartet svulst i testikkel" />
+	<data code="7435" key="C63" value="Ondartet svulst i andre og uspes. mannlige kjønnsorganer" />
+	<data code="7435" key="C64" value="Ondartet svulst i nyre, unntatt nyrebekken" />
+	<data code="7435" key="C65" value="Ondartet svulst i nyrebekken" />
+	<data code="7435" key="C66" value="Ondartet svulst i urinleder" />
+	<data code="7435" key="C67" value="Ondartet svulst i urinblære" />
+	<data code="7435" key="C68" value="Ondartet svulst i andre og uspesifiserte urinveisorganer" />
+	<data code="7435" key="C69" value="Ondartet svulst i øyet og øyets adneksstrukturer" />
+	<data code="7435" key="C70" value="Ondartet svulst i sentralnervesystemets hinner" />
+	<data code="7435" key="C71" value="Ondartet svulst i hjerne" />
+	<data code="7435" key="C72" value="Ondart. svu. i ryggmarg, hjernenerver og andre deler av CNS" />
+	<data code="7435" key="C73" value="Ondartet svulst i skjoldbruskkjertel" />
+	<data code="7435" key="C74" value="Ondartet svulst i binyre" />
+	<data code="7435" key="C75" value="Ondartet svulst i andre endokrine kjertler og besl. strukt." />
+	<data code="7435" key="C76" value="Ondartet svulst med annet og ufullstendig angitt utg.pkt" />
+	<data code="7435" key="C77" value="Metastase og uspesifisert ondartet svulst i lymfeknuter" />
+	<data code="7435" key="C78" value="Metastase i åndedrettsorganer og fordøyelsesorganer" />
+	<data code="7435" key="C79" value="Metastase med annen og uspesifisert lokalisasjon" />
+	<data code="7435" key="C80" value="Ondartet svulst uten spesifisert lokalisasjon" />
+	<data code="7435" key="C81" value="Hodgkin lymfom" />
+	<data code="7435" key="C82" value="Follikulært lymfom" />
+	<data code="7435" key="C83" value="Ikke-follikulært lymfom" />
+	<data code="7435" key="C84" value="Modne T/NK-cellelymfomer" />
+	<data code="7435" key="C85" value="Andre og uspesifiserte typer av non-Hodgkin lymfom" />
+	<data code="7435" key="C86" value="Andre spesifiserte typer T/NK-cellelymfomer" />
+	<data code="7435" key="C88" value="Ondartede immunoproliferative sykdommer" />
+	<data code="7435" key="C90" value="Myelomatose og ondartede plasmacellesykdommer" />
+	<data code="7435" key="C90.0" value="Myelomatose" />
+	<data code="7435" key="C91" value="Lymfatisk leukemi" />
+	<data code="7435" key="C91.0" value="Akutt lymfatisk leukemi(ALL)" />
+	<data code="7435" key="C91.1" value="Kronisk lymfatisk leukemi av B-celletype" />
+	<data code="7435" key="C92" value="Myelogen leukemi" />
+	<data code="7435" key="C92.1" value="Kronisk myelogen leukemi [KML], BCR/ABL-positiv" />
+	<data code="7435" key="C93" value="Monocyttleukemi" />
+	<data code="7435" key="C94" value="Andre leukemier med spesifisert celletype" />
+	<data code="7435" key="C94.6" value="Myelodysplastisk og myeloproliferativ sykdom, IKA " />
+	<data code="7435" key="C95" value="Leukemier med uspesifisert celletype" />
+	<data code="7435" key="C96" value="A. uspes. ondart. svu. fra lymfoid/hematopoetisk/besl. vev" />
+	<data code="7435" key="C96.2" value="Malign mastcelletumor (M 9740/3)" />
+	<data code="7435" key="C97" value="Multiple primære ondartede svulster med forskjellige utg.pkt" />
+	<data code="7435" key="D00" value="Carcinoma in situ i munnhule, spiserør og magesekk" />
+	<data code="7435" key="D01" value="Carcinoma in situ i andre og uspes. fordøyelsesorganer" />
+	<data code="7435" key="D02" value="Carcinoma in situ i mellomøre og åndedrettsorganer" />
+	<data code="7435" key="D03" value="Melanoma in situ (preinvasivt melanom)" />
+	<data code="7435" key="D04" value="Carcinoma in situ (preinvasivt karsinom) i hud" />
+	<data code="7435" key="D05" value="Carcinoma in situ (preinvasivt karsinom) i bryst" />
+	<data code="7435" key="D06" value="Carcinoma in situ (preinvasivt karsinom) i livmorhals" />
+	<data code="7435" key="D07" value="Carcinoma in situ i andre og uspesifiserte kjønnsorganer" />
+	<data code="7435" key="D09" value="Carcinoma in situ med andre og uspesifiserte lokalisasjoner" />
+	<data code="7435" key="D10" value="Godartet svulst i munn og svelg" />
+	<data code="7435" key="D11" value="Godartet svulst i store spyttkjertler" />
+	<data code="7435" key="D12" value="Godartet svulst i tykktarm, e.tarm, analk. og e.tarmsåpning" />
+	<data code="7435" key="D13" value="Godart. svu. i andre og ufullst. ang. deler av fordøy.syst." />
+	<data code="7435" key="D14" value="Godartet svulst i mellomøre og åndedrettsorganer" />
+	<data code="7435" key="D15" value="Godartet svulst i andre og uspesifiserte intratorakale org." />
+	<data code="7435" key="D16" value="Godartet svulst i knokler og leddbrusk" />
+	<data code="7435" key="D17" value="Lipom" />
+	<data code="7435" key="D18" value="Hemangiom og lymfangiom, alle lokalisasjoner" />
+	<data code="7435" key="D18.0" value="Hemangiom, alle lokalisasjoner" />
+	<data code="7435" key="D19" value="Godartet svulst i mesotel" />
+	<data code="7435" key="D20" value="Godartet svulst i bløtvev i retroperitoneum og bukhinne" />
+	<data code="7435" key="D20.0" value="Godartet svulst i retroperitoneum" />
+	<data code="7435" key="D20.1" value="Godartet svulst i bukhinne" />
+	<data code="7435" key="D21" value="Andre godartede svulster i bindevev og annet bløtvev" />
+	<data code="7435" key="D22" value="Melanocyttnevus" />
+	<data code="7435" key="D23" value="Andre godartede svulster i hud" />
+	<data code="7435" key="D24" value="Godartet svulst i bryst" />
+	<data code="7435" key="D25" value="Leiomyom i livmor" />
+	<data code="7435" key="D26" value="Andre godartede svulster i livmor" />
+	<data code="7435" key="D27" value="Godartet svulst i eggstokk" />
+	<data code="7435" key="D28" value="Godartet svulst i andre og uspes. kvinnelige kjønnsorganer" />
+	<data code="7435" key="D29" value="Godartet svulst i mannlige kjønnsorganer" />
+	<data code="7435" key="D30" value="Godartet svulst i urinveisorganer" />
+	<data code="7435" key="D31" value="Godartet svulst i øye og øyets adneksstrukturer" />
+	<data code="7435" key="D32" value="Godartet svulst i sentralnervesystemets hinner" />
+	<data code="7435" key="D33" value="Godartet svulst i hjerne og andre deler av CNS" />
+	<data code="7435" key="D34" value="Godartet svulst i skjoldbruskkjertel" />
+	<data code="7435" key="D35" value="Godartet svulst i andre og uspesifiserte endokrine kjertler" />
+	<data code="7435" key="D36" value="Godartet svulst med andre og uspesifiserte lokalisasjoner" />
+	<data code="7435" key="D37" value="Svu. med usikkert/ukjent mal.pot. i munnhule og fordøy.org." />
+	<data code="7435" key="D38" value="Svu. m. usikk./ukj. mal.pot., mell.ø., å.dr.-/intrator. org." />
+	<data code="7435" key="D39" value="Svulst med usikkert/ukjent mal.pot. i kv. kjønnsorganer" />
+	<data code="7435" key="D40" value="Svulst med usikkert/ukjent mal.pot. i mannlige kjønnsorganer" />
+	<data code="7435" key="D41" value="Svulst med usikkert/ukjent mal.pot. i urinveisorganer" />
+	<data code="7435" key="D42" value="Svulst med usikkert eller ukjent mal.pot. i CNS hinner" />
+	<data code="7435" key="D43" value="Svulst med usikkert/ukjent mal.pot. i hjernen og CNS" />
+	<data code="7435" key="D44" value="Svulst med usikkert/ukjent mal.pot. i endokrine kjertler" />
+	<data code="7435" key="D45" value="Polycythaemia vera" />
+	<data code="7435" key="D46" value="Myelodysplastisk syndrom" />
+	<data code="7435" key="D46.1" value="Refraktær anemi med sideroblaster" />
+	<data code="7435" key="D47" value="Andre svu. med usikk./ukj. mal.pot. i lymf./hemat./besl. v." />
+	<data code="7435" key="D47.0" value="Histiocyttære svu. og mastc.svu. m. usikkert/ukjent mal.pot." />
+	<data code="7435" key="D47.1" value="Kronisk myeloproliferativ sykdom" />
+	<data code="7435" key="D47.3" value="Essensiell (hemoragisk) trombocytemi" />
+	<data code="7435" key="D47.5" value="Kronisk eosinofil leukemi [hypereosinofilt syndrom]" />
+	<data code="7435" key="D48" value="Svulst med usikk./ukj. mal.pot. med annen og uspes. lok." />
+	<data code="7435" key="D50" value="Jernmangelanemi" />
+	<data code="7435" key="D51" value="Anemi ved B12-vitaminmangel" />
+	<data code="7435" key="D52" value="Folinsyremangelanemi" />
+	<data code="7435" key="D53" value="Andre mangelanemier" />
+	<data code="7435" key="D55" value="Anemi som skyldes enzymforstyrrelser" />
+	<data code="7435" key="D56" value="Talassemi" />
+	<data code="7435" key="D57" value="Sigdcellesykdommer" />
+	<data code="7435" key="D58" value="Andre arvelige hemolytiske anemier" />
+	<data code="7435" key="D59" value="Ervervet hemolytisk anemi" />
+	<data code="7435" key="D60" value="Ervervet isolert aplasi av erytropoetiske celler" />
+	<data code="7435" key="D61" value="Andre aplastiske anemier" />
+	<data code="7435" key="D62" value="Akutt posthemoragisk anemi" />
+	<data code="7435" key="D63" value="Anemi ved kroniske sykdommer klassifisert annet sted" />
+	<data code="7435" key="D64" value="Andre anemier" />
+	<data code="7435" key="D65" value="Disseminert intravaskulær koagulasjon" />
+	<data code="7435" key="D66" value="Arvelig mangel på koagulasjonsfaktor VIII" />
+	<data code="7435" key="D67" value="Arvelig mangel på koagulasjonsfaktor IX" />
+	<data code="7435" key="D68" value="Andre koagulasjonsforstyrrelser" />
+	<data code="7435" key="D68.0" value="Von Willebrands sykdom" />
+	<data code="7435" key="D68.1" value="Arvelig mangel på koagulasjonsfaktor XI" />
+	<data code="7435" key="D68.2" value="Arvelig mangel på andre koagulasjonsfaktorer" />
+	<data code="7435" key="D68.3" value="Blødningstilstand som skyldes sirkulerende antikoagulanter" />
+	<data code="7435" key="D68.4" value="Ervervet mangel på koagulasjonsfaktor" />
+	<data code="7435" key="D68.8" value="Andre spesifiserte koagulasjonsforstyrrelser" />
+	<data code="7435" key="D68.9" value="Uspesifisert koagulasjonsforstyrrelse" />
+	<data code="7435" key="D69" value="Purpura og andre blødningstilstander" />
+	<data code="7435" key="D69.1" value="Kvalitative blodplatedefekter" />
+	<data code="7435" key="D69.3" value="Idiopatisk trombocytopenisk purpura" />
+	<data code="7435" key="D70" value="Agranulocytose og nøytropeni" />
+	<data code="7435" key="D71" value="Funksjonelle forst. i polymorfonukleære nøytrofile b.c." />
+	<data code="7435" key="D72" value="Andre tilstander i hvite blodceller" />
+	<data code="7435" key="D73" value="Sykdommer i milt" />
+	<data code="7435" key="D74" value="Methemoglobinemi" />
+	<data code="7435" key="D75" value="Andre sykdommer i blod og bloddannende organer" />
+	<data code="7435" key="D76" value="Andre spesifiserte sykdommer der lymforetikulært og retikulohistiocyttisk vev inngår" />
+	<data code="7435" key="D77" value="Andre forst. i b. og b.dannende org. v. sykd. klass. a. sted" />
+	<data code="7435" key="D80" value="Immunsvikt med overveiende antistoffmangel" />
+	<data code="7435" key="D81" value="Kombinert immunsvikt" />
+	<data code="7435" key="D82" value="Immunsvikt forbundet med andre større defekter" />
+	<data code="7435" key="D83" value="Vanlig variabel immunsvikt" />
+	<data code="7435" key="D84" value="Annen immunsvikt" />
+	<data code="7435" key="D86" value="Sarkoidose" />
+	<data code="7435" key="E00" value="Medfødt jodmangelsyndrom" />
+	<data code="7435" key="E01" value="J.mgl.rel. sykd. i skjoldbruskkjertel og beslektede tilst." />
+	<data code="7435" key="E02" value="Subklinisk jodmangelhypotyreose" />
+	<data code="7435" key="E03" value="Annen hypotyreose" />
+	<data code="7435" key="E04" value="Annet ikke-toksisk struma" />
+	<data code="7435" key="E05" value="Tyreotoksikose" />
+	<data code="7435" key="E06" value="Tyreoiditt" />
+	<data code="7435" key="E06.0" value="Akutt tyreoiditt" />
+	<data code="7435" key="E06.1" value="Subakutt tyreoiditt" />
+	<data code="7435" key="E06.2" value="Kronisk tyreoiditt med forbigående tyreotoksikose" />
+	<data code="7435" key="E06.3" value="Autoimmun tyreoiditt" />
+	<data code="7435" key="E06.4" value="Legemiddelutløst tyreoiditt" />
+	<data code="7435" key="E06.5" value="Annen kronisk tyreoiditt" />
+	<data code="7435" key="E06.9" value="Uspesifisert tyreoiditt" />
+	<data code="7435" key="E07" value="Andre forstyrrelser i skjoldbruskkjertelfunksjon" />
+	<data code="7435" key="E10" value="Diabetes mellitus type 1" />
+	<data code="7435" key="E10.2" value="Diabetes mellitus type 1 med nyrekomplikasjoner" />
+	<data code="7435" key="E11" value="Diabetes mellitus type 2" />
+	<data code="7435" key="E11.2" value="Diabetes mellitus type 2 med nyrekomplikasjoner" />
+	<data code="7435" key="E12" value="Underernæringsrelatert diabetes mellitus" />
+	<data code="7435" key="E13" value="Andre spesifiserte typer diabetes mellitus" />
+	<data code="7435" key="E14" value="Uspesifisert diabetes mellitus" />
+	<data code="7435" key="E15" value="Ikke-diabetisk hypoglykemisk koma" />
+	<data code="7435" key="E16" value="Andre forstyrrelser i bukspyttkjertelens hormonsekresjon" />
+	<data code="7435" key="E16.4" value="Unormal gastrinsekresjon" />
+	<data code="7435" key="E20" value="Hypoparatyreoidisme" />
+	<data code="7435" key="E21" value="Hyperparatyreoidisme og andre forst. i biskjoldbruskkjertel" />
+	<data code="7435" key="E21.1" value="Sekundær hyperparatyreoidisme, ikke klassifisert annet sted" />
+	<data code="7435" key="E22" value="Hyperfunksjon av hypofyse" />
+	<data code="7435" key="E22.0" value="Akromegali og hypofysær kjempevekst" />
+	<data code="7435" key="E22.1" value="Hyperprolaktinemi" />
+	<data code="7435" key="E22.8" value="Annen spesifisert hyperfunksjon av hypofyse" />
+	<data code="7435" key="E23" value="Hypofunksjon og andre forstyrrelser i hypofyse" />
+	<data code="7435" key="E23.0" value="Hypopituitarisme" />
+	<data code="7435" key="E23.2" value="Diabetes insipidus" />
+	<data code="7435" key="E24" value="Cushings syndrom" />
+	<data code="7435" key="E25" value="Adrenogenitale forstyrrelser" />
+	<data code="7435" key="E26" value="Hyperaldosteronisme" />
+	<data code="7435" key="E27" value="Andre forstyrrelser i binyre" />
+	<data code="7435" key="E27.1" value="Primær binyrebarkinsuffisiens" />
+	<data code="7435" key="E28" value="Ovarial dysfunksjon" />
+	<data code="7435" key="E28.3" value="Primær ovarialsvikt" />
+	<data code="7435" key="E29" value="Testikulær dysfunksjon" />
+	<data code="7435" key="E30" value="Pubertetsforstyrrelser, ikke klassifisert annet sted" />
+	<data code="7435" key="E30.1" value="Tidlig pubertet" />
+	<data code="7435" key="E31" value="Polyglandulær dysfunksjon" />
+	<data code="7435" key="E32" value="Sykdommer i thymus" />
+	<data code="7435" key="E34" value="Andre endokrine forstyrrelser" />
+	<data code="7435" key="E34.3" value="Dvergvekst, ikke klassifisert annet sted" />
+	<data code="7435" key="E35" value="Forst. i endokrine kj. ved sykd. klassifisert annet sted" />
+	<data code="7435" key="E40" value="Kwashiorkor" />
+	<data code="7435" key="E41" value="Ernæringsbetinget marasme" />
+	<data code="7435" key="E42" value="Marasmisk kwashiorkor" />
+	<data code="7435" key="E43" value="Uspesifisert alvorlig protein-/energiunderernæring" />
+	<data code="7435" key="E44" value="Protein-/energiunderernæring av moderat og mild grad" />
+	<data code="7435" key="E45" value="Forsinket utv. som følge av protein-/energiunderernæring" />
+	<data code="7435" key="E46" value="Uspesifisert protein-/energiunderernæring" />
+	<data code="7435" key="E50" value="A-vitaminmangel" />
+	<data code="7435" key="E51" value="Tiaminmangel" />
+	<data code="7435" key="E52" value="Niacinmangel" />
+	<data code="7435" key="E53" value="Mangel på andre B-vitaminer" />
+	<data code="7435" key="E53.8" value="Mangel på andre spesifiserte B-vitaminer" />
+	<data code="7435" key="E54" value="Askorbinsyremangel" />
+	<data code="7435" key="E55" value="D-vitaminmangel" />
+	<data code="7435" key="E56" value="Annen vitaminmangel" />
+	<data code="7435" key="E58" value="Manglende kalsiuminntak" />
+	<data code="7435" key="E59" value="Manglende seleninntak" />
+	<data code="7435" key="E60" value="Manglende sinkinntak" />
+	<data code="7435" key="E61" value="Mangel på andre næringselementer" />
+	<data code="7435" key="E63" value="Andre mangelsykdommer" />
+	<data code="7435" key="E64" value="Følgetilstander etter feilernæring og andre mangelsykdommer" />
+	<data code="7435" key="E65" value="Lokalisert fedme" />
+	<data code="7435" key="E66" value="Fedme" />
+	<data code="7435" key="E67" value="Annen hyperalimentasjon" />
+	<data code="7435" key="E68" value="Følgetilstander etter hyperalimentasjon" />
+	<data code="7435" key="E70" value="Forstyrrelser i metabolismen av aromatiske aminosyrer" />
+	<data code="7435" key="E71" value="Forst. i metabolismen av grenede aminosyrer og fettsyrer" />
+	<data code="7435" key="E72" value="Andre forstyrrelser i aminosyremetabolismen" />
+	<data code="7435" key="E73" value="Laktoseintoleranse" />
+	<data code="7435" key="E74" value="Andre forstyrrelser i karbohydratmetabolismen" />
+	<data code="7435" key="E75" value="Forst. i sfingolipidmetabolismen og a. lipidlagringsforst." />
+	<data code="7435" key="E75.2" value="Annen sfingolipidose" />
+	<data code="7435" key="E76" value="Forstyrrelser i glukosaminoglykanmetabolismen" />
+	<data code="7435" key="E77" value="Forstyrrelser i glykoproteinmetabolismen" />
+	<data code="7435" key="E78" value="Forstyrrelser i lipoproteinmetabolismen og andre lipidemier" />
+	<data code="7435" key="E78.0" value="Ren hyperkolesterolemi" />
+	<data code="7435" key="E79" value="Forstyrrelser i metabolismen av purin og pyrimidin" />
+	<data code="7435" key="E80" value="Forstyrrelser i metabolismen av porfyrin og bilirubin" />
+	<data code="7435" key="E83" value="Forstyrrelser i mineralmetabolismen" />
+	<data code="7435" key="E83.1" value="Forstyrrelser i jernmetabolismen" />
+	<data code="7435" key="E84" value="Cystisk fibrose" />
+	<data code="7435" key="E85" value="Amyloidose" />
+	<data code="7435" key="E86" value="Væsketap" />
+	<data code="7435" key="E87" value="Andre forstyrrelser i væske-, elektrolytt- og syre-base-bal." />
+	<data code="7435" key="E87.2" value="Acidose" />
+	<data code="7435" key="E87.6" value="Hypokalemi" />
+	<data code="7435" key="E88" value="Andre metabolske forstyrrelser" />
+	<data code="7435" key="E88.0" value="Forstyrrelser i plasmaproteinmetabolismen IKAS" />
+	<data code="7435" key="E89" value="Endokrine og metabolske forstyrrelser etter behandling IKAS" />
+	<data code="7435" key="E89.0" value="Hypotyreose etter kirurgiske og medisinske prosedyrer" />
+	<data code="7435" key="E89.2" value="Hypoparatyreoidisme etter kirurgiske og medisinske prosedyrer" />
+	<data code="7435" key="E89.3" value="Hypopituitarisme etter kirurgiske og medisinske prosedyrer" />
+	<data code="7435" key="E89.4" value="Eggstokksvikt etter kirurgiske og medisinske prosedyrer" />
+	<data code="7435" key="E89.5" value="Testikulær hypofunksjon etter kirurgiske og medisinske prosedyrer" />
+	<data code="7435" key="E89.6" value="Hypofunksjon av binyre etter kirurgiske og medisinske prosedyrer" />
+	<data code="7435" key="E90" value="Ernærings- og metabolske forst. ved sykd. klass. anet sted" />
+	<data code="7435" key="F00" value="Demens ved Alzheimers sykdom" />
+	<data code="7435" key="F01" value="Vaskulær demens" />
+	<data code="7435" key="F02" value="Demens ved andre sykdommer klassifisert annet sted" />
+	<data code="7435" key="F03" value="Annen og uspesifisert demens" />
+	<data code="7435" key="F04" value="Organisk amnestisk syndrom, ikke utløst av rusmidler" />
+	<data code="7435" key="F05" value="Delirium, ikke utløst av alkohol eller andre psykoaktive st." />
+	<data code="7435" key="F06" value="A. psyk. lid. som sk. skade/dysfunksjon i hj. el. fys. sykd." />
+	<data code="7435" key="F07" value="Pers.h.-/atf.forst. som sk. sykd., sk. og dysfunksjon i hj." />
+	<data code="7435" key="F09" value="Uspesifisert organisk eller symptomatisk psykisk lidelse" />
+	<data code="7435" key="F10" value="Psyk. lid. og atf.forst. s. sk. br. av alkohol" />
+	<data code="7435" key="F10.5" value="Psykotisk lidelse som skyldes bruk av alkohol" />
+	<data code="7435" key="F11" value="Psyk. lid.og atf.forst. s. sk. bruk av opiater" />
+	<data code="7435" key="F11.5" value="Psykotisk lidelse som skyldes bruk av opiater" />
+	<data code="7435" key="F12" value="Psyk. lid. og atf.forst. som skyldes bruk av cannabinoider" />
+	<data code="7435" key="F12.5" value="Psykotisk lidelse som skyldes bruk av cannabinoider" />
+	<data code="7435" key="F13" value="Psyk. lid./atf.forst. s. sk. bruk av sedativa og hypnotika" />
+	<data code="7435" key="F13.5" value="Psykotisk lidelse som skyldes bruk av sedativa og hypnotika" />
+	<data code="7435" key="F14" value="Psyk. lid. og atf.forst. som skyldes bruk av kokain" />
+	<data code="7435" key="F14.5" value="Psykotisk lidelse som skyldes bruk av kokain" />
+	<data code="7435" key="F15" value="Psyk. lid. og atf.forst. s. sk. andre stim., inkl. kaffein" />
+	<data code="7435" key="F15.5" value="Psykotisk lidelse som skyldes bruk av andre stimulanter" />
+	<data code="7435" key="F16" value="Psyk. lid. og atf.forst. som skyldes bruk av hallusinogener" />
+	<data code="7435" key="F16.5" value="Psykotisk lidelse som skyldes bruk av hallusinogener" />
+	<data code="7435" key="F17" value="Psyk. lid. og atf.forst. som skyldes bruk av tobakk" />
+	<data code="7435" key="F18" value="Psyk. lid. og atf.forst. s. sk. bruk av flyktige løsemidler" />
+	<data code="7435" key="F18.5" value="Psykotisk lidelse som skyldes bruk av flyktige løsemidler" />
+	<data code="7435" key="F19" value="Psyk. lid. og atf.forst. som skyldes bruk av flere stoffer" />
+	<data code="7435" key="F19.5" value="Psykotisk lidelse som skyldes bruk av flere stoffer" />
+	<data code="7435" key="F20" value="Schizofreni" />
+	<data code="7435" key="F21" value="Schizotyp lidelse" />
+	<data code="7435" key="F22" value="Paranoide psykoser (vedvarende vrangforestillingslidelser)" />
+	<data code="7435" key="F23" value="Akutte og forbigående psykoser" />
+	<data code="7435" key="F23.1" value="Akutt polymorf schizofreniform psykose" />
+	<data code="7435" key="F23.2" value="Akutt schizofrenilignende psykose" />
+	<data code="7435" key="F24" value="Indusert psykose (vrangforestillingslidelse)" />
+	<data code="7435" key="F25" value="Schizoaffektive lidelser (schizoaffektive psykoser)" />
+	<data code="7435" key="F25.0" value="Schizoaffektiv lidelse, manisk type" />
+	<data code="7435" key="F25.1" value="Schizoaffektiv lidelse, depressiv type" />
+	<data code="7435" key="F25.2" value="Schizoaffektiv lidelse, blandet manisk-depressiv type" />
+	<data code="7435" key="F25.8" value="Andre spesifiserte schizoaffektive lidelser" />
+	<data code="7435" key="F25.9" value="Uspesifisert schizoaffektiv lidelse" />
+	<data code="7435" key="F28" value="Andre ikke-organiske psykoser" />
+	<data code="7435" key="F29" value="Uspesifisert ikke-organisk psykose" />
+	<data code="7435" key="F30" value="Manisk episode" />
+	<data code="7435" key="F30.2" value="Mani med psykotiske symptomer" />
+	<data code="7435" key="F31" value="Bipolar affektiv lidelse" />
+	<data code="7435" key="F32" value="Depressiv episode" />
+	<data code="7435" key="F32.3" value="Alvorlig depressiv episode med psykotiske symptomer" />
+	<data code="7435" key="F33" value="Tilbakevendende depressiv lidelse" />
+	<data code="7435" key="F33.3" value="Tilbakev depressiv lid, alvorlig episode m/ psykot symptomer" />
+	<data code="7435" key="F34" value="Vedvarende affektive lidelser" />
+	<data code="7435" key="F38" value="Andre affektive lidelser" />
+	<data code="7435" key="F39" value="Uspesifisert affektiv lidelse" />
+	<data code="7435" key="F40" value="Fobiske angstlidelser" />
+	<data code="7435" key="F40.0" value="Agorafobi" />
+	<data code="7435" key="F40.1" value="Sosiale fobier" />
+	<data code="7435" key="F41" value="Andre angstlidelser" />
+	<data code="7435" key="F41.0" value="Panikklidelse [episodisk paroksysmal angst]" />
+	<data code="7435" key="F42" value="Obsessiv-kompulsiv lidelse (tvangslidelse)" />
+	<data code="7435" key="F43" value="Tilpasningsforstyrrelser og reaksjon på alvorlig belastning" />
+	<data code="7435" key="F44" value="Dissosiative lidelser" />
+	<data code="7435" key="F45" value="Somatoforme lidelser" />
+	<data code="7435" key="F48" value="Andre nevrotiske lidelser" />
+	<data code="7435" key="F50" value="Spiseforstyrrelser" />
+	<data code="7435" key="F50.2" value="Bulimia nervosa" />
+	<data code="7435" key="F51" value="Ikke-organiske søvnforstyrrelser" />
+	<data code="7435" key="F52" value="Seksuell dysfunksjon som ikke skyldes somatiske lidelser" />
+	<data code="7435" key="F53" value="Psykiske og atferdsmessige forstyrrelser i barseltiden IKAS" />
+	<data code="7435" key="F54" value="Psykiske/atferdsmessige forstyrr v/ tilst klassif annet sted" />
+	<data code="7435" key="F55" value="Misbruk av ikke-avhengighetsskapende stoffer" />
+	<data code="7435" key="F59" value="Uspesif atferdssyndrom i fb med fysiologiske/fysiske forhold" />
+	<data code="7435" key="F60" value="Spesifikke personlighetsforstyrrelser" />
+	<data code="7435" key="F61" value="Blandede og andre personlighetsforstyrrelser" />
+	<data code="7435" key="F62" value="Vedv. pers.h.forandr. som ikke skyldes skade el. sykd. i hj." />
+	<data code="7435" key="F63" value="Vane- og impulsforstyrrelser" />
+	<data code="7435" key="F64" value="Kjønnsidentitetsforstyrrelser" />
+	<data code="7435" key="F65" value="Forstyrrelser i seksuelle objektvalg" />
+	<data code="7435" key="F66" value="Psyk. og atf.mess. forst. forb. m. seksuell utvikl. og legn." />
+	<data code="7435" key="F68" value="Andre forstyrrelser av voksen personlighet og atferd" />
+	<data code="7435" key="F69" value="Uspesifisert forstyrrelse av voksen personlighet og atferd" />
+	<data code="7435" key="F70" value="Lett psykisk utviklingshemning" />
+	<data code="7435" key="F70.1" value="Lett psykisk utviklingshemming, betydelige atferdsproblemer" />
+	<data code="7435" key="F71" value="Mod. psykisk utviklingshemning" />
+	<data code="7435" key="F71.1" value="Moderat psykisk utviklingshemming, betyd atferdsproblemer" />
+	<data code="7435" key="F72" value="Alvorlig psykisk utviklingshemning" />
+	<data code="7435" key="F72.1" value="Alvorlig psykisk utviklingshemming, betyd atferdsproblemer" />
+	<data code="7435" key="F73" value="Dyp psykisk utviklingshemning" />
+	<data code="7435" key="F73.1" value="Dyp psykisk utviklingshemming, betydelige atferdsproblemer" />
+	<data code="7435" key="F78" value="Annen psykisk utviklingshemning" />
+	<data code="7435" key="F78.1" value="Annen psykisk utviklingshemming, betydelige atferdsproblemer" />
+	<data code="7435" key="F79" value="Uspesifisert psykisk utviklingshemning" />
+	<data code="7435" key="F79.1" value="Uspesif psykisk utviklingshemming, betyd atferdsproblemer" />
+	<data code="7435" key="F80" value="Spesifikke utviklingsforstyrrelser av tale og språk" />
+	<data code="7435" key="F81" value="Spesifikke utvikl.forst. av skoleferdigheter, lærevansker" />
+	<data code="7435" key="F82" value="Spesifikk utviklingsforstyrrelse i motoriske ferdigheter" />
+	<data code="7435" key="F83" value="Blandet utviklingsforstyrrelse i spesifikke ferdigheter" />
+	<data code="7435" key="F84" value="Gjennomgripende utviklingsforstyrrelser" />
+	<data code="7435" key="F88" value="Andre forstyrrelser av psykologisk utvikling" />
+	<data code="7435" key="F89" value="Uspesifisert forstyrrelse av psykologisk utvikling" />
+	<data code="7435" key="F90" value="Hyperkinetiske forstyrrelser" />
+	<data code="7435" key="F91" value="Atferdsforstyrrelser" />
+	<data code="7435" key="F92" value="Blandede atferdsforstyrrelser og følelsesmessige forst." />
+	<data code="7435" key="F93" value="Følelsesmessige forstyrrelser oppstått i barndommen" />
+	<data code="7435" key="F94" value="Forst. i sosial fungering med debut i barne- og ungdomsalder" />
+	<data code="7435" key="F95" value="Tics" />
+	<data code="7435" key="F98" value="A. atf.-/føl.mess. forst., vanl. oppst. i barne-/ungd.alder" />
+	<data code="7435" key="F98.0" value="Ikke-organisk enurese" />
+	<data code="7435" key="F99" value="Uspesifisert psykisk forstyrrelse eller lidelse" />
+	<data code="7435" key="G00" value="Bakteriell meningitt, ikke klassifisert annet sted" />
+	<data code="7435" key="G01" value="Meningitt ved bakteriesykdommer klassifisert annet sted" />
+	<data code="7435" key="G02" value="Meningitt ved andre infek.- og parasittsykd. klass. a. sted" />
+	<data code="7435" key="G03" value="Meningitt som har andre og uspesifiserte årsaker" />
+	<data code="7435" key="G04" value="Encefalitt, myelitt og encefalomyelitt" />
+	<data code="7435" key="G05" value="Encefalitt/myelitt/encefalomyelitt v. sykd. klass. a. sted" />
+	<data code="7435" key="G06" value="Intrakraniell og intraspinal abscess og granulom" />
+	<data code="7435" key="G07" value="Intrakran./intraspin. absc./gran. ved sykd. klass. a. sted" />
+	<data code="7435" key="G08" value="Intrakraniell og intraspinal flebitt og tromboflebitt" />
+	<data code="7435" key="G09" value="Følgetilstander etter betennelsessykdommer i CNS" />
+	<data code="7435" key="G10" value="Huntingtons sykdom" />
+	<data code="7435" key="G11" value="Arvelig ataksi" />
+	<data code="7435" key="G12" value="Spinal muskelatrofi og beslektede syndromer" />
+	<data code="7435" key="G12.1" value="Annen arvelig spinal muskelatrofi" />
+	<data code="7435" key="G12.2" value="Sykdom i motoriske nevroner" />
+	<data code="7435" key="G13" value="Sek. atro. som h.sak. affiserer CNS v. sykd. klass. a. sted" />
+	<data code="7435" key="G14" value="Postpoliosyndrom" />
+	<data code="7435" key="G20" value="Parkinsons sykdom" />
+	<data code="7435" key="G21" value="Sekundær parkinsonisme" />
+	<data code="7435" key="G22" value="Parkinsonisme ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="G23" value="Andre degenerative sykdommer i basalganglier" />
+	<data code="7435" key="G23.8" value="Andre spesifiserte degenerative sykdommer i basalganglier" />
+	<data code="7435" key="G24" value="Dystoni" />
+	<data code="7435" key="G25" value="Andre ekstrapyramidale tilstander og bevegelsesforstyrrelser" />
+	<data code="7435" key="G25.0" value="Essensiell tremor" />
+	<data code="7435" key="G25.3" value="Myoklonus" />
+	<data code="7435" key="G25.4" value="Legemiddelutløst chorea" />
+	<data code="7435" key="G25.8" value="Andre spes. ekstrapyramidale tilstander og bevegelsesforst." />
+	<data code="7435" key="G26" value="Ekstrapyr. tilst. og bev.forst. ved sykd. klass. annet sted" />
+	<data code="7435" key="G30" value="Alzheimers sykdom" />
+	<data code="7435" key="G31" value="Andre degenerative sykdommer i sentralnervesystemet IKAS" />
+	<data code="7435" key="G32" value="A. degenerative tilst. i CNS ved sykdommer klass. annet sted" />
+	<data code="7435" key="G35" value="Multippel sklerose (MS)" />
+	<data code="7435" key="G36" value="Annen akutt disseminert demyelinisering" />
+	<data code="7435" key="G37" value="Andre demyeliniserende sykdommer i sentralnervesystemet" />
+	<data code="7435" key="G40" value="Epilepsi" />
+	<data code="7435" key="G41" value="Status epileptikus" />
+	<data code="7435" key="G43" value="Migrene" />
+	<data code="7435" key="G44" value="Andre hodepinesyndromer" />
+	<data code="7435" key="G44.0" value="Cluster-hodepinesyndrom" />
+	<data code="7435" key="G44.2" value="Tensjonshodepine" />
+	<data code="7435" key="G45" value="Forbigående cerebrale iskemiske anfall og besl. syndromer" />
+	<data code="7435" key="G46" value="Syndromer som skyldes hjernekarsykdom" />
+	<data code="7435" key="G47" value="Søvnforstyrrelser" />
+	<data code="7435" key="G47.1" value="Eksessiv somnolens" />
+	<data code="7435" key="G47.4" value="Narkolepsi og katapleksi" />
+	<data code="7435" key="G47.8" value="Andre spesifiserte søvnforstyrrelser" />
+	<data code="7435" key="G50" value="Sykdommer i nervus trigeminus" />
+	<data code="7435" key="G51" value="Sykdommer i nervus facialis" />
+	<data code="7435" key="G52" value="Sykdommer i andre hjernenerver" />
+	<data code="7435" key="G53" value="Hjernenervelidelser ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="G54" value="Sykdommer i nerverøtter og nervepleksus" />
+	<data code="7435" key="G55" value="Kompr. av n.røtter og nervepleksus ved sykd. klass. a. sted" />
+	<data code="7435" key="G56" value="Mononevropati i overekstremitet" />
+	<data code="7435" key="G57" value="Mononevropati i underekstremitet" />
+	<data code="7435" key="G58" value="Andre mononevropatier" />
+	<data code="7435" key="G59" value="Mononevropati ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="G60" value="Arvelig og idiopatisk nevropati" />
+	<data code="7435" key="G61" value="Inflammatorisk polynevropati" />
+	<data code="7435" key="G62" value="Andre polynevropatier" />
+	<data code="7435" key="G63" value="Polynevropati ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="G64" value="Andre tilstander i det perifere nervesystemet" />
+	<data code="7435" key="G70" value="Myasthenia gravis og andre nevromuskulære forstyrrelser" />
+	<data code="7435" key="G70.0" value="Myasthenia gravis" />
+	<data code="7435" key="G71" value="Primære muskelsykdommer" />
+	<data code="7435" key="G71.0" value="Muskeldystrofi" />
+	<data code="7435" key="G72" value="Andre myopatier" />
+	<data code="7435" key="G73" value="Forst. i nevromuskulær o.g. og m. ved sykd. klass. a. sted" />
+	<data code="7435" key="G80" value="Cerebral parese" />
+	<data code="7435" key="G81" value="Hemiplegi" />
+	<data code="7435" key="G82" value="Paraplegi og tetraplegi" />
+	<data code="7435" key="G83" value="Andre syndromer med lammelse" />
+	<data code="7435" key="G90" value="Lidelser i det autonome nervesystemet" />
+	<data code="7435" key="G91" value="Hydrocephalus" />
+	<data code="7435" key="G92" value="Toksisk encefalopati" />
+	<data code="7435" key="G93" value="Andre hjernelidelser" />
+	<data code="7435" key="G94" value="Andre hjernelidelser ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="G95" value="Andre ryggmargssykdommer" />
+	<data code="7435" key="G96" value="Andre lidelser i sentralnervesystemet" />
+	<data code="7435" key="G97" value="Lidelser i nervesystemet etter behandling IKAS" />
+	<data code="7435" key="G98" value="Andre lidelser i nervesystemet, ikke klassifisert annet sted" />
+	<data code="7435" key="G99" value="Andre lidelser i nervesystemet ved sykdommer klass. a. sted" />
+	<data code="7435" key="H00" value="Hordeolum og chalazion" />
+	<data code="7435" key="H01" value="Annen betennelse i øyelokk" />
+	<data code="7435" key="H02" value="Andre tilstander i øyelokk" />
+	<data code="7435" key="H03" value="Affeksjon av øyelokk ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="H04" value="Sykdommer i tåreapparat" />
+	<data code="7435" key="H05" value="Tilstander i øyehule" />
+	<data code="7435" key="H06" value="Lid. i tåreapparat og øyehule ved sykd. klass. annet sted" />
+	<data code="7435" key="H10" value="Konjunktivitt" />
+	<data code="7435" key="H10.1" value="Allergisk (akutt atopisk) konjunktivitt" />
+	<data code="7435" key="H11" value="Andre sykdommer i conjunctiva" />
+	<data code="7435" key="H13" value="Lidelser i conjunctiva ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="H15" value="Sykdommer i senehinne" />
+	<data code="7435" key="H16" value="Keratitt" />
+	<data code="7435" key="H17" value="Hornhinnearr og hornhinnefordunklinger" />
+	<data code="7435" key="H18" value="Andre tilstander i hornhinne" />
+	<data code="7435" key="H18.1" value="Bulløs keratopati" />
+	<data code="7435" key="H19" value="Lidelser i senehinne og hornhinne ved sykd. klass. a. sted" />
+	<data code="7435" key="H19.1" value="Herpeskeratitt og herpeskeratokonjunktivitt" />
+	<data code="7435" key="H20" value="Iridosyklitt" />
+	<data code="7435" key="H21" value="Andre tilstander i regnbuehinne og strålelegeme" />
+	<data code="7435" key="H22" value="Lid. i regnbuehinne/strålelegeme ved sykd. klass. annet sted" />
+	<data code="7435" key="H25" value="Aldersbetinget grå stær" />
+	<data code="7435" key="H26" value="Annen grå stær" />
+	<data code="7435" key="H27" value="Andre tilstander i linse" />
+	<data code="7435" key="H28" value="Grå stær o. a. tilst. i linse ved sykd. klass. annet sted" />
+	<data code="7435" key="H30" value="Chorioretinal betennelse" />
+	<data code="7435" key="H31" value="Andre sykdommer i årehinne" />
+	<data code="7435" key="H32" value="Chorioretinale sykdommer ved sykdommer klass. annet sted" />
+	<data code="7435" key="H33" value="Netthinneløsning og netthinnerift" />
+	<data code="7435" key="H34" value="Karokklusjon i netthinne" />
+	<data code="7435" key="H35" value="Andre sykdommer i netthinne" />
+	<data code="7435" key="H36" value="Sykdommer i netthinne ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="H40" value="Glaukom" />
+	<data code="7435" key="H42" value="Glaukom (glaucoma) ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="H43" value="Sykdommer i glasslegeme" />
+	<data code="7435" key="H43.0" value="Korpusprolaps" />
+	<data code="7435" key="H44" value="Sykdommer i øyeeple" />
+	<data code="7435" key="H45" value="Lid. i glasslegeme og øyeeple ved sykd. klass. annet sted" />
+	<data code="7435" key="H46" value="Synsnervebetennelse" />
+	<data code="7435" key="H47" value="Andre sykdommer i nervus opticus og synsbaner" />
+	<data code="7435" key="H48" value="Lid. i n. opticus og synsbaner v. sykdommer klass. a. sted" />
+	<data code="7435" key="H49" value="Skjeling ved øyemuskellammelser" />
+	<data code="7435" key="H50" value="Annen form for skjeling" />
+	<data code="7435" key="H51" value="Andre forstyrrelser i binokulærfunksjon" />
+	<data code="7435" key="H52" value="Brytningsforstyrrelser og akkomodasjonsforstyrrelser" />
+	<data code="7435" key="H53" value="Synsforstyrrelser" />
+	<data code="7435" key="H54" value="Blindhet og svaksynthet" />
+	<data code="7435" key="H55" value="Nystagmus og andre irregulære øyebevegelser" />
+	<data code="7435" key="H57" value="Andre sykdommer i øyet og øyets omgivelser" />
+	<data code="7435" key="H58" value="A. tilst. i øyet og øyets omgivelser v. sykd. klass. a. sted" />
+	<data code="7435" key="H59" value="Forst. i øyet og øyets omg. etter behandling IKAS" />
+	<data code="7435" key="H59.0" value="Korpusforandringer etter operasjon for grå stær" />
+	<data code="7435" key="H60" value="Betennelse i ytre øre" />
+	<data code="7435" key="H61" value="Andre sykdommer i ytre øre" />
+	<data code="7435" key="H62" value="Sykdommer i ytre øre  ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="H65" value="Ikke-purulent mellomørebetennelse" />
+	<data code="7435" key="H66" value="Purulent og uspesifisert mellomørebetennelse" />
+	<data code="7435" key="H67" value="Mellomørebetennelse ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="H68" value="Betennelse i og obstruksjon av tuba auditiva" />
+	<data code="7435" key="H69" value="Andre sykdommer i tuba auditiva" />
+	<data code="7435" key="H70" value="Mastoiditt og beslektede tilstander" />
+	<data code="7435" key="H71" value="Kolesteatom i mellomøre" />
+	<data code="7435" key="H72" value="Perforasjon i trommehinne" />
+	<data code="7435" key="H73" value="Andre lidelser i trommehinne" />
+	<data code="7435" key="H74" value="Andre lidelser i mellomøre og ørebensknute" />
+	<data code="7435" key="H75" value="A. lid. i mellomøre og ørebensknute ved sykd. klass. a. sted" />
+	<data code="7435" key="H80" value="Otosklerose" />
+	<data code="7435" key="H81" value="Forstyrrelser i vestibularisfunksjonen" />
+	<data code="7435" key="H82" value="Svimmelhetssyndromer ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="H83" value="Andre sykdommer i indre øre" />
+	<data code="7435" key="H90" value="Mekanisk og nevrogent hørselstap" />
+	<data code="7435" key="H91" value="Annet hørselstap" />
+	<data code="7435" key="H92" value="Øreverk og væskeutskillelse fra øre" />
+	<data code="7435" key="H93" value="Andre lidelser i øre, ikke klassifisert annet sted" />
+	<data code="7435" key="H94" value="Andre lidelser i øre (auris) ved sykdommer klass. annet sted" />
+	<data code="7435" key="H95" value="Lidelser i øre og ørebensknute etter behandling IKAS" />
+	<data code="7435" key="I00" value="Giktfeber uten opplysning om hjertesykdom" />
+	<data code="7435" key="I01" value="Giktfeber med hjertesykdom" />
+	<data code="7435" key="I02" value="Giktfeber med chorea" />
+	<data code="7435" key="I05" value="Reumatiske mitralklaffsykdommer" />
+	<data code="7435" key="I06" value="Reumatiske aortaklaffsykdommer" />
+	<data code="7435" key="I07" value="Reumatiske trikuspidalklaffsykdommer" />
+	<data code="7435" key="I08" value="Affeksjon av flere hjerteklaffer" />
+	<data code="7435" key="I09" value="Andre reumatiske hjertesykdommer" />
+	<data code="7435" key="I10" value="Essensiell (primær) hypertensjon" />
+	<data code="7435" key="I11" value="Hypertensiv hjertesykdom" />
+	<data code="7435" key="I11.0" value="Hypertensiv hjertesykdom med stuvningssvikt" />
+	<data code="7435" key="I12" value="Hypertensiv nyresykdom" />
+	<data code="7435" key="I13" value="Hypertensiv hjerte- og nyresykdom" />
+	<data code="7435" key="I15" value="Sekundær hypertensjon" />
+	<data code="7435" key="I20" value="Angina pectoris" />
+	<data code="7435" key="I20.0" value="Ustabil angina" />
+	<data code="7435" key="I21" value="Akutt hjerteinfarkt" />
+	<data code="7435" key="I22" value="Påfølgende hjerteinfarkt" />
+	<data code="7435" key="I23" value="Akutte komplikasjoner til akutt hjerteinfarkt" />
+	<data code="7435" key="I24" value="Andre akutte eller subakutte iskemiske hjertesykdommer" />
+	<data code="7435" key="I25" value="Kronisk iskemisk hjertesykdom" />
+	<data code="7435" key="I25.1" value="Aterosklerotisk hjertesykdom" />
+	<data code="7435" key="I25.2" value="Gammelt hjerteinfarkt" />
+	<data code="7435" key="I26" value="Lungeemboli" />
+	<data code="7435" key="I27" value="Andre pulmonale hjertesykdommer" />
+	<data code="7435" key="I27.0" value="Primær pulmonal hypertensjon" />
+	<data code="7435" key="I27.9" value="Uspesifisert pulmonal hjertesykdom" />
+	<data code="7435" key="I28" value="Andre sykdommer i lungekar" />
+	<data code="7435" key="I30" value="Akutt perikarditt" />
+	<data code="7435" key="I31" value="Andre sykdommer i perikard" />
+	<data code="7435" key="I32" value="Perikarditt som manifest. ved sykdommer klass. annet sted" />
+	<data code="7435" key="I33" value="Akutt og subakutt ikke-reumatisk endokarditt" />
+	<data code="7435" key="I34" value="Ikke-reumatiske mitralklaffefeil" />
+	<data code="7435" key="I35" value="Ikke-reumatiske aortaklaffefeil" />
+	<data code="7435" key="I36" value="Ikke-reumatiske trikuspidalklaffefeil" />
+	<data code="7435" key="I37" value="Pulmonalklaffefeil" />
+	<data code="7435" key="I38" value="Endokarditt, uspesifisert klaff" />
+	<data code="7435" key="I39" value="Endokarditt og hjerteklaffefeil ved sykd. klass. annet sted" />
+	<data code="7435" key="I40" value="Akutt myokarditt" />
+	<data code="7435" key="I41" value="Myokarditt ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="I42" value="Kardiomyopati" />
+	<data code="7435" key="I42.1" value="Obstruktiv hypertrofisk kardiomyopati" />
+	<data code="7435" key="I43" value="Kardiomyopati ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="I44" value="Atrioventrikulært og venstresidig grenblokk" />
+	<data code="7435" key="I45" value="Andre ledningsforstyrrelser" />
+	<data code="7435" key="I46" value="Hjertestans" />
+	<data code="7435" key="I47" value="Paroksysmal takykardi" />
+	<data code="7435" key="I48" value="Atrieflimmer og atrieflutter" />
+	<data code="7435" key="I49" value="Annen hjertearytmi" />
+	<data code="7435" key="I50" value="Hjertesvikt" />
+	<data code="7435" key="I50.1" value="Venstresidig ventrikkelsvikt" />
+	<data code="7435" key="I51" value="Komp. og dårlig definerte beskrivelser av hjertesykdom" />
+	<data code="7435" key="I52" value="Andre hjerteforstyrrelser ved sykdommer klass. annet sted" />
+	<data code="7435" key="I60" value="Subaraknoidalblødning" />
+	<data code="7435" key="I61" value="Hjerneblødning" />
+	<data code="7435" key="I62" value="Annen ikke-traumatisk intrakraniell blødning" />
+	<data code="7435" key="I63" value="Hjerneinfarkt" />
+	<data code="7435" key="I64" value="Hjerneslag, ikke spesifisert som blødning eller infarkt" />
+	<data code="7435" key="I65" value="Okkl. og stenose av precereb. art., uten hj.inf. som følge" />
+	<data code="7435" key="I66" value="Okkl. og stenose av hjernearterier, uten hj.inf. som følge" />
+	<data code="7435" key="I67" value="Andre hjernekarsykdommer" />
+	<data code="7435" key="I67.2" value="Cerebral aterosklerose" />
+	<data code="7435" key="I67.6" value="Ikke-pyogen trombose i intrakranielt venesystem" />
+	<data code="7435" key="I68" value="Forstyrrelser i hjernekar ved sykdommer klass. annet sted" />
+	<data code="7435" key="I69" value="Følgetilstander etter hjernekarsykdom" />
+	<data code="7435" key="I70" value="Aterosklerose" />
+	<data code="7435" key="I70.2" value="Aterosklerose arterie ekstremitet" />
+	<data code="7435" key="I71" value="Aorta-aneurisme og aortadisseksjon" />
+	<data code="7435" key="I72" value="Annet aneurisme" />
+	<data code="7435" key="I73" value="Andre sykdommer i perifere kar" />
+	<data code="7435" key="I73.0" value="Raynauds syndrom" />
+	<data code="7435" key="I73.9" value="Uspesifisert sykdom i perifere kar (Claudicatio intermittens)" />
+	<data code="7435" key="I74" value="Emboli og trombose i arterier" />
+	<data code="7435" key="I77" value="Andre forstyrrelser i arterier og arterioler" />
+	<data code="7435" key="I78" value="Sykdommer i kapillærer" />
+	<data code="7435" key="I79" value="Forst. i art./arterioler/kapillærer ved sykd. klass. a. sted" />
+	<data code="7435" key="I80" value="Flebitt og tromboflebitt" />
+	<data code="7435" key="I81" value="Portvenetrombose" />
+	<data code="7435" key="I82" value="Annen emboli og trombose i vener" />
+	<data code="7435" key="I83" value="Åreknuter i underekstremiteter" />
+	<data code="7435" key="I84" value="Hemoroider" />
+	<data code="7435" key="I85" value="Øsofagusvaricer" />
+	<data code="7435" key="I86" value="Åreknuter med annen lokalisasjon" />
+	<data code="7435" key="I87" value="Andre forstyrrelser i vener" />
+	<data code="7435" key="I88" value="Uspesifikk lymfadenitt" />
+	<data code="7435" key="I89" value="Andre ikke-infeksiøse forst. i lymfekar og lymfeknuter" />
+	<data code="7435" key="I95" value="Hypotensjon" />
+	<data code="7435" key="I95.1" value="Ortostatisk hypotensjon" />
+	<data code="7435" key="I97" value="Forstyrrelser i sirkulasjonssystemet etter behandling IKAS" />
+	<data code="7435" key="I98" value="Andre forst. i sirk.syst. ved sykdommer klass. annet sted" />
+	<data code="7435" key="I99" value="Andre og uspesifiserte forstyrrelser i sirkulasjonssystemet" />
+	<data code="7435" key="J00" value="Akutt nasofaryngitt" />
+	<data code="7435" key="J01" value="Akutt sinusitt" />
+	<data code="7435" key="J02" value="Akutt faryngitt" />
+	<data code="7435" key="J03" value="Akutt tonsillitt" />
+	<data code="7435" key="J04" value="Akutt laryngitt og trakeitt" />
+	<data code="7435" key="J05" value="Akutt obstruktiv laryngitt og epiglottitt" />
+	<data code="7435" key="J06" value="Ak. infek. i øvre luftveier, med flere og uspesifiserte lok." />
+	<data code="7435" key="J09" value="Influensa som skyldes identifisert fugleinfluensavirus" />
+	<data code="7435" key="J10" value="Influensa som skyldes identifisert influensavirus" />
+	<data code="7435" key="J11" value="Influensa, uidentifisert virus" />
+	<data code="7435" key="J12" value="Viruspneumoni, ikke klassifisert annet sted" />
+	<data code="7435" key="J13" value="Pneumoni som skyldes Streptococcus pneumoniae" />
+	<data code="7435" key="J14" value="Pneumoni som skyldes Haemophilus influenzae" />
+	<data code="7435" key="J15" value="Bakteriell pneumoni, ikke klassifisert annet sted" />
+	<data code="7435" key="J16" value="Pneumoni som skyldes andre mikroorganismer IKAS" />
+	<data code="7435" key="J17" value="Pneumoni ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="J18" value="Pneumoni, uspesifisert mikroorganisme" />
+	<data code="7435" key="J20" value="Akutt bronkitt" />
+	<data code="7435" key="J21" value="Akutt bronkiolitt" />
+	<data code="7435" key="J22" value="Uspesifisert akutt infeksjon i nedre luftveier" />
+	<data code="7435" key="J30" value="Vasomotorisk og allergisk rinitt" />
+	<data code="7435" key="J31" value="Kronisk rinitt, nasofaryngitt og faryngitt" />
+	<data code="7435" key="J32" value="Kronisk sinusitt" />
+	<data code="7435" key="J33" value="Nesepolypp" />
+	<data code="7435" key="J34" value="Andre forstyrrelser i nese og nesebihuler" />
+	<data code="7435" key="J35" value="Kroniske sykdommer i mandler og adenoid vev" />
+	<data code="7435" key="J36" value="Peritonsillær abscess" />
+	<data code="7435" key="J37" value="Kronisk laryngitt og laryngotrakeitt" />
+	<data code="7435" key="J38" value="Sykdommer i stemmebånd og strupehode IKAS" />
+	<data code="7435" key="J39" value="Andre sykdommer i øvre luftveier" />
+	<data code="7435" key="J40" value="Bronkitt, ikke spesifisert som akutt eller kronisk" />
+	<data code="7435" key="J41" value="Ukomplisert og mukopurulent kronisk bronkitt" />
+	<data code="7435" key="J42" value="Uspesifisert kronisk bronkitt" />
+	<data code="7435" key="J43" value="Emfysem" />
+	<data code="7435" key="J44" value="Annen kronisk obstruktiv lungesykdom" />
+	<data code="7435" key="J45" value="Astma" />
+	<data code="7435" key="J46" value="Akutt alvorlig astma" />
+	<data code="7435" key="J47" value="Bronkiektasi" />
+	<data code="7435" key="J60" value="Pneumokoniose som skyldes kullstøv" />
+	<data code="7435" key="J61" value="Pneumokoniose som skyldes asbest og andre mineralfibre" />
+	<data code="7435" key="J62" value="Pneumokoniose som skyldes stenstøv" />
+	<data code="7435" key="J63" value="Pneumokoniose som skyldes annet uorganisk støv" />
+	<data code="7435" key="J64" value="Uspesifisert pneumokoniose" />
+	<data code="7435" key="J65" value="Pneumokoniose i forbindelse med tuberkulose" />
+	<data code="7435" key="J66" value="Luftveissykdom som skyldes spesifikt organisk støv" />
+	<data code="7435" key="J67" value="Lungesykdom som skyldes organisk støv" />
+	<data code="7435" key="J68" value="Lungesykd. s. sk. innånding av kjemikalier/gasser/røyk/damp" />
+	<data code="7435" key="J69" value="Lungesykdom forårsaket av faste stoffer og væsker" />
+	<data code="7435" key="J70" value="Åndedrettstilstander forårsaket av andre ytre stoffer" />
+	<data code="7435" key="J80" value="Respiratorisk distressyndrom hos voksne [ARDS]" />
+	<data code="7435" key="J81" value="Lungeødem" />
+	<data code="7435" key="J82" value="Lungeeosinofili, ikke klassifisert annet sted" />
+	<data code="7435" key="J84" value="Andre interstitielle lungesykdommer" />
+	<data code="7435" key="J84.1" value="Annen interstitiell lungesykdom med fibrose" />
+	<data code="7435" key="J85" value="Abscess i lunge og mediastinum" />
+	<data code="7435" key="J86" value="Pyotoraks" />
+	<data code="7435" key="J90" value="Pleuraeffusjon, ikke klassifisert annet sted" />
+	<data code="7435" key="J91" value="Pleuraeffusjon ved tilstander klassifisert annet sted" />
+	<data code="7435" key="J92" value="Pleuraplakk" />
+	<data code="7435" key="J93" value="Pneumotoraks" />
+	<data code="7435" key="J94" value="Andre tilstander i brysthinne" />
+	<data code="7435" key="J95" value="Åndedrettsforstyrrelser etter medisinske prosedyrer IKAS" />
+	<data code="7435" key="J96" value="Respirasjonssvikt, ikke klassifisert annet sted" />
+	<data code="7435" key="J98" value="Andre åndedrettsforstyrrelser" />
+	<data code="7435" key="J98.8" value="Andre spesifiserte åndedrettsforstyrrelser" />
+	<data code="7435" key="J99" value="Å.dr.forst. som symptom ved sykdommer klass. annet sted" />
+	<data code="7435" key="K00" value="Forstyrrelser i tannutvikling og -frembrudd" />
+	<data code="7435" key="K01" value="Ikke-frembrutte og innkilte tenner" />
+	<data code="7435" key="K02" value="Tannkaries" />
+	<data code="7435" key="K03" value="Andre sykdommer i tennenes hardvev" />
+	<data code="7435" key="K04" value="Sykdommer i pulpa og periapikalt vev" />
+	<data code="7435" key="K05" value="Gingivitt og periodontale sykdommer" />
+	<data code="7435" key="K06" value="Andre tilstander i tannkjøtt og tannløs kjevekam" />
+	<data code="7435" key="K07" value="Dentofaciale anomalier (inkludert malokklusjon)" />
+	<data code="7435" key="K08" value="Andre forstyrrelser i tenner og støttevev" />
+	<data code="7435" key="K09" value="Cyster i munnregion, ikke klassifisert annet sted" />
+	<data code="7435" key="K10" value="Andre sykdommer i kjever" />
+	<data code="7435" key="K11" value="Sykdommer i spyttkjertler" />
+	<data code="7435" key="K12" value="Stomatitt og relaterte lesjoner" />
+	<data code="7435" key="K13" value="Andre sykdommer i lepper og munnslimhinne" />
+	<data code="7435" key="K14" value="Sykdommer i tunge" />
+	<data code="7435" key="K20" value="Øsofagitt" />
+	<data code="7435" key="K21" value="Gastroøsofageal reflukssykdom" />
+	<data code="7435" key="K22" value="Andre sykdommer i spiserør" />
+	<data code="7435" key="K22.1" value="Sår i spiserør" />
+	<data code="7435" key="K23" value="Manifestasjoner i spiserør av sykdommer klass. annet sted" />
+	<data code="7435" key="K25" value="Sår i magesekk" />
+	<data code="7435" key="K26" value="Sår i tolvfingertarm" />
+	<data code="7435" key="K27" value="Magesår, uspesifisert lokalisasjon" />
+	<data code="7435" key="K28" value="Gastrojejunalt sår" />
+	<data code="7435" key="K29" value="Gastritt og duodenitt" />
+	<data code="7435" key="K30" value="Dyspepsi" />
+	<data code="7435" key="K31" value="Andre sykdommer i magesekk og tolvfingertarm" />
+	<data code="7435" key="K31.0" value="Akutt ventrikkeldilatasjon" />
+	<data code="7435" key="K35" value="Akutt appendisitt" />
+	<data code="7435" key="K36" value="Annen spesifisert appendisitt" />
+	<data code="7435" key="K37" value="Uspesifisert appendisitt" />
+	<data code="7435" key="K38" value="Andre sykdommer i blindtarmsvedheng" />
+	<data code="7435" key="K40" value="Lyskebrokk" />
+	<data code="7435" key="K41" value="Lårbrokk" />
+	<data code="7435" key="K42" value="Navlebrokk" />
+	<data code="7435" key="K43" value="Ventralt brokk" />
+	<data code="7435" key="K44" value="Mellomgulvsbrokk" />
+	<data code="7435" key="K45" value="Annet abdominalt brokk" />
+	<data code="7435" key="K46" value="Uspesifisert abdominalt brokk" />
+	<data code="7435" key="K50" value="Crohns sykdom" />
+	<data code="7435" key="K51" value="Ulcerøs kolitt" />
+	<data code="7435" key="K51.2" value="Ulcerøs (kronisk) proktitt" />
+	<data code="7435" key="K52" value="Annen ikke-infeksiøs gastroenteritt og kolitt" />
+	<data code="7435" key="K52.2" value="Allergisk og diettbetinget gastroenteritt og kolitt" />
+	<data code="7435" key="K52.8" value="Annen spesifisert ikke-infeksiøs gastroenteritt og kolitt" />
+	<data code="7435" key="K55" value="Vaskulære forstyrrelser i tarm" />
+	<data code="7435" key="K56" value="Paralytisk ileus og tarmobstruksjon uten brokk" />
+	<data code="7435" key="K57" value="Divertikkelsykdom i tarm" />
+	<data code="7435" key="K58" value="Irritabel tarm-syndrom" />
+	<data code="7435" key="K58.0" value="Irritabel tarm-syndrom med diaré" />
+	<data code="7435" key="K58.1" value="Irritabel tarm-syndrom med hovedsakelig diaré [IBS-D]" />
+	<data code="7435" key="K58.2" value="Irritabel tarm-syndrom med hovedsakelig obstipasjon [IBS-C]" />
+	<data code="7435" key="K58.9" value="Irritabel tarm-syndrom uten diaré" />
+	<data code="7435" key="K59" value="Andre funksjonelle forstyrrelser i tarm" />
+	<data code="7435" key="K60" value="Fissur og fistel i anal- og rektalområdet" />
+	<data code="7435" key="K61" value="Abscess i anal- og rektalområdet" />
+	<data code="7435" key="K62" value="Andre sykdommer i endetarmsåpning, analkanal og endetarm" />
+	<data code="7435" key="K63" value="Andre sykdommer i tarm" />
+	<data code="7435" key="K64" value="Hemoroider og perianal venøs trombose" />
+	<data code="7435" key="K65" value="Peritonitt" />
+	<data code="7435" key="K66" value="Andre sykdommer i bukhinne" />
+	<data code="7435" key="K67" value="Manifest. i bukhinne av infeksjonssykd. klass. annet sted" />
+	<data code="7435" key="K70" value="Alkoholisk leversykdom" />
+	<data code="7435" key="K71" value="Toksisk leversykdom" />
+	<data code="7435" key="K72" value="Leversvikt, ikke klassifisert annet sted" />
+	<data code="7435" key="K73" value="Kronisk hepatitt, ikke klassifisert annet sted" />
+	<data code="7435" key="K74" value="Fibrose og cirrhose i lever" />
+	<data code="7435" key="K75" value="Andre inflammatoriske leversykdommer" />
+	<data code="7435" key="K75.4" value="Autoimmun hepatitt" />
+	<data code="7435" key="K76" value="Andre leversykdommer" />
+	<data code="7435" key="K77" value="Leveraffeksjoner ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="K80" value="Gallesten" />
+	<data code="7435" key="K81" value="Galleblærebetennelse" />
+	<data code="7435" key="K82" value="Andre sykdommer i galleblære" />
+	<data code="7435" key="K83" value="Andre sykdommer i galleveier" />
+	<data code="7435" key="K83.1" value="Obstruksjon av gallegang" />
+	<data code="7435" key="K85" value="Akutt pankreatitt" />
+	<data code="7435" key="K86" value="Andre ikke-infeksiøse sykdommer i bukspyttkjertel" />
+	<data code="7435" key="K87" value="Manifest., gallebl./gallev./buksp.kj. av sykd. klass. a.sted" />
+	<data code="7435" key="K90" value="Intestinal malabsorpsjon" />
+	<data code="7435" key="K91" value="Andre forst. i fordøy.syst. som følge av prosedyrer IKAS" />
+	<data code="7435" key="K91.2" value="Postoperativ malabsorpsjon, ikke klassifisert annet sted" />
+	<data code="7435" key="K92" value="Andre sykdommer i fordøyelsessystemet" />
+	<data code="7435" key="K93" value="Sykdommer i diverse fordøy.org. ved sykd. klass. annet sted" />
+	<data code="7435" key="L00" value="Hud-syndrom som skyldes stafylokokker" />
+	<data code="7435" key="L01" value="Impetigo" />
+	<data code="7435" key="L02" value="Kutan abscess, furunkel og karbunkel" />
+	<data code="7435" key="L03" value="Cellulitt" />
+	<data code="7435" key="L04" value="Akutt lymfadenitt" />
+	<data code="7435" key="L05" value="Pilonidalcyste" />
+	<data code="7435" key="L08" value="Andre lokale infeksjoner i hud og underhud" />
+	<data code="7435" key="L10" value="Pemfigus" />
+	<data code="7435" key="L10.0" value="Pemphigus vulgaris" />
+	<data code="7435" key="L11" value="Andre akantolytiske lidelser" />
+	<data code="7435" key="L12" value="Pemfigoid" />
+	<data code="7435" key="L13" value="Andre bulløse lidelser" />
+	<data code="7435" key="L13.0" value="Dermatitis herpetiformis" />
+	<data code="7435" key="L14" value="Bulløse lidelser ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="L20" value="Atopisk dermatitt" />
+	<data code="7435" key="L21" value="Seboréisk dermatitt" />
+	<data code="7435" key="L22" value="Bleiedermatitt" />
+	<data code="7435" key="L23" value="Allergisk kontaktdermatitt" />
+	<data code="7435" key="L24" value="Toksisk kontaktdermatitt" />
+	<data code="7435" key="L25" value="Uspesifisert kontaktdermatitt" />
+	<data code="7435" key="L26" value="Eksfoliativ dermatitt" />
+	<data code="7435" key="L27" value="Dermatitt som skyldes inntatte stoffer" />
+	<data code="7435" key="L28" value="Lichen simplex chronicus og prurigo" />
+	<data code="7435" key="L29" value="Kløe" />
+	<data code="7435" key="L30" value="Annen dermatitt" />
+	<data code="7435" key="L40" value="Psoriasis" />
+	<data code="7435" key="L40.5" value="Psoriasis med artropati (M07.0 -M07.3*, M09.0*)" />
+	<data code="7435" key="L41" value="Parapsoriasis" />
+	<data code="7435" key="L42" value="Pityriasis rosea" />
+	<data code="7435" key="L43" value="Lichen ruber planus" />
+	<data code="7435" key="L44" value="Andre papuloskvamøse lidelser" />
+	<data code="7435" key="L44.0" value="Pityriasis rubra pilaris" />
+	<data code="7435" key="L45" value="Papuloskvamøse lidelser ved sykdommer klass. annet sted" />
+	<data code="7435" key="L50" value="Urticaria" />
+	<data code="7435" key="L51" value="Erythema multiforme" />
+	<data code="7435" key="L52" value="Erythema nodosum" />
+	<data code="7435" key="L53" value="Andre erytematøse tilstander" />
+	<data code="7435" key="L54" value="Erytem ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="L55" value="Solforbrenning" />
+	<data code="7435" key="L56" value="Andre ak. hudforandringer som skyldes ultrafiolett stråling" />
+	<data code="7435" key="L57" value="Hudforandr. s. sk. kr. eksp. for ikke-ioniserende stråling" />
+	<data code="7435" key="L57.0" value="Aktinisk keratose" />
+	<data code="7435" key="L58" value="Radiodermatitt" />
+	<data code="7435" key="L59" value="Andre strålingsrelaterte lidelser i hud og underhud" />
+	<data code="7435" key="L60" value="Neglelidelser" />
+	<data code="7435" key="L62" value="Neglelidelser ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="L63" value="Flekkvis alopesi" />
+	<data code="7435" key="L64" value="Androgen alopesi" />
+	<data code="7435" key="L65" value="Annet hårtap uten arrdannelse" />
+	<data code="7435" key="L66" value="Alopesi med arrdannelse" />
+	<data code="7435" key="L67" value="Abnormiteter ved hårfarge og hårskaft" />
+	<data code="7435" key="L68" value="Hypertrikose" />
+	<data code="7435" key="L70" value="Akne" />
+	<data code="7435" key="L71" value="Rosacea" />
+	<data code="7435" key="L72" value="Follikulære cyster i hud og underhud" />
+	<data code="7435" key="L73" value="Andre follikkellidelser" />
+	<data code="7435" key="L74" value="Lidelser i eksokrine svettekjertler" />
+	<data code="7435" key="L75" value="Lidelser i apokrine svettekjertler" />
+	<data code="7435" key="L80" value="Vitiligo" />
+	<data code="7435" key="L81" value="Andre forstyrrelser i pigmentering" />
+	<data code="7435" key="L82" value="Seboréisk keratose" />
+	<data code="7435" key="L83" value="Acanthosis nigricans" />
+	<data code="7435" key="L84" value="Liktorner og hornhud" />
+	<data code="7435" key="L85" value="Annen epidermal fortykkelse" />
+	<data code="7435" key="L86" value="Keratoderma ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="L87" value="Forstyrrelser i transepidermal eliminasjon" />
+	<data code="7435" key="L88" value="Pyoderma gangrenosum" />
+	<data code="7435" key="L89" value="Dekubitalsår" />
+	<data code="7435" key="L90" value="Atrofiske hudlidelser" />
+	<data code="7435" key="L91" value="Hypertrofiske hudlidelser" />
+	<data code="7435" key="L92" value="Granulomatøse lidelser i hud og underhud" />
+	<data code="7435" key="L93" value="Lupus erythematosus" />
+	<data code="7435" key="L94" value="Andre lokaliserte bindevevssykdommer" />
+	<data code="7435" key="L95" value="Vaskulitt begrenset til hud, ikke klassifisert annet sted" />
+	<data code="7435" key="L97" value="Sår på underekstremitet, ikke klassifisert annet sted" />
+	<data code="7435" key="L98" value="Andre lidelser i hud og underhud, ikke klassifisert a. sted" />
+	<data code="7435" key="L99" value="Andre lidelser i hud og underhud ved sykd. klass. annet sted" />
+	<data code="7435" key="M00" value="Pyogen artritt" />
+	<data code="7435" key="M01" value="Direkte leddinfek. ved infek.- og paras.sykd. klass. a. sted" />
+	<data code="7435" key="M02" value="Reaktive leddlidelser" />
+	<data code="7435" key="M03" value="Postinfeksiøse og reaktive leddlid. ved sykd. klass. a. sted" />
+	<data code="7435" key="M05" value="Seropositiv reumatoid artritt" />
+	<data code="7435" key="M06" value="Annen reumatoid artritt" />
+	<data code="7435" key="M07" value="Leddlidelser ved psoriasis og inflammatorisk tarmsykdom" />
+	<data code="7435" key="M08" value="Juvenil artritt" />
+	<data code="7435" key="M09" value="Juvenil artritt ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="M10" value="Urinsyregikt" />
+	<data code="7435" key="M11" value="Andre krystallinduserte leddlidelser" />
+	<data code="7435" key="M12" value="Andre spesifiserte leddlidelser" />
+	<data code="7435" key="M13" value="Annen artritt" />
+	<data code="7435" key="M13.0" value="Uspesifisert polyartritt" />
+	<data code="7435" key="M14" value="Leddlidelser ved andre sykdommer klassifisert annet sted" />
+	<data code="7435" key="M15" value="Polyartrose" />
+	<data code="7435" key="M16" value="Hofteleddsartrose" />
+	<data code="7435" key="M17" value="Kneleddsartrose" />
+	<data code="7435" key="M18" value="Artrose i første karpometakarpalledd" />
+	<data code="7435" key="M19" value="Annen artrose" />
+	<data code="7435" key="M20" value="Ervervede deformiteter i fingre og tær" />
+	<data code="7435" key="M21" value="Andre ervervede deformiteter i ekstremiteter" />
+	<data code="7435" key="M22" value="Lidelser relatert til kneskål" />
+	<data code="7435" key="M23" value="Kneleddlidelser" />
+	<data code="7435" key="M24" value="Annen spesifisert uorden i ledd" />
+	<data code="7435" key="M25" value="Andre leddtilstander, ikke klassifisert annet sted" />
+	<data code="7435" key="M30" value="Polyarteritis nodosa og beslektede tilstander" />
+	<data code="7435" key="M31" value="Andre nekrotiserende vaskulitter" />
+	<data code="7435" key="M31.0" value="Hypersensitivitetsangiitt" />
+	<data code="7435" key="M31.3" value="Wegeners granulomatose" />
+	<data code="7435" key="M32" value="Systemisk lupus erythematosus  [SLE]" />
+	<data code="7435" key="M33" value="Dermatopolymyositt" />
+	<data code="7435" key="M34" value="Systemisk sklerose" />
+	<data code="7435" key="M35" value="Annen systemisk affeksjon av bindevev" />
+	<data code="7435" key="M35.0" value="Sicca-syndrom" />
+	<data code="7435" key="M36" value="Systemiske bindevevssykdommer ved sykdommer klass. a. sted" />
+	<data code="7435" key="M40" value="Kyfose og lordose" />
+	<data code="7435" key="M41" value="Skoliose" />
+	<data code="7435" key="M42" value="Spinal osteokondrose" />
+	<data code="7435" key="M43" value="Andre deformerende rygglidelser" />
+	<data code="7435" key="M45" value="Ankyloserende spondylitt" />
+	<data code="7435" key="M46" value="Andre inflammatoriske lidelser i ryggsøylen" />
+	<data code="7435" key="M46.1" value="Sakroiliitt, ikke klassifisert annet sted" />
+	<data code="7435" key="M46.8" value="Andre spesifiserte inflammatoriske lidelser i ryggsøylen" />
+	<data code="7435" key="M47" value="Spondylose" />
+	<data code="7435" key="M48" value="Andre lidelser i ryggsøylen" />
+	<data code="7435" key="M49" value="Lidelser i ryggsøylen  ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="M50" value="Lidelser i cervikalskive" />
+	<data code="7435" key="M51" value="Andre lidelser i mellomvirvelskive" />
+	<data code="7435" key="M53" value="Andre rygglidelser, ikke klassifisert annet sted" />
+	<data code="7435" key="M54" value="Ryggsmerte" />
+	<data code="7435" key="M60" value="Myositt" />
+	<data code="7435" key="M61" value="Forkalkning og forbening av muskel" />
+	<data code="7435" key="M62" value="Andre muskelsykdommer" />
+	<data code="7435" key="M63" value="Muskelsykdommer ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="M65" value="Synovitt og tenosynovitt" />
+	<data code="7435" key="M66" value="Spontan ruptur i synovialhinne og sene" />
+	<data code="7435" key="M67" value="Andre lidelser i synovialhinne og sene" />
+	<data code="7435" key="M68" value="Aff. av synovialhinne/-sene ved sykdommer klass. annet sted" />
+	<data code="7435" key="M70" value="Bløtvevssykdommer etter bruk, overbelastning og trykk" />
+	<data code="7435" key="M71" value="Andre lidelser i slimpose" />
+	<data code="7435" key="M72" value="Sykdommer i fascier og annet fibrøst vev" />
+	<data code="7435" key="M73" value="Affeksjon av bløtvev ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="M75" value="Skulderlidelser" />
+	<data code="7435" key="M76" value="Entesopatier i underekstremitet, unntatt fot" />
+	<data code="7435" key="M77" value="Andre entesopatier" />
+	<data code="7435" key="M79" value="Andre bløtvevssykdommer, ikke klassifisert annet sted" />
+	<data code="7435" key="M80" value="Osteoporose med patologisk brudd" />
+	<data code="7435" key="M81" value="Osteoporose uten patologisk brudd" />
+	<data code="7435" key="M82" value="Osteoporose ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="M83" value="Osteomalasi hos voksne" />
+	<data code="7435" key="M84" value="Avbrudd i knokkelkontinuitet" />
+	<data code="7435" key="M85" value="Andre forstyrrelser i bentetthet og benstruktur" />
+	<data code="7435" key="M86" value="Osteomyelitt" />
+	<data code="7435" key="M86.3" value="Kronisk multifokal osteomyelitt" />
+	<data code="7435" key="M87" value="Osteonekrose" />
+	<data code="7435" key="M88" value="Pagets sykdom i knokler" />
+	<data code="7435" key="M89" value="Andre lidelser i knokler" />
+	<data code="7435" key="M90" value="Benaffeksjon ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="M91" value="Juvenil osteokondrose i hofte og bekken" />
+	<data code="7435" key="M92" value="Annen juvenil osteokondrose" />
+	<data code="7435" key="M93" value="Andre osteokondropatier" />
+	<data code="7435" key="M94" value="Andre brusklidelser" />
+	<data code="7435" key="M94.1" value="Residiverende polykondritt" />
+	<data code="7435" key="M95" value="Andre ervervede def. i muskel-skjelettsystemet og bindevev" />
+	<data code="7435" key="M96" value="Lidelse i muskel-skjelettsystemet etter behandling IKAS" />
+	<data code="7435" key="M99" value="Biomekaniske lesjoner, ikke klassifisert annet sted" />
+	<data code="7435" key="N00" value="Akutt nefrittisk syndrom" />
+	<data code="7435" key="N01" value="Raskt progredierende nefrittisk syndrom" />
+	<data code="7435" key="N02" value="Tilbakevendende og vedvarende hematuri" />
+	<data code="7435" key="N03" value="Kronisk nefrittisk syndrom" />
+	<data code="7435" key="N04" value="Nefrotisk syndrom" />
+	<data code="7435" key="N05" value="Uspesifisert nefrittisk syndrom" />
+	<data code="7435" key="N06" value="Isolert proteinuri med spesifisert morfologisk lesjon" />
+	<data code="7435" key="N07" value="Arvelig nefropati, ikke klassifisert annet sted" />
+	<data code="7435" key="N08" value="Glomerulære forstyrrelser ved sykdommer klass. annet sted" />
+	<data code="7435" key="N10" value="Akutt tubulointerstitiell nefritt" />
+	<data code="7435" key="N11" value="Kronisk tubulointerstitiell nefritt" />
+	<data code="7435" key="N12" value="Tubulointerstitiell nefritt, ikke spes. som ak. eller kr." />
+	<data code="7435" key="N13" value="Obstruktiv urinveissykdom og urinveissykdom med refluks" />
+	<data code="7435" key="N14" value="Tubulointerst. og tubulære tilst. utl. av legemidl./tungmet." />
+	<data code="7435" key="N15" value="Andre tubulointerstitielle nyresykdommer" />
+	<data code="7435" key="N16" value="Tubulointerst. nyresykdommer ved sykdommer klass. annet sted" />
+	<data code="7435" key="N17" value="Akutt nyresvikt" />
+	<data code="7435" key="N18" value="Kronisk nyresykdom" />
+	<data code="7435" key="N19" value="Uspesifisert nyresvikt" />
+	<data code="7435" key="N20" value="Sten i nyre og urinleder" />
+	<data code="7435" key="N21" value="Sten i nedre urinveier" />
+	<data code="7435" key="N22" value="Sten i urinveier ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="N23" value="Uspesifisert nyrekolikk" />
+	<data code="7435" key="N25" value="Forstyrrelser som skyldes svekket tubulær funksjon i nyre" />
+	<data code="7435" key="N26" value="Uspesifisert skrumpnyre" />
+	<data code="7435" key="N27" value="Liten nyre, ukjent årsak" />
+	<data code="7435" key="N28" value="Andre forstyrrelser i nyre og urinleder IKAS" />
+	<data code="7435" key="N29" value="Andre forst. i nyre og urinleder ved sykd. klass. annet sted" />
+	<data code="7435" key="N30" value="Cystitt" />
+	<data code="7435" key="N31" value="Nevromuskulær blæresvikt, ikke klassifisert annet sted" />
+	<data code="7435" key="N32" value="Andre blæreforstyrrelser" />
+	<data code="7435" key="N33" value="Blæreforstyrrelser ved sykdommer klassifisert annet sted" />
+	<data code="7435" key="N34" value="Uretritt og uretrasyndrom" />
+	<data code="7435" key="N35" value="Urinrørsstriktur" />
+	<data code="7435" key="N36" value="Andre forstyrrelser i urinrør" />
+	<data code="7435" key="N37" value="Forstyrrelser i urinrør ved sykdommer klass. annet sted" />
+	<data code="7435" key="N39" value="Andre forstyrrelser i urinsystemet" />
+	<data code="7435" key="N39.0" value="Urinveisinfeksjon med uspesifisert lokalisasjon" />
+	<data code="7435" key="N39.4" value="Annen spesifisert urininkontinens" />
+	<data code="7435" key="N40" value="Benign prostataobstruksjon" />
+	<data code="7435" key="N41" value="Infeksjonssykdommer i blærehalskjertel" />
+	<data code="7435" key="N42" value="Andre forstyrrelser i blærehalskjertel" />
+	<data code="7435" key="N43" value="Hydrocele og spermatocele" />
+	<data code="7435" key="N44" value="Testikkeltorsjon" />
+	<data code="7435" key="N45" value="Orkitt og epididymitt" />
+	<data code="7435" key="N46" value="Infertilitet hos mann" />
+	<data code="7435" key="N47" value="Overflødig forhud, fimose og parafimose" />
+	<data code="7435" key="N48" value="Andre penisforstyrrelser" />
+	<data code="7435" key="N49" value="Betennelsestilstander i mannlige kjønnsorganer IKAS" />
+	<data code="7435" key="N50" value="Andre forstyrrelser i mannlige kjønnsorganer" />
+	<data code="7435" key="N51" value="Forst. i mannlige kjønnsorganer ved sykd. klass. annet sted" />
+	<data code="7435" key="N60" value="Godartet mammadysplasi" />
+	<data code="7435" key="N61" value="Betennelsestilstander i bryst" />
+	<data code="7435" key="N62" value="Hypertrofi av bryst" />
+	<data code="7435" key="N63" value="Uspesifisert klump i bryst" />
+	<data code="7435" key="N64" value="Andre tilstander i bryst" />
+	<data code="7435" key="N70" value="Salpingitt og ooforitt" />
+	<data code="7435" key="N71" value="Infeksjonssykdom i livmor, unntatt livmorhals" />
+	<data code="7435" key="N72" value="Infeksjonssykdom i livmorhals" />
+	<data code="7435" key="N73" value="Andre infeksjonssykdommer i kvinnelige bekkenorganer" />
+	<data code="7435" key="N74" value="Infek.sykd./a. bet.tilst., kv.bk.org. v. sykd. klass. a.sted" />
+	<data code="7435" key="N75" value="Sykdommer i Bartholins kjertel" />
+	<data code="7435" key="N76" value="Annen betennelse i skjede og ytre kvinnelige kjønnsorganer" />
+	<data code="7435" key="N77" value="Vulvovaginal sårdannelse og bet. ved sykd. klass. annet sted" />
+	<data code="7435" key="N80" value="Endometriose" />
+	<data code="7435" key="N81" value="Fremfall av kvinnelige kjønnsorganer" />
+	<data code="7435" key="N82" value="Fistler som innbefatter kvinnelige kjønnsorganer" />
+	<data code="7435" key="N83" value="Ikke-inflamm. lid., eggst./eggledere/ligamentum latum uteri" />
+	<data code="7435" key="N84" value="Polypp i kvinnelige kjønnsorganer" />
+	<data code="7435" key="N85" value="Andre ikke-inflamm. lidelser i livmor unntatt livmorhals" />
+	<data code="7435" key="N86" value="Erosjon og ektropion i livmorhals" />
+	<data code="7435" key="N87" value="Dysplasi i livmorhals" />
+	<data code="7435" key="N88" value="Andre ikke-inflammatoriske lidelser i livmorhals" />
+	<data code="7435" key="N89" value="Andre ikke-inflammatoriske lidelser i skjede" />
+	<data code="7435" key="N90" value="Andre ikke-inflamm. lidelser i ytre kv. kj.org. og perineum" />
+	<data code="7435" key="N91" value="Manglende, sparsom og sjelden menstruasjon" />
+	<data code="7435" key="N92" value="Kraftig, hyppig og uregelmessig menstruasjon" />
+	<data code="7435" key="N93" value="Annen unormal blødning fra livmor og skjede" />
+	<data code="7435" key="N94" value="Smerte og andre tilst. med tilkn. til kv. kj.org./mens.sykl." />
+	<data code="7435" key="N95" value="Forstyrrelser i klimakterium og senere" />
+	<data code="7435" key="N96" value="Habituell abort" />
+	<data code="7435" key="N97" value="Infertilitet hos kvinne" />
+	<data code="7435" key="N98" value="Komplikasjoner i forbindelse med kunstig befruktning" />
+	<data code="7435" key="N99" value="Forst. i urinveier og kj.org. etter behandling IKAS" />
+	<data code="7435" key="O00" value="Svangerskap utenfor livmoren" />
+	<data code="7435" key="O01" value="Blæremola" />
+	<data code="7435" key="O02" value="Andre unormale utfall av befruktning" />
+	<data code="7435" key="O03" value="Spontan abort" />
+	<data code="7435" key="O04" value="Svangerskapsavbrudd utført av lege" />
+	<data code="7435" key="O05" value="Andre svangerskapsavbrudd" />
+	<data code="7435" key="O06" value="Uspesifisert abort" />
+	<data code="7435" key="O07" value="Mislykket forsøk på svangerskapsavbrudd" />
+	<data code="7435" key="O08" value="Komp. etter abort, svangerskap utenfor livmoren og blæremola" />
+	<data code="7435" key="O10" value="Foruteks. hypertensjon som komp. sv.sk., fødsel og barseltid" />
+	<data code="7435" key="O11" value="Preeklampsi med kronisk hypertensjon i tillegg" />
+	<data code="7435" key="O12" value="Svangerskapsødem og proteinuri uten hypertensjon" />
+	<data code="7435" key="O13" value="Svangerskapshypertensjon" />
+	<data code="7435" key="O14" value="Preeklampsi" />
+	<data code="7435" key="O15" value="Eklampsi" />
+	<data code="7435" key="O16" value="Uspesifisert hypertensjon hos mor" />
+	<data code="7435" key="O20" value="Blødning tidlig i svangerskap" />
+	<data code="7435" key="O21" value="Sterke svangerskapsbrekninger" />
+	<data code="7435" key="O22" value="Venøse komplikasjoner under svangerskap" />
+	<data code="7435" key="O23" value="Infeksjoner i urinveier og kjønnsorganer under svangerskap" />
+	<data code="7435" key="O24" value="Diabetes mellitus under svangerskap" />
+	<data code="7435" key="O24.4" value="Diabetes mellitus som oppstår under svangerskap" />
+	<data code="7435" key="O25" value="Underernæring og feilernæring under svangerskap" />
+	<data code="7435" key="O26" value="Omsorg for/behandl. mor, andre tilst., hoveds. tilkn. sv.sk." />
+	<data code="7435" key="O28" value="Unormale funn ved screeningundersøkelse av mor under sv.sk." />
+	<data code="7435" key="O29" value="Komplikasjoner i forbindelse med anestesi under svangerskap" />
+	<data code="7435" key="O30" value="Flersvangerskap" />
+	<data code="7435" key="O31" value="Spesielle komplikasjoner i forbindelse med flersvangerskap" />
+	<data code="7435" key="O32" value="Omsorg for/behandl. mor ved kjent/mistenkt feil i fosterleie" />
+	<data code="7435" key="O33" value="Omsorg for/behandl. av mor ved kjent eller mistenkt misforh." />
+	<data code="7435" key="O34" value="Omsorg/behandl. mor ved kjent/ mist. pat. tilstand i bk.org." />
+	<data code="7435" key="O35" value="Omsorg/behandl. mor, kjent/mistenkt pat. tilst./fosterskade" />
+	<data code="7435" key="O36" value="Omsorg/behandl. mor ved andre kjente eller mist. fost.probl." />
+	<data code="7435" key="O40" value="Polyhydramnion" />
+	<data code="7435" key="O41" value="Andre forstyrrelser i fostervann og fosterhinner" />
+	<data code="7435" key="O42" value="For tidlig vannavgang" />
+	<data code="7435" key="O43" value="Dysfunksjon av morkake" />
+	<data code="7435" key="O44" value="Forliggende morkake" />
+	<data code="7435" key="O45" value="For tidlig morkakeløsning" />
+	<data code="7435" key="O46" value="Blødning før fødsel, ikke klassifisert annet sted" />
+	<data code="7435" key="O47" value="Falske rier" />
+	<data code="7435" key="O48" value="Overtidig svangerskap" />
+	<data code="7435" key="O60" value="For tidlig fødsel" />
+	<data code="7435" key="O61" value="Mislykket induksjon av fødsel" />
+	<data code="7435" key="O62" value="Unormalt fødselsarbeid" />
+	<data code="7435" key="O63" value="Langvarig fødsel" />
+	<data code="7435" key="O64" value="Mek. hindr. fødsel s. f. av feil i fosterets innst. og leie" />
+	<data code="7435" key="O65" value="Mekanisk hindret fødsel som skyldes unormalt bekken hos mor" />
+	<data code="7435" key="O66" value="Annen mekanisk hindret fødsel" />
+	<data code="7435" key="O67" value="Fødsel og forløsning komp. av blødning under fødsel IKAS" />
+	<data code="7435" key="O68" value="Fødsel og forløsning komplisert av fosterstress" />
+	<data code="7435" key="O69" value="Fødsel og forløsning med komp. forårsaket av navlesnoren" />
+	<data code="7435" key="O70" value="Perinealrift under forløsning" />
+	<data code="7435" key="O71" value="Annen obstetrisk skade" />
+	<data code="7435" key="O72" value="Blødning etter fødsel" />
+	<data code="7435" key="O73" value="Retinert morkake og hinner, uten blødning" />
+	<data code="7435" key="O74" value="Komp. i forbindelse med anestesi under fødsel og forløsning" />
+	<data code="7435" key="O75" value="Andre komplikasjoner ved fødsel og forløsning IKAS" />
+	<data code="7435" key="O80" value="Spontan enkeltfødsel" />
+	<data code="7435" key="O81" value="Enkeltfødsel ved hjelp av tang el. vakuumekstraktor på hode" />
+	<data code="7435" key="O82" value="Enkeltfødsel ved keisersnitt" />
+	<data code="7435" key="O83" value="Annen enkeltfødsel med assistanse" />
+	<data code="7435" key="O84" value="Flerfødsel" />
+	<data code="7435" key="O85" value="Sepsis i barseltid" />
+	<data code="7435" key="O86" value="Andre barseltidsinfeksjoner" />
+	<data code="7435" key="O87" value="Venøse komplikasjoner i barseltid" />
+	<data code="7435" key="O88" value="Obstetrisk emboli" />
+	<data code="7435" key="O89" value="Komplikasjoner i forbindelse med anestesi i barseltid" />
+	<data code="7435" key="O90" value="Komplikasjoner i barseltid, ikke klassifisert annet sted" />
+	<data code="7435" key="O91" value="Infeksjoner i bryst i forbindelse med fødsel" />
+	<data code="7435" key="O92" value="Andre forst. i bryst/melkeproduksjon i forb. med fødsel" />
+	<data code="7435" key="O94" value="Følgetilst. e. komplikasj. i svangersk., fødsel og barseltid" />
+	<data code="7435" key="O95" value="Obstetrisk død av uspesifisert årsak" />
+	<data code="7435" key="O96" value="Dødsf. av obst. års., mer enn 42 dager/mindre enn 1 år e. f." />
+	<data code="7435" key="O97" value="Dødsf. som f. av senvirkning av direkte obstetriske årsaker" />
+	<data code="7435" key="O98" value="Infek.-/paras.sykd. hos mor som komp. sv.sk./føds./b.tid" />
+	<data code="7435" key="O99" value="A. sykd. hos mor som komp. svangerskap, fødsel og barseltid" />
+	<data code="7435" key="P07" value="Tilstander knyttet til kortvarig svangerskap og lav fødselsvekt, ikke klassifisert annet sted" />
+	<data code="7435" key="P27" value="Kronisk sykdom i lunger og luftveier som oppstår i perinatalperioden" />
+	<data code="7435" key="P28" value="Andre åndedrettstilstander som oppstår i perinatalperioden" />
+	<data code="7435" key="P91" value="Andre forstyrrelser som angår hjerne hos nyfødt" />
+	<data code="7435" key="Q00" value="Anencephalus og lignende misdannelser" />
+	<data code="7435" key="Q01" value="Encefalocele" />
+	<data code="7435" key="Q02" value="Foster med lite hode" />
+	<data code="7435" key="Q03" value="Medfødt hydrocephalus" />
+	<data code="7435" key="Q04" value="Andre medfødte misdannelser i hjernen" />
+	<data code="7435" key="Q05" value="Spina bifida" />
+	<data code="7435" key="Q06" value="Andre medfødte misdannelser i ryggmarg" />
+	<data code="7435" key="Q07" value="Andre medfødte misdannelser i nervesystemet" />
+	<data code="7435" key="Q10" value="Medfødte misdannelser i øyelokk, tåreapparat og øyehule" />
+	<data code="7435" key="Q11" value="Anoftalmus, mikroftalmus og makroftalmus" />
+	<data code="7435" key="Q12" value="Medfødte linsemisdannelser" />
+	<data code="7435" key="Q13" value="Medfødte misdannelser i fremre del av øye" />
+	<data code="7435" key="Q14" value="Medfødte misdannelser i bakre del av øye" />
+	<data code="7435" key="Q15" value="Andre medfødte misdannelser i øye" />
+	<data code="7435" key="Q16" value="Medfødte øremisdannelser som forårsaker nedsatt hørsel" />
+	<data code="7435" key="Q17" value="Andre medfødte øremisdannelser" />
+	<data code="7435" key="Q18" value="Andre medfødte misdannelser i ansikt og hals" />
+	<data code="7435" key="Q20" value="Medfødte misdannelser i hjertets kamre og forbindelser" />
+	<data code="7435" key="Q21" value="Medfødte misdannelser i hjerteskillevegger" />
+	<data code="7435" key="Q22" value="Medfødte misdannelser i pulmonalklaff og trikuspidalklaff" />
+	<data code="7435" key="Q23" value="Medfødte misdannelser i aortaklaff og mitralklaff" />
+	<data code="7435" key="Q24" value="Andre medfødte misdannelser i hjertet" />
+	<data code="7435" key="Q25" value="Medfødte misdannelser i store arterier" />
+	<data code="7435" key="Q26" value="Medfødte misdannelser i de store vener" />
+	<data code="7435" key="Q27" value="Andre medfødte misdannelser i det perifere karsystemet" />
+	<data code="7435" key="Q28" value="Andre medfødte misdannelser i sirkulasjonssystemet" />
+	<data code="7435" key="Q30" value="Medfødte misdannelser i nese" />
+	<data code="7435" key="Q31" value="Medfødte misdannelser i strupehode" />
+	<data code="7435" key="Q32" value="Medfødte misdannelser i luftrør og bronkie" />
+	<data code="7435" key="Q33" value="Medfødte misdannelser i lunge" />
+	<data code="7435" key="Q34" value="Andre medfødte misdannelser i åndedrettssystemet" />
+	<data code="7435" key="Q35" value="Ganespalte" />
+	<data code="7435" key="Q36" value="Leppespalte" />
+	<data code="7435" key="Q37" value="Ganespalte med leppespalte" />
+	<data code="7435" key="Q38" value="Andre medfødte misdannelser i tunge, munn og svelg" />
+	<data code="7435" key="Q39" value="Medfødte misdannelser i spiserør" />
+	<data code="7435" key="Q40" value="Andre medfødte misdannelser i øvre del av fordøyelseskanalen" />
+	<data code="7435" key="Q41" value="Medfødt mangel på, atresi og stenose av tynntarm" />
+	<data code="7435" key="Q42" value="Medfødt mangel på, atresi og stenose av tykktarm" />
+	<data code="7435" key="Q43" value="Andre medfødte misdannelser i tarm" />
+	<data code="7435" key="Q44" value="Medfødte misdannelser i galleblære, galleganger og lever" />
+	<data code="7435" key="Q45" value="Andre medfødte misdannelser i fordøyelsessystem" />
+	<data code="7435" key="Q50" value="Medf. misd. eggstokker, eggledere og ligamentum latum uteri" />
+	<data code="7435" key="Q51" value="Medfødte misdannelser i livmor og livmorhals" />
+	<data code="7435" key="Q52" value="Andre medfødte misdannelser i kvinnelige kjønnsorganer" />
+	<data code="7435" key="Q53" value="Ikke-descendert testikkel" />
+	<data code="7435" key="Q54" value="Hypospadi" />
+	<data code="7435" key="Q55" value="Andre medfødte misdannelser i mannlige kjønnorganer" />
+	<data code="7435" key="Q55.0" value="Aplasi av testikkel" />
+	<data code="7435" key="Q56" value="Ubestemmelig kjønn og pseudohermafrodittisme" />
+	<data code="7435" key="Q60" value="Agenesi av nyre og andre reduksjonsdefekter i nyre" />
+	<data code="7435" key="Q61" value="Cystenyresykdom" />
+	<data code="7435" key="Q62" value="Medf. obstruktive def. nyrebekken/medf. misd. i urinleder" />
+	<data code="7435" key="Q63" value="Andre medfødte misdannelser i nyre" />
+	<data code="7435" key="Q64" value="Andre medfødte misdannelser i urinsystemet" />
+	<data code="7435" key="Q65" value="Medfødte deformiteter i hofte" />
+	<data code="7435" key="Q66" value="Medfødte deformiteter i fot" />
+	<data code="7435" key="Q67" value="Medf. def. muskler/skjelett i hode/ansikt/ryggsøyle/br.kasse" />
+	<data code="7435" key="Q68" value="Andre medfødte deformiteter i muskel-skjelettsystem" />
+	<data code="7435" key="Q69" value="Polydaktyli" />
+	<data code="7435" key="Q70" value="Syndaktyli" />
+	<data code="7435" key="Q71" value="Reduksjonsdefekter i overekstremitet" />
+	<data code="7435" key="Q72" value="Reduksjonsdefekter i underekstremitet" />
+	<data code="7435" key="Q73" value="Reduksjonsdefekter i uspesifisert ekstremitet" />
+	<data code="7435" key="Q74" value="Andre medfødte misdannelser i ekstremitet(er)" />
+	<data code="7435" key="Q75" value="Andre medfødte misdannelser i hjerneskalle og ansiktsknokler" />
+	<data code="7435" key="Q76" value="Medfødte misdannelser i ryggsøyle og brystkasse" />
+	<data code="7435" key="Q77" value="Osteokondrodysplasi med vekstdef. i rørknokler og ryggsøyle" />
+	<data code="7435" key="Q78" value="Annen osteokondrodysplasi" />
+	<data code="7435" key="Q79" value="Medfødte misdannelser i muskel-skjelettsystem IKAS" />
+	<data code="7435" key="Q80" value="Medfødt iktyose" />
+	<data code="7435" key="Q81" value="Epidermolysis bullosa" />
+	<data code="7435" key="Q82" value="Andre medfødte misdannelser i hud" />
+	<data code="7435" key="Q82.2" value="Mastocytose" />
+	<data code="7435" key="Q83" value="Medfødte misdannelser av bryst" />
+	<data code="7435" key="Q84" value="Andre medfødte misdannelser i hud og underhud" />
+	<data code="7435" key="Q85" value="Fakomatoser, ikke klassifisert annet sted" />
+	<data code="7435" key="Q86" value="Medf. misd.syndr. s. sk. kjente eksogene årsaker IKAS" />
+	<data code="7435" key="Q87" value="Andre spes. misdannelsessyndromer som påvirker flere organer" />
+	<data code="7435" key="Q89" value="Andre medfødte misdannelser, ikke klassifisert annet sted" />
+	<data code="7435" key="Q90" value="Downs syndrom" />
+	<data code="7435" key="Q91" value="Edwards' syndrom og Pataus syndrom" />
+	<data code="7435" key="Q92" value="Andre trisomier og partielle trisomier av autosomer IKAS" />
+	<data code="7435" key="Q93" value="Monosomier og delesjoner fra autosomer IKAS" />
+	<data code="7435" key="Q95" value="Balanserte rearrangementer og strukturelle markører IKAS" />
+	<data code="7435" key="Q96" value="Turners syndrom" />
+	<data code="7435" key="Q97" value="Andre kjønnskromosomavvik, kvinnelig fenotype IKAS" />
+	<data code="7435" key="Q98" value="Andre kjønnskromosomavvik, mannlig fenotype IKAS" />
+	<data code="7435" key="Q99" value="Andre kromosomavvik, ikke klassifisert annet sted" />
+	<data code="7435" key="R00" value="Unormale hjerteslag" />
+	<data code="7435" key="R01" value="Bilyd og andre hjertelyder" />
+	<data code="7435" key="R02" value="Gangren, ikke klassifisert annet sted" />
+	<data code="7435" key="R03" value="Unormal blodtrykksmåling, uten diagnose" />
+	<data code="7435" key="R04" value="Blødning fra luftveiene" />
+	<data code="7435" key="R05" value="Hoste" />
+	<data code="7435" key="R06" value="Åndedrettsabnormiteter" />
+	<data code="7435" key="R07" value="Smerte i hals og bryst" />
+	<data code="7435" key="R09" value="Andre symp./tegn tilkn. sirkulasjons- og åndedrettssystemet" />
+	<data code="7435" key="R10" value="Smerte i buk og bekken" />
+	<data code="7435" key="R11" value="Kvalme og oppkast" />
+	<data code="7435" key="R12" value="Halsbrann" />
+	<data code="7435" key="R13" value="Dysfagi" />
+	<data code="7435" key="R14" value="Flatulens og beslektede tilstander" />
+	<data code="7435" key="R15" value="Ufrivillig avføring" />
+	<data code="7435" key="R16" value="Hepatomegali og splenomegali, ikke klassifisert annet sted" />
+	<data code="7435" key="R17" value="Uspesifisert gulsott icterus" />
+	<data code="7435" key="R18" value="Ascites" />
+	<data code="7435" key="R19" value="Andre symp./tegn med tilkn. til fordøyelsessystemet og buken" />
+	<data code="7435" key="R20" value="Forstyrrelser i hudens følsomhet" />
+	<data code="7435" key="R21" value="Utslett og annet uspesifikt hudutbrudd" />
+	<data code="7435" key="R22" value="Lokalisert hevelse, oppfylling og kul i hud og underhudsvev" />
+	<data code="7435" key="R23" value="Andre hudforandringer" />
+	<data code="7435" key="R25" value="Unormale ufrivillige bevegelser" />
+	<data code="7435" key="R25.2" value="Krampe og spasme" />
+	<data code="7435" key="R26" value="Unormal gange og bevegelighet" />
+	<data code="7435" key="R27" value="Annen koordinasjonssvikt" />
+	<data code="7435" key="R29" value="Andre symp./tegn tilkn. nerve- og muskel-skjelettsystemet" />
+	<data code="7435" key="R30" value="Smerte i forbindelse med vannlating" />
+	<data code="7435" key="R31" value="Uspesifisert hematuri" />
+	<data code="7435" key="R32" value="Uspesifisert inkontinens" />
+	<data code="7435" key="R33" value="Urinretensjon" />
+	<data code="7435" key="R34" value="Anuri og oliguri" />
+	<data code="7435" key="R35" value="Polyuri" />
+	<data code="7435" key="R36" value="Utflod fra urinrøret" />
+	<data code="7435" key="R39" value="Andre symptomer og tegn med tilknytning til urinveiene" />
+	<data code="7435" key="R40" value="Somnolens, stupor og koma" />
+	<data code="7435" key="R41" value="Andre symp./tegn tilkn. kognitive funksjoner og bevissthet" />
+	<data code="7435" key="R42" value="Svimmelhet" />
+	<data code="7435" key="R43" value="Forstyrrelser i lukt og smak" />
+	<data code="7435" key="R44" value="Andre symp./tegn tilkn. generelle sensasjoner/persepsjoner" />
+	<data code="7435" key="R45" value="Symptomer og tegn med tilknytning til emosjonell tilstand" />
+	<data code="7435" key="R46" value="Symptomer og tegn med tilknytning til utseende og atferd" />
+	<data code="7435" key="R47" value="Taleforstyrrelser, ikke klassifisert annet sted" />
+	<data code="7435" key="R48" value="Dysleksi og andre forstyrrelser i symbolfunksjoner IKAS" />
+	<data code="7435" key="R49" value="Stemmeforstyrrelser" />
+	<data code="7435" key="R50" value="Feber av ukjent årsak" />
+	<data code="7435" key="R51" value="Hodepine" />
+	<data code="7435" key="R52" value="Smerte, ikke klassifisert annet sted" />
+	<data code="7435" key="R53" value="Uvelhet og tretthet" />
+	<data code="7435" key="R54" value="Senilitet" />
+	<data code="7435" key="R55" value="Synkope og kollaps" />
+	<data code="7435" key="R56" value="Kramper, ikke klassifisert annet sted" />
+	<data code="7435" key="R57" value="Sjokk, ikke klassifisert annet sted" />
+	<data code="7435" key="R58" value="Blødning, ikke klassifisert annet sted" />
+	<data code="7435" key="R59" value="Forstørrede lymfeknuter" />
+	<data code="7435" key="R60" value="Ødem, ikke klassifisert annet sted" />
+	<data code="7435" key="R61" value="Hyperhidrose" />
+	<data code="7435" key="R62" value="Uteblivelse av forventet normal fysiologisk utvikling" />
+	<data code="7435" key="R63" value="Symptomer og tegn med tilknytning til mat- og væskeinntak" />
+	<data code="7435" key="R64" value="Kakeksi" />
+	<data code="7435" key="R65" value="Systemisk inflammatorisk responssyndrom" />
+	<data code="7435" key="R68" value="Andre generelle symptomer og tegn" />
+	<data code="7435" key="R69" value="Ukjente og uspesifiserte sykdomsårsaker" />
+	<data code="7435" key="R70" value="Økt senkningsreaksjon og unormal plasmaviskositet" />
+	<data code="7435" key="R71" value="Unormale forhold ved røde blodceller" />
+	<data code="7435" key="R72" value="Unormale forhold ved hvite blodceller IKAS" />
+	<data code="7435" key="R73" value="Forhøyet glukosenivå i blodet" />
+	<data code="7435" key="R74" value="Unormale serumenzymnivåer" />
+	<data code="7435" key="R75" value="Laboratoriebekreftet funn av humant immunsviktvirus [hiv]" />
+	<data code="7435" key="R76" value="Andre unormale immunologiske funn i serum" />
+	<data code="7435" key="R77" value="Andre abnormiteter i plasmaproteiner" />
+	<data code="7435" key="R78" value="Funn av legem./andre stoffer som vanl. ikke finnes i blod" />
+	<data code="7435" key="R79" value="Andre unormale funn i blodets kjemi" />
+	<data code="7435" key="R80" value="Isolert proteinuri" />
+	<data code="7435" key="R81" value="Glykosuri" />
+	<data code="7435" key="R82" value="Andre unormale funn i urin" />
+	<data code="7435" key="R83" value="Unormale funn i cerebrospinalvæske" />
+	<data code="7435" key="R84" value="Unormale funn i prøver fra åndedrettsorganer og brysthule" />
+	<data code="7435" key="R85" value="Unormale funn i prøver fra fordøyelsesorganer" />
+	<data code="7435" key="R86" value="Unormale funn i prøver fra mannlige kjønnsorganer" />
+	<data code="7435" key="R87" value="Unormale funn i prøver fra kvinnelige kjønnsorganer" />
+	<data code="7435" key="R89" value="Unormale funn i prøver fra andre organer, systemer og vev" />
+	<data code="7435" key="R90" value="Unormale funn ved diagnostisk avbildning av CNS" />
+	<data code="7435" key="R91" value="Unormale funn ved diagnostisk avbildning av lunge" />
+	<data code="7435" key="R92" value="Unormale funn ved billeddiagnostikk av bryst" />
+	<data code="7435" key="R93" value="Unormale funn ved diagn. avbildn. av andre kroppsstrukturer" />
+	<data code="7435" key="R94" value="Unormale resultater ved funksjonsstudier" />
+	<data code="7435" key="R95" value="Krybbedødsyndrom" />
+	<data code="7435" key="R96" value="Annen plutselig død av ukjent årsak" />
+	<data code="7435" key="R98" value="Funnet død" />
+	<data code="7435" key="R99" value="Andre dårlig definerte og uspesifiserte dødsårsaker" />
+	<data code="7435" key="T50" value="Forgiftning med andre og ikke spesifiserte legemidler og biologiske substanser" />
+	<data code="7435" key="T78.0" value="Anafylaktisk sjokk som skyldes reaksjon på matvarer" />
+	<data code="7435" key="T78.2" value="Uspesifisert anafylaktisk sjokk" />
+	<data code="7435" key="T78.3" value="Angionevrotisk ødem" />
+	<data code="7435" key="T80" value="Komplikasjoner etter infusjon, transfusjon og terapeutisk injeksjon" />
+	<data code="7435" key="T81.4" value="Infeksjon etter kirurgiske og medisinske prosedyrer, ikke klassifisert annet sted" />
+	<data code="7435" key="T82" value="Komplikasjoner ved proteser, implantater og transplantater i hjerte og blodkar" />
+	<data code="7435" key="T83" value="Komplikasjoner ved proteser, implantater og transplantater i kjønnsorganer og urinveier" />
+	<data code="7435" key="T84" value="Komplikasjoner ved innvendige ortopediske proteser, implantater og transplantater" />
+	<data code="7435" key="T85" value="Komplikasjoner ved andre innvendige proteser, implantater og transplantater" />
+	<data code="7435" key="T88.6" value="Anafylaktisk sjokk som skyldes bivirkninger av riktig legemiddel gitt i terapeutisk dose" />
+	<data code="7435" key="Y88" value="Følgetilstand etter hendelser forårsaket av medisinske eller kirurgiske prosedyrer" />
+	<data code="7435" key="T91.3" value="Følgetilstander etter skade på ryggmarg" />
+	<data code="7435" key="Z00" value="Gen. u.s./utred. av personer uten sympt. el. reg. diagnose" />
+	<data code="7435" key="Z01" value="Målr. u.s./utred. av person u. symptom/registrert diagnose" />
+	<data code="7435" key="Z02" value="Undersøkelse og kontakt med helsetjenesten for adm. formål" />
+	<data code="7435" key="Z03" value="Med. obs. og vurd. ved mistanke om sykdommer og tilstander" />
+	<data code="7435" key="Z04" value="Undersøkelse og observasjon av andre årsaker" />
+	<data code="7435" key="Z08" value="Etterundersøkelse etter behandling for ondartet svulst" />
+	<data code="7435" key="Z09" value="Etteru.s. etter behand. for andre tilst. enn ondartet svulst" />
+	<data code="7435" key="Z10" value="Rutinem. gen. helsekontroll av definert befolkningsgruppe" />
+	<data code="7435" key="Z11" value="Målrettet helseunders. for infeksjons-/parasittsykdommer" />
+	<data code="7435" key="Z12" value="Målrettet helseundersøkelse med henblikk på svulster" />
+	<data code="7435" key="Z13" value="Målrettet helseundersøkelse m.h.p. andre tilstander" />
+	<data code="7435" key="Z20" value="Kontakt med og eksposisjon for smittsom sykdom" />
+	<data code="7435" key="Z21" value="Symptomfri bærer av humant immunsviktvirus [hiv]" />
+	<data code="7435" key="Z22" value="Undersøkelse av bærer av infeksjonssykdom" />
+	<data code="7435" key="Z23" value="Behov for immunisering mot en spesifisert bakteriesykdom" />
+	<data code="7435" key="Z24" value="Behov for immunisering mot enkelte spes. virussykdommer" />
+	<data code="7435" key="Z25" value="Behov for immunisering mot andre spesifiserte virussykdommer" />
+	<data code="7435" key="Z26" value="Behov for imm. mot annen enkeltstående infeksjonssykdom" />
+	<data code="7435" key="Z27" value="Behov for immunisering mot kombinasjoner av infeksjonssykd." />
+	<data code="7435" key="Z28" value="Immunisering ikke utført" />
+	<data code="7435" key="Z29" value="Behov for andre forebyggende tiltak" />
+	<data code="7435" key="Z30" value="Prevensjonstiltak" />
+	<data code="7435" key="Z31" value="Veiledning og tiltak i forbindelse med reproduksjon" />
+	<data code="7435" key="Z32" value="Graviditetsundersøkelse og -test" />
+	<data code="7435" key="Z33" value="Graviditet" />
+	<data code="7435" key="Z34" value="Kontroll av normalt svangerskap" />
+	<data code="7435" key="Z35" value="Kontroll av høyrisikosvangerskap" />
+	<data code="7435" key="Z36" value="Målrettet undersøkelse i svangerskapet" />
+	<data code="7435" key="Z37" value="Resultat av forløsning" />
+	<data code="7435" key="Z38" value="Levendefødte barn etter fødested" />
+	<data code="7435" key="Z39" value="Pleie og undersøkelse av mor etter fødsel" />
+	<data code="7435" key="Z40" value="Forebyggende kirurgi" />
+	<data code="7435" key="Z41" value="Kont. med helsetj. for annet formål enn å bedre helsetilst." />
+	<data code="7435" key="Z42" value="Kontakt m. helsetj. for etterbehandling med plastisk kirurgi" />
+	<data code="7435" key="Z43" value="Kontakt med helsetjenesten for ettersyn av kunstige åpninger" />
+	<data code="7435" key="Z44" value="Kontakt med helsetj. for tilpas./just. av utvendig protese" />
+	<data code="7435" key="Z45" value="Kont. m. helsetj. for just./kontr. implantert hjelpemiddel" />
+	<data code="7435" key="Z46" value="Kont. m. helsetj. for tilpas./just. av andre hjelpemidler" />
+	<data code="7435" key="Z47" value="Kontakt med helsetj. for annen ortopedisk etterbehandling" />
+	<data code="7435" key="Z48" value="Kontakt med h.tj. for annen etterbehandling etter kirurgi" />
+	<data code="7435" key="Z49" value="Kontakt med helsetjenesten for beh. som omfatter dialyse" />
+	<data code="7435" key="Z50" value="Kont. med h.tj. for behandling som omf. rehabiliteringstilt." />
+	<data code="7435" key="Z51" value="Andre behandlingstiltak" />
+	<data code="7435" key="Z52" value="Kontakt med helsetjenesten for å donere organer eller vev" />
+	<data code="7435" key="Z53" value="Fremmøte hos h.tj. pga. spes. tilt. når disse ikke er utført" />
+	<data code="7435" key="Z54" value="Kontakt med helsetjenesten for rekonvalesens-formål" />
+	<data code="7435" key="Z55" value="Kontakt med h.tj. pga. probl. tilkn. utd./lese-/skriveferd." />
+	<data code="7435" key="Z56" value="Kontakt med h.tj. pga. probl. tilkn. arb.liv/arbeidsledighet" />
+	<data code="7435" key="Z57" value="Kontakt med h.tj. pga. yrkesmessig eksp. for risikofaktorer" />
+	<data code="7435" key="Z58" value="Kontakt med h.tj. pga. probl. i forbindelse med miljøforhold" />
+	<data code="7435" key="Z59" value="Kont. m. h.tj. pga. probl. forb. med boforhold/økon. forhold" />
+	<data code="7435" key="Z60" value="Kont. m. h.tj. pga. prob. i forbindelse med sosialt miljø" />
+	<data code="7435" key="Z61" value="Kont. med h.tj. pga. prob. forb. med neg. livssit. i barndom" />
+	<data code="7435" key="Z62" value="Kontakt med h.tj. pga. andre problemer forb. med oppfostring" />
+	<data code="7435" key="Z63" value="Kont. m. h.tj. pga. andre prob. forb. m. prim.kon./fam.forh." />
+	<data code="7435" key="Z64" value="Kont. m. h.tj. pga. prob. forb. m. visse psykososiale forh." />
+	<data code="7435" key="Z65" value="Kontakt med h.tj. pga. prob. forb. med andre psykosos. forh." />
+	<data code="7435" key="Z70" value="Kont. m. h.tj., rådg. forb. m. seks. holdn./atf./orientering" />
+	<data code="7435" key="Z71" value="Kont. med h.tj. for annen veiledning/med. rådgivning IKAS" />
+	<data code="7435" key="Z72" value="Kontakt med h.tj. pga. problemer i forbindelse med levevaner" />
+	<data code="7435" key="Z73" value="Kont. med h.tj. pga. problemer med håndtering av tilværelsen" />
+	<data code="7435" key="Z74" value="Kontakt med helsetjenesten pga. avhengighet av pleiepers." />
+	<data code="7435" key="Z75" value="Kont. m. h.tj. i forb. m. uløst beh. for h.tj./omsorgstilbud" />
+	<data code="7435" key="Z76" value="Kontakt med helsetjenesten under andre omstendigheter" />
+	<data code="7435" key="Z80" value="Kontakt med h.tj. ved oppl. om ondart. svulst i fam.anamn." />
+	<data code="7435" key="Z81" value="Kont. m. h.tj. ved oppl. atf.forst./psyk. prob. i fam.anamn." />
+	<data code="7435" key="Z82" value="Oppl. om visse typer uførhet/visse kr. inv. sykd. fam.anamn." />
+	<data code="7435" key="Z83" value="Kont. med h.tj. ved oppl. om andre spes. sykd. i fam.anamn." />
+	<data code="7435" key="Z84" value="Kont. med h.tj. ved oppl. om andre tilst. i familieanamnesen" />
+	<data code="7435" key="Z85" value="Opplysning om ondartet svulst i egen sykehistorie" />
+	<data code="7435" key="Z86" value="Opplysning om visse andre sykdommer i egen sykehistorie" />
+	<data code="7435" key="Z87" value="Oppl. om andre sykdommer og tilstander i egen sykehistorie" />
+	<data code="7435" key="Z88" value="Oppl. om allergi/droger/legem./biol. stoffer, egen sykehist." />
+	<data code="7435" key="Z89" value="Kontakt med h.tj. pga. ervervet mangel på ekstremitet" />
+	<data code="7435" key="Z90" value="Kontakt med h.tj. på grunn av ervervet mangel på organ IKAS" />
+	<data code="7435" key="Z91" value="Kont. m. h.tj. ved oppl. om ris.fak. i egen sykehist. IKAS" />
+	<data code="7435" key="Z92" value="Kont. med h.tj. ved oppl. om tidligere medisinsk behandling" />
+	<data code="7435" key="Z93" value="Kontakt med helsetjenesten ved status med kunstig åpning" />
+	<data code="7435" key="Z94" value="Status etter transplantert organ og vev" />
+	<data code="7435" key="Z95" value="Status med implantater og transplantater i hjerte og blodkar" />
+	<data code="7435" key="Z95.2" value="Status med mekanisk hjerteventil" />
+	<data code="7435" key="Z95.3" value="Status med fremmed biologisk hjerteklaff" />
+	<data code="7435" key="Z95.5" value="Status med angioplastisk koronarimplantat og -transplantat" />
+	<data code="7435" key="Z95.8" value="Status med andre spes. impl. og transpl. i hjerte og blodkar" />
+	<data code="7435" key="Z96" value="Kontakt med h.tj. ved status med andre funksjonelle implant." />
+	<data code="7435" key="Z97" value="Kontakt med helsetjenesten ved status med andre hjelpemidler" />
+	<data code="7435" key="Z98" value="Kontakt med h.tj. ved andre tilst. etter kirurgisk behandl." />
+	<data code="7435" key="Z99" value="Kont. med h.tj. ved avh. av tekn. hj.m. og innretninger IKAS" />
+	<data code="7435" key="Z99.2" value="Avhengighet av nyredialyse" />
+</list>

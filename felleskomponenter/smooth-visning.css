@@ -1,0 +1,170 @@
+<!--/*--><root><![CDATA[<!--*/-->  
+
+
+.dummy { /* first css class is sometimes ignored, therefore need a dummy at first */
+}
+
+body.Document {
+	background-color: #fff;
+	border: none;
+}
+body.Document.Smooth {
+	border: none;
+	box-shadow: none;
+}
+.Smooth .No-line-header {
+	padding: 10px;
+	background-color: #fff;
+	width: initial;
+}
+.Document.Smooth {
+	border-color: #e8e8e8;
+	background-color: #fff;
+    box-shadow: 0px 0px 2px #6d6a60;
+}
+.Document.Smooth h1 {
+	color: #08111b;;
+	background-color: #ecece7;
+	border-color: #d8d8d8;
+}
+.Document.Smooth h2 {
+	color: #08111b;
+	background-color: #ecece7;
+	border-color: #d8d8d8;
+}
+.Document.Smooth h3 {
+	color: black;
+}
+.Document.Smooth table {
+	border-color: #d8d8d8;
+}
+.Document.Smooth th {
+	background-color: #efefef;
+}
+.Document.Smooth td {
+	background-color: white;
+}
+.Document.Smooth .summary td {
+	background-color: inherit;
+}
+.Document.Smooth th.h2 {
+	color: #08111b;;
+	background-color: #ececec;
+}
+.Document.Smooth th.h3 {
+	color: #08111b;;
+	background-color: #ececec;
+}
+.Document.Smooth .Caption {
+	background-color: #ececec;
+}
+.Document.Smooth .MainCaption {
+	background-color: #ececec;
+	font-weight: normal;
+	font-size: 13px;
+}
+.Document.Smooth .MainContent {
+	font-size: 14px;
+}
+.Document.Smooth [class^=eh-col-].eh-label, 
+.Document.Smooth [class^=eh-col-] .eh-label {
+	background-color: #f7f6ef;
+	color: #826b35;
+}
+.Document.Smooth .summary .eh-label {
+	background-color: inherit;
+}
+.Document.Smooth [class^=eh-col-].eh-label.h3 {
+	color: #08111b;
+	background-color: #ecece7;
+}
+.Document.Smooth [class^=eh-section] {
+	border-color: #d8d8d8;
+	background-color: #fff;
+}
+.Document.Smooth .summary [class^=eh-section]  {
+	background-color: #ecece7;
+}
+.Document.Smooth .VisSkjul {
+	color: blue;
+}
+@media screen and (max-width: 767px) {
+	.Document.Smooth [class$=eh-section] .eh-row-8 [class^=eh-col-] .eh-label.hd {
+		background-color: #efefef;
+	}
+}
+@media print {
+	body.Document.Smooth {
+		background-color: #fff;
+		border: none;
+	}
+	.Smooth .No-line-header {
+		padding: 1px;
+	}
+	.Document.Smooth h1 {
+		color: #000;
+		background-color: #fff;
+		border: none;
+		margin: 0;
+		padding-right: 0;
+		padding-left: 0;
+	}
+	.Document.Smooth h2 {
+		color: #000;
+		background-color: #fff;
+		border: none;
+		margin: 0;
+		padding-right: 0;
+		padding-left: 0;
+	}
+	.Document.Smooth h3 {
+		background-color: #fff;
+		border: none;
+		margin: 0;
+		padding-right: 0;
+		padding-left: 0;
+	}
+	.Document.Smooth .summary {
+		border: 1px solid #6d6a60;
+		background-color: #ffffff;
+	}
+	.Document.Smooth .summary h2 {
+		background-color: #fff;
+	}
+	.Document.Smooth .summary [class^=eh-section],
+	.Document.Smooth .summary [class^=eh-section] [class^=eh-col-] {
+		background-color: #fff;
+		border: none;
+		margin: 0;
+	}
+	.Document.Smooth [class^=eh-col-].eh-label.h3 {
+		background-color: #fff;
+		border: none;
+		color: #000;
+	}
+	.Document.Smooth [class^=eh-section] {
+		font-size: 10px;
+		border: none;
+		margin: 0;
+		padding: 0;
+	}
+	.Document.Smooth [class^=eh-col-].eh-label, 
+	.Document.Smooth [class^=eh-col-] .eh-label {
+		background-color: #f7f6ef;
+		color: #826b35;
+		font-size: 10px;
+		border: none;
+		margin: 0;
+		padding: 0;
+	}
+	.Document.Smooth [class^=eh-col-].eh-field, 
+	.Document.Smooth [class^=eh-col-] .eh-field {
+		font-size: 10px;
+		border: none;
+		margin: 0;
+		padding: 0;
+	}
+}
+
+	
+<!--/*-->]]></root><!--*/--> 
