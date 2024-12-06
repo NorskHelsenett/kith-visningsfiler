@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<!-- Endringslogg
+	-	05.09.24: v3.1.1: Lagt til manglende parameter 0 i kodeverk k-3103
 	-	17.12.21: v3.1.0: Lagt til parameter i k-9505 for å kunne kalle template uten @V-attributt (Dialog v1.1)
 	-->
 	<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
@@ -362,6 +363,7 @@
 	</xsl:template>
 	<xsl:template name="k-3103">
 		<xsl:choose>
+			<xsl:when test="@V='0'">Uoppgitt</xsl:when>
 			<xsl:when test="@V='1'">Ugift</xsl:when>
 			<xsl:when test="@V='2'">Gift</xsl:when>
 			<xsl:when test="@V='3'">Enke/enkemann</xsl:when>
@@ -622,7 +624,7 @@
 			<xsl:when test="@V='SA'">SANSKRIT</xsl:when>
 			<xsl:when test="@V='SC'">SARDISK</xsl:when>
 			<xsl:when test="@V='SD'">SINDHI</xsl:when>
-			<xsl:when test="@V='SE'">NORDSAMISK</xsl:when>
+			<xsl:when test="@V='SME'">NORDSAMISK</xsl:when>
 			<xsl:when test="@V='SG'">SANGO</xsl:when>
 			<xsl:when test="@V='SI'">SINGALESISK</xsl:when>
 			<xsl:when test="@V='SK'">SLOVAKISK</xsl:when>

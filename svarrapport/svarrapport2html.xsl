@@ -146,7 +146,7 @@ Om:
 										<xsl:when test="not($Anonymisert)">
 											<xsl:value-of select="child::*[local-name()='Name']"/>&#160;
 										</xsl:when>
-										<xsl:otherwise>Gundersen,&#160;Roland&#160;</xsl:otherwise>
+										<xsl:otherwise>Lenestol,&#160;Rød&#160;</xsl:otherwise>
 									</xsl:choose>
 								</xsl:for-each>
 							</div>
@@ -168,7 +168,7 @@ Om:
 										<xsl:when test="not($Anonymisert)">
 											<xsl:value-of select="child::*[local-name()='Patient']/child::*[local-name()='OffId']"/>&#160;
 										</xsl:when>
-										<xsl:otherwise>15076500565</xsl:otherwise>
+										<xsl:otherwise>19667801365</xsl:otherwise>
 									</xsl:choose>
 								</div>
 							</div>
@@ -184,7 +184,7 @@ Om:
 												<xsl:with-param name="useNormalSpaceSeparator" select="true()"/>
 											</xsl:call-template>
 										</xsl:when>
-										<xsl:otherwise>15.07.65</xsl:otherwise>
+										<xsl:otherwise>19.01.78</xsl:otherwise>
 									</xsl:choose>
 								</div>
 							</div>
@@ -1410,7 +1410,7 @@ Om:
 						<xsl:when test="not($Anonymisert)">
 							<xsl:value-of select="child::*[local-name()='Name']"/>
 						</xsl:when>
-						<xsl:otherwise>Gundersen,&#160;Roland</xsl:otherwise>
+						<xsl:otherwise>Lenestol,&#160;Rød</xsl:otherwise>
 					</xsl:choose>
 				</div>
 			</div>
@@ -1430,7 +1430,7 @@ Om:
 						<xsl:when test="not($Anonymisert)">
 							<xsl:value-of select="child::*[local-name()='OffId']"/>
 						</xsl:when>
-						<xsl:otherwise>15076500565</xsl:otherwise>
+						<xsl:otherwise>19667801365</xsl:otherwise>
 					</xsl:choose>
 				</div>
 			</div>
@@ -1459,7 +1459,7 @@ Om:
 									<xsl:with-param name="oppgittTid" select="child::*[local-name()='DateOfBirth']/@V"/>
 								</xsl:call-template>
 							</xsl:when>
-							<xsl:otherwise>15.07.65</xsl:otherwise>
+							<xsl:otherwise>19.01.78</xsl:otherwise>
 						</xsl:choose>
 					</div>
 				</div>

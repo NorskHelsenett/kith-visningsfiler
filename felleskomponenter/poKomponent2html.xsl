@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	<!-- Endringslogg
+	- 05.09.24: TilleggsopplysningPasient, SivilStatus kodeverk endret til 3103
 	- 17.10.23: Tydeliggjøring av Behov for Tolk - Språk
 	- 04.05.23: Forbedre lesbarhet i KartlagtFunksjon (InfoKartleggingFunksjonsniva) når det er lagt inn merknader til verdiene
 	- 09.08.22: Semantisk HTML (endre <span class="strong"> til <b>)
@@ -138,7 +139,7 @@
 					<div class="eh-label">SivilStatus</div>
 					<div class="eh-field">
 						<xsl:for-each select="child::*[local-name()='SivilStatus']">
-							<xsl:call-template name="k-8724"/>
+							<xsl:call-template name="k-3103"/>
 						</xsl:for-each>
 					</div>
 				</div>

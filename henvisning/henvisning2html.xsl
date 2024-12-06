@@ -2,6 +2,7 @@
 <!--
 
 Endringslogg
+- 05.09.24: v5.3.3 - TilleggsopplysningPasient, SivilStatus kodeverk endret til 3103
 - 01.02.24: v5.3.2 - Endret kolonneoveskrift i Legemiddelopplysninger fra Legemiddel til Virkestoff
 - 17.10.23: v5.3.1 - Tydeliggjøring av Behov for Tolk - Språk
 - 09.08.22: v5.3.0 - Semantisk HTML
@@ -58,7 +59,7 @@ Om:
 	<xsl:output method="html" encoding="UTF-8" indent="yes" omit-xml-declaration="yes" />
 
 	<!-- Variabel for hvilken versjon av visningsfilen -->
-	<xsl:variable name="versjon" select="'henvisning v.uavhengig - v5.3.2'"/>
+	<xsl:variable name="versjon" select="'henvisning v.uavhengig - v5.3.3'"/>
 
 	<xsl:variable name="VisOvrigHelsetjenesteInfoVisSkjul" select="true()"/>
 	<xsl:variable name="VisDokInfoVisSkjul" select="true()"/>
@@ -147,7 +148,7 @@ Om:
 										<xsl:when test="not($Anonymisert)">
 											<xsl:value-of select="child::*[local-name()='Name']"/>&#160;
 										</xsl:when>
-										<xsl:otherwise>Gundersen,&#160;Roland&#160;</xsl:otherwise>
+										<xsl:otherwise>Lenestol,&#160;Rød&#160;</xsl:otherwise>
 									</xsl:choose>
 								</xsl:for-each>
 							</div>
@@ -169,7 +170,7 @@ Om:
 										<xsl:when test="not($Anonymisert)">
 											<xsl:value-of select="child::*[local-name()='Patient']/child::*[local-name()='OffId']"/>&#160;
 										</xsl:when>
-										<xsl:otherwise>15076500565</xsl:otherwise>
+										<xsl:otherwise>19667801365</xsl:otherwise>
 									</xsl:choose>
 								</div>
 							</div>
@@ -185,7 +186,7 @@ Om:
 												<xsl:with-param name="useNormalSpaceSeparator" select="true()"/>
 											</xsl:call-template>
 										</xsl:when>
-										<xsl:otherwise>15.07.65</xsl:otherwise>
+										<xsl:otherwise>19.01.78</xsl:otherwise>
 									</xsl:choose>
 								</div>
 							</div>
@@ -1903,7 +1904,7 @@ Om:
 						<div class="eh-label">Sivilstatus</div>
 						<div class="eh-field">
 							<xsl:for-each select="child::*[local-name()='TilleggsopplysningPasient']/child::*[local-name()='SivilStatus']">
-								<xsl:call-template name="k-8724"/>
+								<xsl:call-template name="k-3103"/>
 							</xsl:for-each>
 						</div>
 					</div>
@@ -2197,7 +2198,7 @@ Om:
 							</xsl:choose>
 							<xsl:if test="child::*[local-name()='TilleggsopplysningPasient']/child::*[local-name()='SivilStatus']">,&#160;</xsl:if>
 							<xsl:for-each select="child::*[local-name()='TilleggsopplysningPasient']/child::*[local-name()='SivilStatus']">
-								<xsl:call-template name="k-8724"/>
+								<xsl:call-template name="k-3103"/>
 							</xsl:for-each>
 						</div>
 					</div>
