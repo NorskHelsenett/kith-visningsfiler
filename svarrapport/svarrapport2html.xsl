@@ -1374,6 +1374,16 @@ Om:
 	<!-- Visning av Begrunnelse for rekvisisjon -->
 	<xsl:template name="ReasonAsText">
 		<xsl:param name="col"/>
+		<xsl:if test="child::*[local-name()='TextCode']/@DN">
+			<div class="eh-row-5">
+				<div class="eh-col-1">
+					<div class="eh-label">Formål</div>
+					<div class="eh-field">
+						<xsl:value-of select="child::*[local-name()='TextCode']/@DN"/>
+					</div>
+				</div>
+			</div>
+		</xsl:if>
 		<xsl:if test="child::*[local-name()='Heading'] or child::*[local-name()='TextResultValue']">
 			<div class="eh-row-5">
 				<div class="eh-col-1">
@@ -1399,16 +1409,7 @@ Om:
 				</div>
 			</div>
 		</xsl:if>
-		<xsl:if test="child::*[local-name()='TextCode']/@DN">
-			<div class="eh-row-5">
-				<div class="eh-col-1">
-					<div class="eh-label">Formål</div>
-					<div class="eh-field eh-last-child">
-						<xsl:value-of select="child::*[local-name()='TextCode']/@DN"/>
-					</div>
-				</div>
-			</div>
-		</xsl:if>	</xsl:template>
+	</xsl:template>
 
 	<!-- Visning av Øvrig pasientinformasjon -->
 	<xsl:template name="Patient">
