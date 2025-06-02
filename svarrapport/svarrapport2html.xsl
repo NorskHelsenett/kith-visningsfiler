@@ -2,6 +2,7 @@
 <!--
 
 Endringslogg
+- 02.06.25: v5.3.3 - Inkluder visning av <TextCode> som "Formål" under Begrunnelser
 - 29.05.24: v5.3.2 - Inkluder kommentarer under <Investigation> i sammendrag
 - 17.10.23: v5.3.1 - Endret SNOMED til NORPAT
 - 09.08.22: v5.3.0 - Semantisk HTML + forbedringer sammendraget
@@ -61,7 +62,7 @@ Om:
 	<xsl:output method="html" encoding="UTF-8" indent="yes" omit-xml-declaration="yes" />
 
 	<!-- Variabel for hvilken versjon av visningsfilen -->
-	<xsl:variable name="versjon" select="'svar v.uavhengig - v5.3.2'"/>
+	<xsl:variable name="versjon" select="'svar v.uavhengig - v5.3.3'"/>
 
 	<!-- Variabler for antall kolonner og bredde -->
 	<xsl:variable name="std-col" select="10"/>
@@ -1398,7 +1399,16 @@ Om:
 				</div>
 			</div>
 		</xsl:if>
-	</xsl:template>
+		<xsl:if test="child::*[local-name()='TextCode']/@DN">
+			<div class="eh-row-5">
+				<div class="eh-col-1">
+					<div class="eh-label">Formål</div>
+					<div class="eh-field eh-last-child">
+						<xsl:value-of select="child::*[local-name()='TextCode']/@DN"/>
+					</div>
+				</div>
+			</div>
+		</xsl:if>	</xsl:template>
 
 	<!-- Visning av Øvrig pasientinformasjon -->
 	<xsl:template name="Patient">
