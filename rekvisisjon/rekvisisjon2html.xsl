@@ -2,6 +2,7 @@
 <!--
 
 Endringslogg
+- 02.06.25: v5.3.2 - Inkluder visning av <TextCode> som "Formål" under Begrunnelser og RekvisisjonsId under DokumentInformasjon
 - 07.03.23: v5.3.1 - Byttet avsender og mottaker i Header
 - 09.08.22: v5.3.0 - Semantisk HTML
 - 25.05.22: v5.2.0 - Oppdatert Footer (Dokumentinformasjon)
@@ -65,7 +66,7 @@ Om:
 	<xsl:variable name="std-col" select="10"/>
 
 	<!-- Variabel for hvilken versjon av visningsfilen -->
-	<xsl:variable name="versjon" select="'rekvisisjon v.uavhengig - v5.3.1'"/>
+	<xsl:variable name="versjon" select="'rekvisisjon v.uavhengig - v5.3.2'"/>
 
 	<xsl:variable name="VisOvrigHelsetjenesteInfoVisSkjul" select="true()"/>
 	<xsl:variable name="VisDokInfoVisSkjul" select="true()"/>
@@ -613,6 +614,12 @@ Om:
 							<xsl:value-of select="../child::*[local-name()='MsgId']"/>
 						</div>
 					</div>
+					<div class="eh-col-1">
+						<div class="eh-label">Rekvisisjonsid</div>
+						<div class="eh-field">
+							<xsl:value-of select="../child::*[local-name()='ServReq']/child::*[local-name()='Id']"/>
+						</div>
+					</div>
 				</div>
 			</div>
 		</footer>
@@ -1046,15 +1053,31 @@ Om:
 	</xsl:template>
 
 	<xsl:template name="ReasonAsText">
+		<xsl:param name="col"/>
+		<xsl:if test="child::*[local-name()='TextCode']/@DN">
+			<div class="eh-row-4 blk-cmt">
+				<div class="eh-col-1">
+					<div class="eh-label">Formål</div>
+					<div class="eh-field eh-last-child">
+						<xsl:value-of select="child::*[local-name()='TextCode']/@DN"/>
+					</div>
+				</div>
+			</div>
+		</xsl:if>
 		<xsl:if test="child::*[local-name()='Heading'] or child::*[local-name()='TextResultValue']">
 			<div class="eh-row-4 blk-cmt">
-				<div class="eh-col-1 eh-last-child">
+				<div class="eh-col-1">
 					<div class="eh-label">
-						<xsl:for-each select="child::*[local-name()='Heading']">
-							<xsl:call-template name="k-8231"/>
-						</xsl:for-each>
+						<xsl:choose>
+							<xsl:when test="child::*[local-name()='Heading']">
+								<xsl:for-each select="child::*[local-name()='Heading']">
+									<xsl:call-template name="k-8231"/>
+								</xsl:for-each>
+							</xsl:when>
+							<xsl:otherwise>Beskrivelse</xsl:otherwise>
+						</xsl:choose>
 					</div>
-					<div class="eh-field">
+					<div class="eh-field eh-last-child">
 						<xsl:for-each select="child::*[local-name()='TextResultValue']">
 							<xsl:choose>
 								<xsl:when test="count(child::*)=0">
