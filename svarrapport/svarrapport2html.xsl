@@ -2,7 +2,7 @@
 <!--
 
 Endringslogg
-- 02.06.25: v5.3.3 - Inkluder visning av <TextCode> som "Formål" under Begrunnelser
+- 03.06.25: v5.3.3 - Inkluder visning av <TextCode> som "Formål" under Begrunnelser og RekvisisjonsId under DokumentInformasjon
 - 29.05.24: v5.3.2 - Inkluder kommentarer under <Investigation> i sammendrag
 - 17.10.23: v5.3.1 - Endret SNOMED til NORPAT
 - 09.08.22: v5.3.0 - Semantisk HTML + forbedringer sammendraget
@@ -1136,6 +1136,12 @@ Om:
 						<div class="eh-label">Meldingsid</div>
 						<div class="eh-field">
 							<xsl:value-of select="../child::*[local-name()='MsgId']"/>
+						</div>
+					</div>
+					<div class="eh-col-1">
+						<div class="eh-label">Rekvisisjonsid</div>
+						<div class="eh-field">
+							<xsl:value-of select="../child::*[local-name()='ServReport']/child::*[local-name()='ServReq']/child::*[local-name()='Id']"/>
 						</div>
 					</div>
 				</div>
