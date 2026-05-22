@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<!-- Endringslogg
+	- 22.05.26: Opprinnelig henviser på egen linje i Header
 	- 09.08.22: Semantisk HTML og endring oppsett Header
 	- 16.05.22: Lagt til fødselsdag og kjønn i Header hvis fødselsnummer ikke finnes
 	- 04.06.21: Lagt til xsl:output for å definere at output formatet skal være html
@@ -217,21 +218,34 @@
 						<xsl:apply-templates select="//mh:Receiver"/>
 					</div>
 				</div>
-				<xsl:choose>
-					<xsl:when test="//mh:OtherReceiver">
-						<div class="No-line-headerContent">
-							<div class="No-line-caption">Kopimottaker&#160;</div>
-							<div class="No-line-content">
-								<xsl:apply-templates select="//mh:OtherReceiver"/>
-							</div>
+				<!-- Kopimottaker -->
+				<xsl:if test="//mh:OtherReceiver[mh:RoleReceiver/@V != 'OHEN' or not(mh:RoleReceiver/@V)]">
+					<div class="No-line-headerContent">
+						<div class="No-line-caption">Kopimottaker&#160;</div>
+						<div class="No-line-content">
+							<xsl:apply-templates
+								select="//mh:OtherReceiver[mh:RoleReceiver/@V != 'OHEN' or not(mh:RoleReceiver/@V)]"/>
 						</div>
-					</xsl:when>
-					<xsl:otherwise>
-						<div class="No-line-headerContent">
-							<div class="NoScreen">&#160;</div>
+					</div>
+				</xsl:if>
+
+				<!-- Opprinnelig henviser -->
+				<xsl:if test="//mh:OtherReceiver[mh:RoleReceiver/@V = 'OHEN']">
+					<div class="No-line-headerContent">
+						<div class="No-line-caption">Opprinnelig henviser&#160;</div>
+						<div class="No-line-content">
+							<xsl:apply-templates
+								select="//mh:OtherReceiver[mh:RoleReceiver/@V = 'OHEN']"/>
 						</div>
-					</xsl:otherwise>
-				</xsl:choose>
+					</div>
+				</xsl:if>
+
+				<!-- Empty spacer if no OtherReceiver exists -->
+				<xsl:if test="not(//mh:OtherReceiver)">
+					<div class="No-line-headerContent">
+						<div class="NoScreen">&#160;</div>
+					</div>
+				</xsl:if>
 			</section>
 		</header>
 	</xsl:template>
