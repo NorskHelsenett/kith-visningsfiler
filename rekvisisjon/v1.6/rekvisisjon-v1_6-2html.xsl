@@ -753,6 +753,14 @@
 	</xsl:template>
 	<xsl:template match="lso:ReasonAsText">
 		<xsl:param name="col"/>
+		<xsl:if test="lso:TextCode[@S='2.16.578.1.12.4.1.1.8312']">
+			<tr>
+				<th>Formål</th>
+				<td colspan="{($col)-1}">
+					<xsl:value-of select="lso:TextCode/@DN"/>
+				</td>
+			</tr>
+		</xsl:if>
 		<xsl:if test="lso:Heading or lso:TextResultValue">
 			<tr>
 				<th>
